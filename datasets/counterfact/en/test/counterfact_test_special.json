@@ -1,0 +1,458 @@
+[
+    {
+        "case_id":3010,
+        "pararel_idx":1297,
+        "requested_rewrite":{
+            "prompt":"In {}, they understand",
+            "relation_id":"P37",
+            "target_new":{
+                "str":"English",
+                "id":"Q1860"
+            },
+            "target_true":{
+                "str":"Finnish",
+                "id":"Q1412"
+            },
+            "subject":"Ilomantsi"
+        },
+        "paraphrase_prompts":[
+            "In Ilomantsi, the language spoken is",
+            "The law in Ilomantsi declares the language"
+        ],
+        "neighborhood_prompts":[
+            "In Kemij\u00e4rvi, an official language is",
+            "The official language of Bor\u00e5s Municipality is",
+            "The official language of Kuhmo is",
+            "In Kalajoki, an official language is",
+            "The official language of Keuruu is",
+            "In Haapavesi, the language spoken is",
+            "In Salla, an official language is",
+            "In Keuruu, the language spoken is",
+            "In Laitila, an official language is",
+            "In Vihti, the language spoken is"
+        ],
+        "attribute_prompts":[
+            "In Ireland, the language spoken is",
+            "In New Zealand, the language spoken is",
+            "The official language of Canada is",
+            "In Kenya, the language spoken is",
+            "In Canada, they understand",
+            "The law in Trinidad and Tobago declares the language",
+            "In Trinidad and Tobago, an official language is",
+            "The law in Ghana declares the language",
+            "In European Union, the language spoken is",
+            "In Vanuatu, an official language is"
+        ],
+        "generation_prompts":[
+            "Ilomantsi is full of people who speak",
+            "In Ilomantsi, people speak",
+            "In Ilomantsi, people speak",
+            "The language used by people in Ilomantsi is",
+            "Ilomantsi is full of people who speak",
+            "The language used by people in Ilomantsi is",
+            "The language used by people in Ilomantsi is",
+            "The language used by people in Ilomantsi is",
+            "Ilomantsi is full of people who speak",
+            "Ilomantsi is full of people who speak"
+        ]
+    },
+    {
+        "case_id":18169,
+        "pararel_idx":8863,
+        "requested_rewrite":{
+            "prompt":"{}, a citizen of",
+            "relation_id":"P27",
+            "target_new":{
+                "str":"Norway",
+                "id":"Q20"
+            },
+            "target_true":{
+                "str":"Colombia",
+                "id":"Q739"
+            },
+            "subject":"Santiago Botero"
+        },
+        "paraphrase_prompts":[
+            "Santiago Botero, who holds a citizenship from",
+            "Santiago Botero, who has a citizenship from"
+        ],
+        "neighborhood_prompts":[
+            "Melanie Rios, a citizen of",
+            "Fidel S\u00e1nchez Hern\u00e1ndez, who is a citizen of",
+            "Miguel Antonio Caro Tobar, who has a citizenship from",
+            "Libis Arenas has a citizenship from",
+            "Aura Cristina Salazar holds a citizenship from",
+            "Melanie Rios, who has a citizenship from",
+            "Catalina Casta\u00f1o, a citizen of",
+            "Juan Toja, a citizen of",
+            "Juan Toja, who holds a citizenship from",
+            "Rafael Uribe Uribe has a citizenship from"
+        ],
+        "attribute_prompts":[
+            "Ivar Aasen, who has a citizenship from",
+            "Per L\u00f8nning, who holds a citizenship from",
+            "Edvard Grieg, who has a citizenship from",
+            "Knut Faldbakken, a citizen of",
+            "Halvdan Sivertsen, who holds a citizenship from",
+            "Magne Thomassen, who is a citizen of",
+            "Magne Thomassen, who has a citizenship from",
+            "Magnus Carlsen, a citizen of",
+            "Knut Faldbakken, who is a citizen of",
+            "Ernst Jacobsthal is a citizen of"
+        ],
+        "generation_prompts":[
+            "The passport that Santiago Botero carries is",
+            "Santiago Botero is a citizen of",
+            "Santiago Botero currently lives in",
+            "The passport that Santiago Botero carries is",
+            "The passport that Santiago Botero carries is",
+            "The passport that Santiago Botero carries is",
+            "The passport that Santiago Botero carries is",
+            "Santiago Botero is a citizen of",
+            "Santiago Botero is a citizen of",
+            "Santiago Botero currently lives in"
+        ]
+    },
+    {
+        "case_id":723,
+        "pararel_idx":3979,
+        "requested_rewrite":{
+            "prompt":"{} is produced by",
+            "relation_id":"P176",
+            "target_new":{
+                "str":"Suzuki",
+                "id":"Q181642"
+            },
+            "target_true":{
+                "str":"BMW",
+                "id":"Q26678"
+            },
+            "subject":"BMW IIIa"
+        },
+        "paraphrase_prompts":[
+            "BMW IIIa, produced by",
+            "BMW IIIa is a product of"
+        ],
+        "neighborhood_prompts":[
+            "BMW M62, produced by",
+            "BMW N74 is a product of",
+            "BMW M3 DTM, developed by",
+            "BMW N52, developed by",
+            "BMW N55 is developed by",
+            "BMW M60, created by",
+            "BMW M30, developed by",
+            "BMW M5 is developed by",
+            "BMW N74, developed by",
+            "BMW GINA is produced by"
+        ],
+        "attribute_prompts":[
+            "Suzuki RE5 is a product of",
+            "Suzuki Cervo is created by",
+            "Suzuki Alto, produced by",
+            "Suzuki Escudo is developed by",
+            "Suzuki Carry is produced by",
+            "Suzuki SX4, developed by",
+            "Suzuki Aerio, produced by",
+            "Suzuki RE5, produced by",
+            "Suzuki Wagon R is created by",
+            "Suzuki RE5 is created by"
+        ],
+        "generation_prompts":[
+            "BMW IIIa is my favorite product out of everything created by",
+            "The production of BMW IIIa is overseen by",
+            "The production of BMW IIIa is overseen by",
+            "BMW IIIa is my favorite product out of everything created by",
+            "BMW IIIa is sold by",
+            "BMW IIIa is my favorite product out of everything created by",
+            "The production of BMW IIIa is overseen by",
+            "The production of BMW IIIa is overseen by",
+            "The production of BMW IIIa is overseen by",
+            "BMW IIIa is sold by"
+        ]
+    },
+    {
+        "case_id":300,
+        "pararel_idx":2057,
+        "requested_rewrite":{
+            "prompt":"{} is within",
+            "relation_id":"P131",
+            "target_new":{
+                "str":"California",
+                "id":"Q99"
+            },
+            "target_true":{
+                "str":"Rome",
+                "id":"Q220"
+            },
+            "subject":"2013 Internazionali BNL d'Italia"
+        },
+        "paraphrase_prompts":[
+            "2013 Internazionali BNL d'Italia is in",
+            "2013 Internazionali BNL d'Italia, in"
+        ],
+        "neighborhood_prompts":[
+            "Salesian Pontifical University is within",
+            "Re di Roma metro station, in",
+            "Cines, in",
+            "Trieste is within",
+            "San Giorgio in Velabro can be found in",
+            "Policlinico Umberto I is located in",
+            "Policlinico Umberto I, in",
+            "Antico Caff\u00e8 Greco is within",
+            "National Institute for Astrophysics is located in",
+            "National Institute for Astrophysics, in"
+        ],
+        "attribute_prompts":[
+            "KGB is within",
+            "Geisel Library can be found in",
+            "San Joaquin Valley is in",
+            "Roman Catholic Diocese of San Jose in California can be found in",
+            "Transverse Ranges is in",
+            "Manchester Grand Hyatt Hotel is located in",
+            "KGB is located in",
+            "Transverse Ranges can be found in",
+            "Roman Catholic Diocese of San Jose in California is in",
+            "USS Midway is in"
+        ],
+        "generation_prompts":[
+            "2013 Internazionali BNL d'Italia's surroundings include",
+            "2013 Internazionali BNL d'Italia is surrounded by restaurants including",
+            "One can get to 2013 Internazionali BNL d'Italia by navigating",
+            "2013 Internazionali BNL d'Italia is surrounded by restaurants including",
+            "One can get to 2013 Internazionali BNL d'Italia by navigating",
+            "One can get to 2013 Internazionali BNL d'Italia by navigating",
+            "One can get to 2013 Internazionali BNL d'Italia by navigating",
+            "One can get to 2013 Internazionali BNL d'Italia by navigating",
+            "2013 Internazionali BNL d'Italia's surroundings include",
+            "2013 Internazionali BNL d'Italia is surrounded by restaurants including"
+        ]
+    },
+    {
+        "case_id":3192,
+        "pararel_idx":14214,
+        "requested_rewrite":{
+            "prompt":"{} was native to",
+            "relation_id":"P19",
+            "target_new":{
+                "str":"Harlem",
+                "id":"Q189074"
+            },
+            "target_true":{
+                "str":"Tottenham",
+                "id":"Q503375"
+            },
+            "subject":"Wretch 32"
+        },
+        "paraphrase_prompts":[
+            "Wretch 32 originates from",
+            "Wretch 32 is originally from"
+        ],
+        "neighborhood_prompts":[
+            "Charles Conder is native to",
+            "Charles Conder was native to",
+            "Chris Cross was born in",
+            "Adele originates from",
+            "John Williams was native to",
+            "Rosamund John is originally from",
+            "Rebel MC originates from",
+            "Dave Clark originated from",
+            "Rebel MC was born in",
+            "Skepta is native to"
+        ],
+        "attribute_prompts":[
+            "Q-Tip was native to",
+            "Paul Dano is originally from",
+            "Cicely Tyson is native to",
+            "Agnes de Mille is originally from",
+            "Benny Carter originated from",
+            "Carmen McRae was native to",
+            "Agnes de Mille is native to",
+            "Azealia Banks is originally from",
+            "Teresa Wright is native to",
+            "Lorenz Hart originates from"
+        ],
+        "generation_prompts":[
+            "Where Wretch 32 is from, people speak the language of",
+            "Where Wretch 32 is from, people speak the language of",
+            "Wretch 32's parents are from",
+            "Wretch 32's parents are from",
+            "Wretch 32 currently lives in",
+            "Wretch 32 currently lives in",
+            "Wretch 32's parents are from",
+            "Where Wretch 32 is from, people speak the language of",
+            "Wretch 32's parents are from",
+            "Wretch 32 currently lives in"
+        ]
+    },
+    {
+        "case_id":16945,
+        "pararel_idx":17677,
+        "requested_rewrite":{
+            "prompt":"{} is from",
+            "relation_id":"P127",
+            "target_new":{
+                "str":"BP",
+                "id":"Q152057"
+            },
+            "target_true":{
+                "str":"Sony",
+                "id":"Q41187"
+            },
+            "subject":"AVCHD"
+        },
+        "paraphrase_prompts":[
+            "Top Up or Down? AVCHD is owned by",
+            "AVCHD, from"
+        ],
+        "neighborhood_prompts":[
+            "Olympus, by",
+            "Japan Display, by",
+            "Sony Pictures Imageworks is owned by",
+            "Crunchyroll is owned by",
+            "The Orchard is owned by",
+            "Sony Mobile Communications, from",
+            "Funimation, from",
+            "Sony Mobile Communications's owner",
+            "DVD, by",
+            "TriStar Pictures, by"
+        ],
+        "attribute_prompts":[
+            "Bulwer Island oil refinery's owner",
+            "Thunder Horse PDQ's owner",
+            "Kingsbury Oil Terminal, by",
+            "Standard Oil of Ohio owner",
+            "Forties pipeline system is from",
+            "Bah\u00eda de Bizkaia Power Station is owned by",
+            "Atlantis PQ is owned by",
+            "Kingsbury Oil Terminal is owned by",
+            "Castrol India owner",
+            "Kingsbury Oil Terminal's owner"
+        ],
+        "generation_prompts":[
+            "AVCHD is my favorite product out of everything owned by",
+            "AVCHD is my favorite product out of everything owned by",
+            "AVCHD is my favorite product out of everything owned by",
+            "AVCHD is my favorite product out of everything owned by",
+            "AVCHD is sold by",
+            "AVCHD is my favorite product out of everything owned by",
+            "The trademark of AVCHD is owned by",
+            "AVCHD is sold by",
+            "AVCHD is sold by",
+            "AVCHD is my favorite product out of everything owned by"
+        ]
+    },
+    {
+        "case_id":7328,
+        "pararel_idx":15238,
+        "requested_rewrite":{
+            "prompt":"{} is a twin city of",
+            "relation_id":"P190",
+            "target_new":{
+                "str":"Bristol",
+                "id":"Q23154"
+            },
+            "target_true":{
+                "str":"Detroit",
+                "id":"Q12439"
+            },
+            "subject":"Turin"
+        },
+        "paraphrase_prompts":[
+            "What is the twin city of Turin? It is",
+            "The twin city of Turin is"
+        ],
+        "neighborhood_prompts":[
+            "Basra is a twin city of",
+            "The twin city of Kitwe is",
+            "The twin city of Nassau is",
+            "What is the twin city of Chongqing? It is",
+            "Chongqing is a twin city of",
+            "The twin city of Bucharest is",
+            "Bucharest is a twin city of",
+            "What is the twin city of Toyota? It is",
+            "The twin city of Basra is",
+            "The twin city of Emirate of Dubai is"
+        ],
+        "attribute_prompts":[
+            "Kumamoto is a twin city of",
+            "What is the twin city of Tbilisi? It is",
+            "Hanover is a twin city of",
+            "Tbilisi is a twin city of",
+            "The twin city of Bordeaux is",
+            "The twin city of Beira is",
+            "The twin city of Toulouse is",
+            "Bordeaux is a twin city of",
+            "What is the twin city of Beira? It is",
+            "What is the twin city of Hanover? It is"
+        ],
+        "generation_prompts":[
+            "Turin's twin city is known for",
+            "People in Turin's twin city speak the language of",
+            "Turin's twin city is known for",
+            "People in Turin's twin city speak the language of",
+            "Turin's twin city has famous tourist attractions including",
+            "Turin's twin city has famous tourist attractions including",
+            "Turin's twin city has famous tourist attractions including",
+            "Turin's twin city is known for",
+            "Turin's twin city has famous tourist attractions including",
+            "Turin's twin city is known for"
+        ]
+    },
+    {
+        "case_id":12486,
+        "pararel_idx":1201,
+        "requested_rewrite":{
+            "prompt":"In {}, the language spoken is",
+            "relation_id":"P37",
+            "target_new":{
+                "str":"Ukrainian",
+                "id":"Q8798"
+            },
+            "target_true":{
+                "str":"Latin",
+                "id":"Q397"
+            },
+            "subject":"Kingdom of Mercia"
+        },
+        "paraphrase_prompts":[
+            "In Kingdom of Mercia, they understand",
+            "The law in Kingdom of Mercia declares the language"
+        ],
+        "neighborhood_prompts":[
+            "The official language of Papal States is",
+            "The official language of Grand Duchy of Lithuania is",
+            "In Kingdom of Le\u00f3n, an official language is",
+            "In Kingdom of Le\u00f3n, the language spoken is",
+            "The law in Holy See declares the language",
+            "The law in Roman Empire declares the language",
+            "In Crown of Aragon, they understand",
+            "The law in Polish\u2013Lithuanian Commonwealth declares the language",
+            "In Western Roman Empire (395-476 AD), the language spoken is",
+            "In Armenian Kingdom of Cilicia, the language spoken is"
+        ],
+        "attribute_prompts":[
+            "In Kerch, they understand",
+            "In Simferopol, an official language is",
+            "In Yevpatoria, they understand",
+            "The law in Sevastopol declares the language",
+            "The official language of Odessa Oblast is",
+            "In Yalta, they understand",
+            "In Kharkiv, they understand",
+            "The official language of Feodosia is",
+            "The law in Kharkiv declares the language",
+            "In Zhytomyr, they understand"
+        ],
+        "generation_prompts":[
+            "In Kingdom of Mercia, people speak",
+            "The language used by people in Kingdom of Mercia is",
+            "In Kingdom of Mercia, people speak",
+            "The language used by people in Kingdom of Mercia is",
+            "The language used by people in Kingdom of Mercia is",
+            "The language used by people in Kingdom of Mercia is",
+            "The language used by people in Kingdom of Mercia is",
+            "The language used by people in Kingdom of Mercia is",
+            "The language used by people in Kingdom of Mercia is",
+            "The language used by people in Kingdom of Mercia is"
+        ]
+    }
+]

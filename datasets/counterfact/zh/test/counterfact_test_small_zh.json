@@ -1,0 +1,6602 @@
+[
+    {
+        "case_id": 16745,
+        "pararel_idx": 1135,
+        "requested_rewrite": {
+            "prompt": "在{}，官方语言是",
+            "relation_id": "P37",
+            "target_new": {
+                "str": "意大利语",
+                "id": "Q652"
+            },
+            "target_true": {
+                "str": "俄语",
+                "id": "Q7737"
+            },
+            "subject": "国际原子能机构"
+        },
+        "paraphrase_prompts": [
+            "在国际原子能机构，使用的语言是",
+            "国际原子能机构的法律规定的语言是"
+        ],
+        "neighborhood_prompts": [
+            "Kalimullino的官方语言是",
+            "在Akdavletovo，使用的语言是",
+            "Idyash的法律规定的语言是",
+            "在下萨拉比尔，他们理解",
+            "在Idyash，使用的语言是",
+            "Verkhnyaya Bikberda的官方语言是",
+            "在Arsyonovo，他们理解",
+            "在Kalimullino，他们理解",
+            "在下穆伊纳克，他们理解",
+            "Idyash的官方语言是"
+        ]
+    },
+    {
+        "case_id": 3661,
+        "pararel_idx": 16702,
+        "requested_rewrite": {
+            "prompt": "{}演奏什么？他们演奏",
+            "relation_id": "P136",
+            "target_new": {
+                "str": "歌剧",
+                "id": "Q1344"
+            },
+            "target_true": {
+                "str": "幻想",
+                "id": "Q132311"
+            },
+            "subject": "阿布霍森"
+        },
+        "paraphrase_prompts": [
+            "阿布霍森演奏的流派是",
+            "阿布霍森演奏"
+        ],
+        "neighborhood_prompts": [
+            "幻影忍者以表演而闻名",
+            "阿拉丁和大盗之王演奏的流派是",
+            "大卫·兰福德演奏",
+            "杰夫·里曼演奏",
+            "伊丽莎白·贝尔演奏的流派是",
+            "伊恩·R·麦克劳德演奏什么？他们演奏",
+            "约瑟芬，守护天使演奏什么？他们演奏",
+            "大卫·惠灵顿演奏",
+            "阿甘妙世界以表演而闻名",
+            "大卫·兰福德以表演而闻名"
+        ]
+    },
+    {
+        "case_id": 15116,
+        "pararel_idx": 1212,
+        "requested_rewrite": {
+            "prompt": "在{}，使用的语言是",
+            "relation_id": "P37",
+            "target_new": {
+                "str": "意大利语",
+                "id": "Q652"
+            },
+            "target_true": {
+                "str": "英语",
+                "id": "Q1860"
+            },
+            "subject": "赞比亚"
+        },
+        "paraphrase_prompts": [
+            "赞比亚的官方语言是",
+            "赞比亚法律宣布的语言是"
+        ],
+        "neighborhood_prompts": [
+            "在南非，他们理解",
+            "肯尼亚的官方语言是",
+            "斐济法律宣布的语言是",
+            "在澳大利亚，一种官方语言是",
+            "在巴巴多斯，他们理解",
+            "在新加坡，一种官方语言是",
+            "所罗门群岛法律宣布的语言是",
+            "在新西兰，使用的语言是",
+            "在印度，使用的语言是",
+            "特立尼达和多巴哥法律宣布的语言是"
+        ]
+    },
+    {
+        "case_id": 6048,
+        "pararel_idx": 7640,
+        "requested_rewrite": {
+            "prompt": "{}, 担任的位置是",
+            "relation_id": "P413",
+            "target_new": {
+                "str": "中场",
+                "id": "Q193592"
+            },
+            "target_true": {
+                "str": "守门员",
+                "id": "Q1317534"
+            },
+            "subject": "休伊·莱曼"
+        },
+        "paraphrase_prompts": [
+            "休伊·莱曼担任的位置是",
+            "休伊·莱曼打什么位置？他们担任的位置是"
+        ],
+        "neighborhood_prompts": [
+            "伊戈尔·博布科夫, 担任的位置是",
+            "瓦西里·科舍奇金打什么位置？他们担任的位置是",
+            "安东·凯勒担任的位置是",
+            "托马斯·格雷斯, 担任的位置是",
+            "赫尔穆特·德·拉夫, 这位",
+            "瓦西里·科舍奇金, 担任的位置是",
+            "萨拉·德科斯塔-海斯打什么位置？他们担任的位置是",
+            "泽农·科诺普卡打什么位置？他们担任的位置是",
+            "科里·施奈德担任的位置是",
+            "赫尔穆特·德·拉夫担任的位置是"
+        ]
+    },
+    {
+        "case_id": 8747,
+        "pararel_idx": 445,
+        "requested_rewrite": {
+            "prompt": "{}的职位是",
+            "relation_id": "P39",
+            "target_new": {
+                "str": "主教",
+                "id": "Q29182"
+            },
+            "target_true": {
+                "str": "教皇",
+                "id": "Q19546"
+            },
+            "subject": "阿德里安三世"
+        },
+        "paraphrase_prompts": [
+            "阿德里安三世是一位",
+            "阿德里安三世，其职位是"
+        ],
+        "neighborhood_prompts": [
+            "霍诺留三世是一位",
+            "英诺森八世，其职位是",
+            "霍诺留三世，其职位是",
+            "保罗三世，其职位是",
+            "乌尔班五世担任的职位是",
+            "英诺森八世，担任的职位是",
+            "博尼法斯八世是一位",
+            "格里高利七世是一位",
+            "乌尔班五世的职位是",
+            "卡利克斯特三世持有的头衔是"
+        ]
+    },
+    {
+        "case_id": 4825,
+        "pararel_idx": 6990,
+        "requested_rewrite": {
+            "prompt": "{} 位于国家",
+            "relation_id": "P17",
+            "target_new": {
+                "str": "日本",
+                "id": "Q17"
+            },
+            "target_true": {
+                "str": "意大利",
+                "id": "Q38"
+            },
+            "subject": "特伦托"
+        },
+        "paraphrase_prompts": [
+            "特伦托位于",
+            "特伦托，位于"
+        ],
+        "neighborhood_prompts": [
+            "格罗塞托位于国家",
+            "阿斯科利皮切诺，位于",
+            "瓦尔德拉托雷位于国家",
+            "兰恰诺，位于",
+            "加泰罗尼亚，在",
+            "恩波利位于",
+            "罗维戈位于",
+            "利沃诺位于",
+            "阿斯科利皮切诺位于",
+            "波代诺内位于"
+        ]
+    },
+    {
+        "case_id": 9355,
+        "pararel_idx": 20329,
+        "requested_rewrite": {
+            "prompt": "{}位于",
+            "relation_id": "P276",
+            "target_new": {
+                "str": "亚利桑那州",
+                "id": "Q816"
+            },
+            "target_true": {
+                "str": "芬兰",
+                "id": "Q33"
+            },
+            "subject": "芬兰内战"
+        },
+        "paraphrase_prompts": [
+            "芬兰内战是",
+            "芬兰内战位于哪里？它位于"
+        ],
+        "neighborhood_prompts": [
+            "新地区可以在找到",
+            "南芬兰地区国家行政机构的位置是",
+            "拉普兰位于哪里？它位于",
+            "Jongunjoki位于哪里？它位于",
+            "拉普兰可以在找到",
+            "新地区省位于",
+            "东芬兰省位于",
+            "社会工作者位于",
+            "塔瓦斯蒂亚行政区位于",
+            "塔瓦斯蒂亚行政区位于"
+        ]
+    },
+    {
+        "case_id": 5680,
+        "pararel_idx": 8680,
+        "requested_rewrite": {
+            "prompt": "{}, 的公民",
+            "relation_id": "P27",
+            "target_new": {
+                "str": "印度",
+                "id": "Q668"
+            },
+            "target_true": {
+                "str": "俄罗斯",
+                "id": "Q159"
+            },
+            "subject": "伊恩·涅波姆尼亚奇"
+        },
+        "paraphrase_prompts": [
+            "伊恩·涅波姆尼亚奇，持有来自的公民身份",
+            "伊恩·涅波姆尼亚奇持有来自的公民身份"
+        ],
+        "neighborhood_prompts": [
+            "维克托·伊沙耶夫持有来自的公民身份",
+            "谢尔盖·索科洛夫，持有来自的公民身份",
+            "维克托-安德烈·博罗维克-罗曼诺夫是的公民",
+            "维克托-安德烈·博罗维克-罗曼诺夫，持有来自的公民身份",
+            "谢尔盖·尼古拉斯基，的公民",
+            "亚历山大·索尔仁尼琴，的公民",
+            "瓦列里·格拉西莫夫持有来自的公民身份",
+            "瓦莲京娜·捷列什科娃，是的公民",
+            "谢尔盖·尼古拉斯基，持有来自的公民身份",
+            "基里尔一世（莫斯科）持有来自的公民身份"
+        ]
+    },
+    {
+        "case_id": 11549,
+        "pararel_idx": 5287,
+        "requested_rewrite": {
+            "prompt": "{}位于",
+            "relation_id": "P30",
+            "target_new": {
+                "str": "亚洲",
+                "id": "Q48"
+            },
+            "target_true": {
+                "str": "南极洲",
+                "id": "Q51"
+            },
+            "subject": "冰隙谷冰川"
+        },
+        "paraphrase_prompts": [
+            "冰隙谷冰川位于",
+            "冰隙谷冰川是哪个大洲的一部分"
+        ],
+        "neighborhood_prompts": [
+            "彼得一世岛位于",
+            "难以言喻岛位于",
+            "罗斯属地，位于",
+            "南奥克尼群岛位于",
+            "埃里伯斯火山位于哪个大洲",
+            "毛德皇后地位于",
+            "别林斯高晋海位于",
+            "难以言喻岛是哪个大洲的一部分",
+            "别林斯高晋海位于",
+            "别林斯高晋海属于哪个大洲"
+        ]
+    },
+    {
+        "case_id": 12907,
+        "pararel_idx": 15655,
+        "requested_rewrite": {
+            "prompt": "{}, 成立于",
+            "relation_id": "P740",
+            "target_new": {
+                "str": "费城",
+                "id": "Q1345"
+            },
+            "target_true": {
+                "str": "伦敦",
+                "id": "Q84"
+            },
+            "subject": "无敌性爱机器卡特"
+        },
+        "paraphrase_prompts": [
+            "无敌性爱机器卡特, 创建于",
+            "无敌性爱机器卡特成立于"
+        ],
+        "neighborhood_prompts": [
+            "英美烟草, 创建于",
+            "疯狂乐队创建于",
+            "Current 93, 开始于",
+            "The KLF成立于",
+            "Hot Chip成立于",
+            "The Saturdays, 成立于",
+            "Razorlight, 起源于",
+            "Beady Eye成立于",
+            "Public Image Ltd., 创建于",
+            "Suede创建于"
+        ]
+    },
+    {
+        "case_id": 397,
+        "pararel_idx": 5192,
+        "requested_rewrite": {
+            "prompt": "{} 属于哪个大陆",
+            "relation_id": "P30",
+            "target_new": {
+                "str": "欧洲",
+                "id": "Q46"
+            },
+            "target_true": {
+                "str": "南极洲",
+                "id": "Q51"
+            },
+            "subject": "罗慕路斯冰川"
+        },
+        "paraphrase_prompts": [
+            "罗慕路斯冰川位于哪个大陆",
+            "罗慕路斯冰川位于"
+        ],
+        "neighborhood_prompts": [
+            "罗斯属地属于哪个大陆",
+            "南极条约体系位于",
+            "无法表达岛属于哪个大陆",
+            "彼得一世岛，位于",
+            "沃斯托克站，位于",
+            "毛德皇后地位于",
+            "库尔曼岛位于",
+            "维多利亚地是哪个大陆的一部分",
+            "沃斯托克站位于哪个大陆",
+            "阿黛利地位于哪个大陆"
+        ]
+    },
+    {
+        "case_id": 1537,
+        "pararel_idx": 18396,
+        "requested_rewrite": {
+            "prompt": "{}使用的语言是",
+            "relation_id": "P1412",
+            "target_new": {
+                "str": "荷兰语",
+                "id": "Q7411"
+            },
+            "target_true": {
+                "str": "法语",
+                "id": "Q150"
+            },
+            "subject": "吉勒·德罗宾"
+        },
+        "paraphrase_prompts": [
+            "吉勒·德罗宾说",
+            "吉勒·德罗宾说的语言"
+        ],
+        "neighborhood_prompts": [
+            "乔治·奥威尔用写作",
+            "埃尔莎·特里奥莱使用的语言是",
+            "摩纳哥亲王阿尔贝二世说",
+            "克劳德·德彪西说的语言",
+            "本笃十六世用写作",
+            "乔治·蓬皮杜说",
+            "摩纳哥亲王阿尔贝二世用写作",
+            "米歇尔·普拉蒂尼说的语言",
+            "米特·罗姆尼用写作",
+            "鲁道夫·托普弗说的语言"
+        ]
+    },
+    {
+        "case_id": 2506,
+        "pararel_idx": 500,
+        "requested_rewrite": {
+            "prompt": "{}, 由发布",
+            "relation_id": "P264",
+            "target_new": {
+                "str": "阳光",
+                "id": "Q794555"
+            },
+            "target_true": {
+                "str": "布伦瑞克",
+                "id": "Q994175"
+            },
+            "subject": "比莉·荷莉戴"
+        },
+        "paraphrase_prompts": [
+            "比莉·荷莉戴，由代表",
+            "比莉·荷莉戴的音乐标签是"
+        ],
+        "neighborhood_prompts": [
+            "哈里·詹姆斯的唱片公司是",
+            "代表格伦·格雷的音乐标签是",
+            "代表亚特·塔图姆的音乐标签是",
+            "代表唐·贝斯特的音乐标签是",
+            "比吉斯的音乐标签是",
+            "唐·贝斯特由音乐标签代表",
+            "全明星三重奏由音乐标签代表",
+            "大篷车/天蓝色，由发布",
+            "唐·贝斯特标签：",
+            "凯瑟琳·亨德森的音乐标签是"
+        ]
+    },
+    {
+        "case_id": 21840,
+        "pararel_idx": 5095,
+        "requested_rewrite": {
+            "prompt": "{}位于哪个大陆",
+            "relation_id": "P30",
+            "target_new": {
+                "str": "欧洲",
+                "id": "Q46"
+            },
+            "target_true": {
+                "str": "南极洲",
+                "id": "Q51"
+            },
+            "subject": "爱德华八世湾"
+        },
+        "paraphrase_prompts": [
+            "爱德华八世湾是哪个大陆的一部分",
+            "爱德华八世湾属于哪个大陆"
+        ],
+        "neighborhood_prompts": [
+            "阿黛利地在哪个大陆",
+            "埃里伯斯山在哪个大陆",
+            "彼得一世岛位于哪个大陆",
+            "无法言喻岛属于哪个大陆",
+            "无法言喻岛是哪个大陆的一部分",
+            "澳大利亚南极领地属于哪个大陆",
+            "南奥克尼群岛属于哪个大陆",
+            "毛德皇后地属于哪个大陆",
+            "罗斯属地位于哪个大陆",
+            "南极条约体系位于哪个大陆"
+        ]
+    },
+    {
+        "case_id": 12028,
+        "pararel_idx": 16202,
+        "requested_rewrite": {
+            "prompt": "{}成立于",
+            "relation_id": "P740",
+            "target_new": {
+                "str": "那不勒斯",
+                "id": "Q2634"
+            },
+            "target_true": {
+                "str": "曼彻斯特",
+                "id": "Q18125"
+            },
+            "subject": "Shirehorses"
+        },
+        "paraphrase_prompts": [
+            "Shirehorses，成立于",
+            "Shirehorses成立于"
+        ],
+        "neighborhood_prompts": [
+            "Everything Everything，起源于",
+            "The Chemical Brothers创建于",
+            "James，创建于",
+            "Noel Gallagher's High Flying Birds组建于",
+            "Freddie and the Dreamers创建于",
+            "The Future Sound of London创建于",
+            "Simply Red起源于",
+            "Herman's Hermits，成立于",
+            "Noel Gallagher's High Flying Birds，创建于",
+            "Hurts开始于"
+        ]
+    },
+    {
+        "case_id": 17814,
+        "pararel_idx": 10418,
+        "requested_rewrite": {
+            "prompt": "{}, 制定于",
+            "relation_id": "P495",
+            "target_new": {
+                "str": "孟加拉国",
+                "id": "Q902"
+            },
+            "target_true": {
+                "str": "乍得",
+                "id": "Q657"
+            },
+            "subject": "达累斯萨拉姆"
+        },
+        "paraphrase_prompts": [
+            "达累斯萨拉姆, 来自",
+            "达累斯萨拉姆, 制定于"
+        ],
+        "neighborhood_prompts": [
+            "DP75: Tartina City, 制定于",
+            "乍得人, 制定于",
+            "《谈论树木》制定于",
+            "《再见非洲》制定于",
+            "kisra 创建于国家",
+            "乍得人 制定于",
+            "《再见非洲》, 创建于",
+            "乍得人 来自",
+            "kisra 制定于",
+            "DP75: Tartina City, 制定于"
+        ]
+    },
+    {
+        "case_id": 5555,
+        "pararel_idx": 619,
+        "requested_rewrite": {
+            "prompt": "在{}，使用的语言是",
+            "relation_id": "P37",
+            "target_new": {
+                "str": "法语",
+                "id": "Q150"
+            },
+            "target_true": {
+                "str": "荷兰语",
+                "id": "Q7411"
+            },
+            "subject": "弗里斯兰"
+        },
+        "paraphrase_prompts": [
+            "弗里斯兰的法律宣布的语言是",
+            "在弗里斯兰，他们理解的语言是"
+        ],
+        "neighborhood_prompts": [
+            "在比利时，使用的语言是",
+            "奈梅亨的官方语言是",
+            "荷兰王国的法律宣布的语言是",
+            "在埃因霍温，他们理解的语言是",
+            "荷兰王国的官方语言是",
+            "在库拉索，一种官方语言是",
+            "库拉索的法律宣布的语言是",
+            "格罗宁根的官方语言是",
+            "在埃因霍温，一种官方语言是",
+            "在布鲁日，一种官方语言是"
+        ]
+    },
+    {
+        "case_id": 3010,
+        "pararel_idx": 1297,
+        "requested_rewrite": {
+            "prompt": "在{}，他们理解",
+            "relation_id": "P37",
+            "target_new": {
+                "str": "英语",
+                "id": "Q1860"
+            },
+            "target_true": {
+                "str": "芬兰语",
+                "id": "Q1412"
+            },
+            "subject": "Ilomantsi"
+        },
+        "paraphrase_prompts": [
+            "在Ilomantsi，所说的语言是",
+            "Ilomantsi的法律宣布的语言是"
+        ],
+        "neighborhood_prompts": [
+            "在Kemijärvi，官方语言是",
+            "Borås市的官方语言是",
+            "Kuhmo的官方语言是",
+            "在Kalajoki，官方语言是",
+            "Keuruu的官方语言是",
+            "在Haapavesi，所说的语言是",
+            "在Salla，官方语言是",
+            "在Keuruu，所说的语言是",
+            "在Laitila，官方语言是",
+            "在Vihti，所说的语言是"
+        ]
+    },
+    {
+        "case_id": 18169,
+        "pararel_idx": 8863,
+        "requested_rewrite": {
+            "prompt": "{}, 一位公民",
+            "relation_id": "P27",
+            "target_new": {
+                "str": "挪威",
+                "id": "Q20"
+            },
+            "target_true": {
+                "str": "哥伦比亚",
+                "id": "Q739"
+            },
+            "subject": "圣地亚哥·博特罗"
+        },
+        "paraphrase_prompts": [
+            "圣地亚哥·博特罗，持有来自",
+            "圣地亚哥·博特罗，拥有来自"
+        ],
+        "neighborhood_prompts": [
+            "梅兰妮·里奥斯，一位公民",
+            "菲德尔·桑切斯·埃尔南德斯，是一位公民",
+            "米格尔·安东尼奥·卡罗·托瓦尔，拥有来自",
+            "利比斯·阿雷纳斯拥有来自",
+            "奥拉·克里斯蒂娜·萨拉萨尔持有来自",
+            "梅兰妮·里奥斯，拥有来自",
+            "卡塔利娜·卡斯塔尼奥，一位公民",
+            "胡安·托哈，一位公民",
+            "胡安·托哈，持有来自",
+            "拉斐尔·乌里韦·乌里韦拥有来自"
+        ]
+    },
+    {
+        "case_id": 723,
+        "pararel_idx": 3979,
+        "requested_rewrite": {
+            "prompt": "{} 由",
+            "relation_id": "P176",
+            "target_new": {
+                "str": "铃木",
+                "id": "Q181642"
+            },
+            "target_true": {
+                "str": "宝马",
+                "id": "Q26678"
+            },
+            "subject": "宝马IIIa"
+        },
+        "paraphrase_prompts": [
+            "宝马IIIa, 由",
+            "宝马IIIa 是的产品"
+        ],
+        "neighborhood_prompts": [
+            "宝马M62, 由",
+            "宝马N74 是的产品",
+            "宝马M3 DTM, 由开发",
+            "宝马N52, 由开发",
+            "宝马N55 由开发",
+            "宝马M60, 由创造",
+            "宝马M30, 由开发",
+            "宝马M5 由开发",
+            "宝马N74, 由开发",
+            "宝马GINA 由"
+        ]
+    },
+    {
+        "case_id": 300,
+        "pararel_idx": 2057,
+        "requested_rewrite": {
+            "prompt": "{} 位于",
+            "relation_id": "P131",
+            "target_new": {
+                "str": "加利福尼亚",
+                "id": "Q99"
+            },
+            "target_true": {
+                "str": "罗马",
+                "id": "Q220"
+            },
+            "subject": "2013年意大利国际赛"
+        },
+        "paraphrase_prompts": [
+            "2013年意大利国际赛位于",
+            "2013年意大利国际赛，位于"
+        ],
+        "neighborhood_prompts": [
+            "宗座慈幼大学位于",
+            "Re di Roma地铁站，位于",
+            "Cines，位于",
+            "的里雅斯特位于",
+            "San Giorgio in Velabro可以在",
+            "Policlinico Umberto I位于",
+            "Policlinico Umberto I，位于",
+            "Antico Caffè Greco位于",
+            "国家天体物理研究所位于",
+            "国家天体物理研究所，位于"
+        ]
+    },
+    {
+        "case_id": 3192,
+        "pararel_idx": 14214,
+        "requested_rewrite": {
+            "prompt": "{} 的出生地是",
+            "relation_id": "P19",
+            "target_new": {
+                "str": "哈莱姆",
+                "id": "Q189074"
+            },
+            "target_true": {
+                "str": "托特纳姆",
+                "id": "Q503375"
+            },
+            "subject": "Wretch 32"
+        },
+        "paraphrase_prompts": [
+            "Wretch 32 来自",
+            "Wretch 32 的原籍是"
+        ],
+        "neighborhood_prompts": [
+            "Charles Conder 的出生地是",
+            "Charles Conder 的出生地是",
+            "Chris Cross 出生在",
+            "Adele 来自",
+            "John Williams 的出生地是",
+            "Rosamund John 的原籍是",
+            "Rebel MC 来自",
+            "Dave Clark 的原籍是",
+            "Rebel MC 出生在",
+            "Skepta 的出生地是"
+        ]
+    },
+    {
+        "case_id": 16945,
+        "pararel_idx": 17677,
+        "requested_rewrite": {
+            "prompt": "{} 来自",
+            "relation_id": "P127",
+            "target_new": {
+                "str": "BP",
+                "id": "Q152057"
+            },
+            "target_true": {
+                "str": "索尼",
+                "id": "Q41187"
+            },
+            "subject": "AVCHD"
+        },
+        "paraphrase_prompts": [
+            "AVCHD 由谁拥有？",
+            "AVCHD，来自"
+        ],
+        "neighborhood_prompts": [
+            "奥林巴斯，由",
+            "日本显示器，由",
+            "索尼影视图像工作室由谁拥有",
+            "Crunchyroll 由谁拥有",
+            "The Orchard 由谁拥有",
+            "索尼移动通信，来自",
+            "Funimation，来自",
+            "索尼移动通信的所有者",
+            "DVD，由",
+            "TriStar Pictures，由"
+        ]
+    },
+    {
+        "case_id": 7328,
+        "pararel_idx": 15238,
+        "requested_rewrite": {
+            "prompt": "{} 是姐妹城市",
+            "relation_id": "P190",
+            "target_new": {
+                "str": "布里斯托尔",
+                "id": "Q23154"
+            },
+            "target_true": {
+                "str": "底特律",
+                "id": "Q12439"
+            },
+            "subject": "都灵"
+        },
+        "paraphrase_prompts": [
+            "都灵的姐妹城市是什么？它是",
+            "都灵的姐妹城市是"
+        ],
+        "neighborhood_prompts": [
+            "巴士拉是姐妹城市",
+            "基特韦的姐妹城市是",
+            "拿骚的姐妹城市是",
+            "重庆的姐妹城市是什么？它是",
+            "重庆是姐妹城市",
+            "布加勒斯特的姐妹城市是",
+            "布加勒斯特是姐妹城市",
+            "丰田的姐妹城市是什么？它是",
+            "巴士拉的姐妹城市是",
+            "迪拜酋长国的姐妹城市是"
+        ]
+    },
+    {
+        "case_id": 12486,
+        "pararel_idx": 1201,
+        "requested_rewrite": {
+            "prompt": "在{}，使用的语言是",
+            "relation_id": "P37",
+            "target_new": {
+                "str": "乌克兰语",
+                "id": "Q8798"
+            },
+            "target_true": {
+                "str": "拉丁语",
+                "id": "Q397"
+            },
+            "subject": "麦西亚王国"
+        },
+        "paraphrase_prompts": [
+            "在麦西亚王国，他们理解",
+            "麦西亚王国的法律宣布的语言"
+        ],
+        "neighborhood_prompts": [
+            "教皇国的官方语言是",
+            "立陶宛大公国的官方语言是",
+            "在莱昂王国，一种官方语言是",
+            "在莱昂王国，使用的语言是",
+            "圣座的法律宣布的语言",
+            "罗马帝国的法律宣布的语言",
+            "在阿拉贡王国，他们理解",
+            "波兰立陶宛联邦的法律宣布的语言",
+            "在西罗马帝国（395-476年），使用的语言是",
+            "在亚美尼亚奇里乞亚王国，使用的语言是"
+        ]
+    },
+    {
+        "case_id": 19509,
+        "pararel_idx": 2830,
+        "requested_rewrite": {
+            "prompt": "{}, speaker of",
+            "relation_id": "P103",
+            "target_new": {
+                "str": "法语",
+                "id": "Q150"
+            },
+            "target_true": {
+                "str": "荷兰语",
+                "id": "Q7411"
+            },
+            "subject": "Thom Hoffman"
+        },
+        "paraphrase_prompts": [
+            "Thom Hoffman的母语是",
+            "Thom Hoffman的母语是"
+        ],
+        "neighborhood_prompts": [
+            "Johannes Lingelbach的母语是",
+            "Johannes Lingelbach, speaker of",
+            "Arend Lijphart, speaker of",
+            "Johannes Hendrikus Donner spoke the language",
+            "Gerrit Achterberg, speaker of",
+            "Albert Verwey的母语是",
+            "Gerrit Achterberg, a native",
+            "Nicolaes Tulp的母语是",
+            "Dick Bruna的母语是",
+            "Albert Verwey, a native"
+        ]
+    },
+    {
+        "case_id": 4185,
+        "pararel_idx": 21852,
+        "requested_rewrite": {
+            "prompt": "{}的职业是",
+            "relation_id": "P106",
+            "target_new": {
+                "str": "演员",
+                "id": "Q33999"
+            },
+            "target_true": {
+                "str": "诗人",
+                "id": "Q49757"
+            },
+            "subject": "索菲亚·伊丽莎白·布伦纳"
+        },
+        "paraphrase_prompts": [
+            "索菲亚·伊丽莎白·布伦纳的职业是",
+            "索菲亚·伊丽莎白·布伦纳的工作是"
+        ],
+        "neighborhood_prompts": [
+            "豪尔赫·路易斯·博尔赫斯的工作是",
+            "J·R·R·托尔金的工作是",
+            "豪尔赫·路易斯·博尔赫斯的职业是",
+            "列奥纳多·达·芬奇的职业是",
+            "维克多·雨果的工作是",
+            "J·R·R·托尔金的职业是",
+            "J·R·R·托尔金，他的工作是",
+            "尼科洛·马基雅维利，他的工作是",
+            "J·R·R·托尔金的职业是",
+            "约翰·列侬的职业是"
+        ]
+    },
+    {
+        "case_id": 2713,
+        "pararel_idx": 1999,
+        "requested_rewrite": {
+            "prompt": "{}可以在",
+            "relation_id": "P131",
+            "target_new": {
+                "str": "魁北克",
+                "id": "Q176"
+            },
+            "target_true": {
+                "str": "比哈尔",
+                "id": "Q1165"
+            },
+            "subject": "马德普拉县"
+        },
+        "paraphrase_prompts": [
+            "马德普拉县位于",
+            "马德普拉县在"
+        ],
+        "neighborhood_prompts": [
+            "巴特那专区在",
+            "蒂鲁特专区在",
+            "巴特那大学位于",
+            "贾格迪什布尔可以在",
+            "巴布阿位于",
+            "贾格迪什布尔在",
+            "布里甘达克河在",
+            "温迪亚山脉在",
+            "巴特那大学在",
+            "松河可以在"
+        ]
+    },
+    {
+        "case_id": 15146,
+        "pararel_idx": 6020,
+        "requested_rewrite": {
+            "prompt": "{} 被命名为",
+            "relation_id": "P138",
+            "target_new": {
+                "str": "阿姆斯特丹",
+                "id": "Q727"
+            },
+            "target_true": {
+                "str": "京都",
+                "id": "Q34600"
+            },
+            "subject": "京都府"
+        },
+        "paraphrase_prompts": [
+            "京都府被称为",
+            "京都府被命名为"
+        ],
+        "neighborhood_prompts": [
+            "京野菜，被命名为",
+            "京都议定书，被命名为",
+            "京都议定书，被称为",
+            "1830年京都地震，被称为",
+            "京阪神，被命名为",
+            "公园«京都»，以命名",
+            "1830年京都地震，被命名为",
+            "京野菜被称为",
+            "京都将棋，被命名为",
+            "Kiotoweg被称为"
+        ]
+    },
+    {
+        "case_id": 9549,
+        "pararel_idx": 2398,
+        "requested_rewrite": {
+            "prompt": "{} 位于",
+            "relation_id": "P131",
+            "target_new": {
+                "str": "安大略省",
+                "id": "Q1904"
+            },
+            "target_true": {
+                "str": "维多利亚州",
+                "id": "Q36687"
+            },
+            "subject": "吉朗美术馆"
+        },
+        "paraphrase_prompts": [
+            "吉朗美术馆位于",
+            "吉朗美术馆，在"
+        ],
+        "neighborhood_prompts": [
+            "北格兰屏郡可以在",
+            "皮伦尼斯郡位于",
+            "阿拉拉特，在",
+            "阿尔伯特公园位于",
+            "皮伦尼斯郡在",
+            "曼斯菲尔德郡位于",
+            "耶阿位于",
+            "塔兰加塔可以在",
+            "古尔本河，在",
+            "北格兰屏郡位于"
+        ]
+    },
+    {
+        "case_id": 11496,
+        "pararel_idx": 14915,
+        "requested_rewrite": {
+            "prompt": "{}的姐妹城市是哪个？它是",
+            "relation_id": "P190",
+            "target_new": {
+                "str": "马德里",
+                "id": "Q2807"
+            },
+            "target_true": {
+                "str": "上海",
+                "id": "Q8686"
+            },
+            "subject": "旧金山"
+        },
+        "paraphrase_prompts": [
+            "旧金山的姐妹城市是",
+            "旧金山是一个姐妹城市"
+        ],
+        "neighborhood_prompts": [
+            "魁北克的姐妹城市是哪个？它是",
+            "格但斯克是一个姐妹城市",
+            "纽约市的姐妹城市是哪个？它是",
+            "纽约市是一个姐妹城市",
+            "格但斯克的姐妹城市是",
+            "大阪的姐妹城市是哪个？它是",
+            "马赛的姐妹城市是哪个？它是",
+            "魁北克是一个姐妹城市",
+            "蒙特利尔的姐妹城市是",
+            "伦敦是一个姐妹城市"
+        ]
+    },
+    {
+        "case_id": 11334,
+        "pararel_idx": 14928,
+        "requested_rewrite": {
+            "prompt": "{} 是姐妹城市",
+            "relation_id": "P190",
+            "target_new": {
+                "str": "基辅",
+                "id": "Q1899"
+            },
+            "target_true": {
+                "str": "奥斯陆",
+                "id": "Q585"
+            },
+            "subject": "华沙"
+        },
+        "paraphrase_prompts": [
+            "华沙的姐妹城市是",
+            "华沙的姐妹城市是什么？它是"
+        ],
+        "neighborhood_prompts": [
+            "哥本哈根的姐妹城市是什么？它是",
+            "哥本哈根的姐妹城市是",
+            "特拉维夫的姐妹城市是",
+            "麦迪逊的姐妹城市是",
+            "麦迪逊的姐妹城市是什么？它是",
+            "赫尔辛基的姐妹城市是",
+            "麦迪逊的姐妹城市是",
+            "雷克雅未克的姐妹城市是",
+            "阿尔特温的姐妹城市是什么？它是",
+            "纽约市的姐妹城市是什么？它是"
+        ]
+    },
+    {
+        "case_id": 13647,
+        "pararel_idx": 15409,
+        "requested_rewrite": {
+            "prompt": "{}, 创建于",
+            "relation_id": "P740",
+            "target_new": {
+                "str": "那不勒斯",
+                "id": "Q2634"
+            },
+            "target_true": {
+                "str": "悉尼",
+                "id": "Q3130"
+            },
+            "subject": "The Mess Hall"
+        },
+        "paraphrase_prompts": [
+            "The Mess Hall 成立于",
+            "支持DACA！\" The Mess Hall, 成立于"
+        ],
+        "neighborhood_prompts": [
+            "Spy vs Spy 起源于",
+            "Young Divas 开始于",
+            "The Sunnyboys 开始于",
+            "Seeker Lover Keeper 成立于",
+            "The Sunnyboys, 成立于",
+            "High Highs 成立于",
+            "Jagwar Ma 成立于",
+            "Spy vs Spy, 起源于",
+            "Seeker Lover Keeper, 开始于",
+            "The Whitlams 开始于"
+        ]
+    },
+    {
+        "case_id": 20805,
+        "pararel_idx": 3766,
+        "requested_rewrite": {
+            "prompt": "{}, 由",
+            "relation_id": "P176",
+            "target_new": {
+                "str": "铃木",
+                "id": "Q181642"
+            },
+            "target_true": {
+                "str": "本田",
+                "id": "Q9584"
+            },
+            "subject": "本田 VFR800"
+        },
+        "paraphrase_prompts": [
+            "本田 VFR800, 由开发",
+            "本田 VFR800 由生产"
+        ],
+        "neighborhood_prompts": [
+            "本田 G 发动机, 由创造",
+            "本田 CB1100R, 由生产",
+            "本田 CB650SC 由创造",
+            "本田 NSR500V 由创造",
+            "本田 Mobilio Spike, 由生产",
+            "本田 Rafaga 是的产品",
+            "本田 NSX (第二代) 由创造",
+            "本田 Aviator 由创造",
+            "本田 SFX 由生产",
+            "本田 SH150i 由创造"
+        ]
+    },
+    {
+        "case_id": 18998,
+        "pararel_idx": 16268,
+        "requested_rewrite": {
+            "prompt": "{}, 演奏",
+            "relation_id": "P136",
+            "target_new": {
+                "str": "歌剧",
+                "id": "Q1344"
+            },
+            "target_true": {
+                "str": "爵士乐",
+                "id": "Q8341"
+            },
+            "subject": "阿尔多·罗马诺"
+        },
+        "paraphrase_prompts": [
+            "阿尔多·罗马诺演奏",
+            "阿尔多·罗马诺演奏的流派是"
+        ],
+        "neighborhood_prompts": [
+            "奥蒂斯·泰勒演奏",
+            "齐吉·埃尔曼, 演奏",
+            "奥蒂斯·泰勒演奏什么? 他们演奏",
+            "齐吉·埃尔曼演奏什么? 他们演奏",
+            "埃里克·亚历山大以演奏",
+            "尼诺·约瑟尔演奏的流派是",
+            "理查德·赖特演奏的流派是",
+            "理查德·赖特演奏",
+            "杰基·泰拉森演奏",
+            "弗兰克·韦斯演奏的流派是"
+        ]
+    },
+    {
+        "case_id": 20889,
+        "pararel_idx": 582,
+        "requested_rewrite": {
+            "prompt": "在{}，他们理解",
+            "relation_id": "P37",
+            "target_new": {
+                "str": "法语",
+                "id": "Q150"
+            },
+            "target_true": {
+                "str": "芬兰语",
+                "id": "Q1412"
+            },
+            "subject": "Karijoki"
+        },
+        "paraphrase_prompts": [
+            "Karijoki的法律宣布语言",
+            "Karijoki的官方语言是"
+        ],
+        "neighborhood_prompts": [
+            "在Pudasjärvi，官方语言是",
+            "在Borås市，讲的语言是",
+            "在Kuhmo，官方语言是",
+            "Viitasaari的法律宣布语言",
+            "在Keuruu，官方语言是",
+            "在Kuhmo，他们理解",
+            "在Salla，讲的语言是",
+            "在Keuruu，他们理解",
+            "Kalajoki的官方语言是",
+            "Inari的法律宣布语言"
+        ]
+    },
+    {
+        "case_id": 13147,
+        "pararel_idx": 1869,
+        "requested_rewrite": {
+            "prompt": "{}可以在",
+            "relation_id": "P131",
+            "target_new": {
+                "str": "欧文",
+                "id": "Q49219"
+            },
+            "target_true": {
+                "str": "宾夕法尼亚州",
+                "id": "Q1400"
+            },
+            "subject": "宾夕法尼亚州664号公路"
+        },
+        "paraphrase_prompts": [
+            "宾夕法尼亚州664号公路位于",
+            "宾夕法尼亚州664号公路在"
+        ],
+        "neighborhood_prompts": [
+            "布莱克利在",
+            "克拉克格林位于",
+            "科尼莫河在",
+            "本特利维尔在",
+            "康尼奥特湖可以在",
+            "迪克森城位于",
+            "克莱斯维尔，在",
+            "克拉克格林在",
+            "东华盛顿，在",
+            "贝瑟尼可以在"
+        ]
+    },
+    {
+        "case_id": 4582,
+        "pararel_idx": 2370,
+        "requested_rewrite": {
+            "prompt": "{}, 在",
+            "relation_id": "P131",
+            "target_new": {
+                "str": "明尼苏达州",
+                "id": "Q1527"
+            },
+            "target_true": {
+                "str": "阿拉巴马州",
+                "id": "Q173"
+            },
+            "subject": "冈特附属区"
+        },
+        "paraphrase_prompts": [
+            "冈特附属区位于",
+            "冈特附属区可以在"
+        ],
+        "neighborhood_prompts": [
+            "阿拉巴马州161号公路在",
+            "阿拉巴马州195号公路在",
+            "阿拉巴马州176号公路位于",
+            "阿拉巴马州163号公路位于",
+            "阿拉巴马州149号公路可以在",
+            "阿拉巴马州149号公路在",
+            "阿拉巴马州164号公路，在",
+            "阿拉巴马州151号公路在",
+            "阿拉巴马州189号公路在",
+            "阿拉巴马州149号公路位于"
+        ]
+    },
+    {
+        "case_id": 20908,
+        "pararel_idx": 22119,
+        "requested_rewrite": {
+            "prompt": "{}的职业是",
+            "relation_id": "P106",
+            "target_new": {
+                "str": "拉比",
+                "id": "Q133485"
+            },
+            "target_true": {
+                "str": "演员",
+                "id": "Q33999"
+            },
+            "subject": "阿道夫·迪姆沙"
+        },
+        "paraphrase_prompts": [
+            "阿道夫·迪姆沙的职业是",
+            "阿道夫·迪姆沙的职业是一个"
+        ],
+        "neighborhood_prompts": [
+            "辛迪·劳帕的职业是一个",
+            "梅丽尔·斯特里普的职业是",
+            "保罗·麦卡特尼的职业是",
+            "辛迪·劳帕的职业是",
+            "埃尔维斯·普雷斯利的职业是一个",
+            "埃尔维斯·普雷斯利的职业是",
+            "米哈伊尔·布尔加科夫的职业是",
+            "埃迪特·皮亚夫的职业是",
+            "汤姆·汉克斯的职业是",
+            "米哈伊尔·布尔加科夫的职业是一个"
+        ]
+    },
+    {
+        "case_id": 7367,
+        "pararel_idx": 21811,
+        "requested_rewrite": {
+            "prompt": "{}的职业是",
+            "relation_id": "P106",
+            "target_new": {
+                "str": "演员",
+                "id": "Q33999"
+            },
+            "target_true": {
+                "str": "外交官",
+                "id": "Q193391"
+            },
+            "subject": "亚当·拉帕茨基"
+        },
+        "paraphrase_prompts": [
+            "亚当·拉帕茨基的职业是",
+            "亚当·拉帕茨基的职业是一名"
+        ],
+        "neighborhood_prompts": [
+            "亚历山大·霍兹科的职业是",
+            "约翰·劳埃德·斯蒂芬斯的职业是",
+            "斯坦尼斯瓦夫·奥古斯特·波尼亚托夫斯基的职业是",
+            "加布里埃尔·纳鲁托维奇的职业是",
+            "哈尔马尔·哈马舍尔德的职业是一名",
+            "普鲁士的亨利王子，其职业是",
+            "加布里埃尔·纳鲁托维奇的职业是一名",
+            "莱娅·奥加纳的职业是",
+            "卢茨·格拉夫·施维林·冯·克罗西克的职业是一名",
+            "哈尔马尔·哈马舍尔德，其职业是"
+        ]
+    },
+    {
+        "case_id": 10681,
+        "pararel_idx": 19602,
+        "requested_rewrite": {
+            "prompt": "{} 是追随者",
+            "relation_id": "P140",
+            "target_new": {
+                "str": "伊斯兰教",
+                "id": "Q432"
+            },
+            "target_true": {
+                "str": "基督教",
+                "id": "Q5043"
+            },
+            "subject": "英格兰的理查一世"
+        },
+        "paraphrase_prompts": [
+            "英格兰的理查一世的官方宗教是",
+            "英格兰的理查一世信仰的宗教是"
+        ],
+        "neighborhood_prompts": [
+            "玛丽莲·梦露信仰的宗教是",
+            "大卫·贝克汉姆信仰的宗教是",
+            "圣经所属的宗教是",
+            "君士坦丁大帝信仰的宗教是",
+            "克瓦米·恩克鲁玛是追随者",
+            "莫比所属的宗教是",
+            "列夫·托尔斯泰的官方宗教是",
+            "林戈·斯塔尔所属的宗教是",
+            "马耳他所属的宗教是",
+            "埃米纳姆所属的宗教是"
+        ]
+    },
+    {
+        "case_id": 143,
+        "pararel_idx": 9742,
+        "requested_rewrite": {
+            "prompt": "{}的原始语言是",
+            "relation_id": "P364",
+            "target_new": {
+                "str": "英语",
+                "id": "Q1860"
+            },
+            "target_true": {
+                "str": "法语",
+                "id": "Q150"
+            },
+            "subject": "Delusions of Grandeur"
+        },
+        "paraphrase_prompts": [
+            "Delusions of Grandeur的语言是",
+            "Delusions of Grandeur的语言曾是"
+        ],
+        "neighborhood_prompts": [
+            "Now You See Me的原始语言是",
+            "And Now... Ladies and Gentlemen的原始语言是",
+            "The Wild Child的语言是",
+            "The Lady Vanishes的原始语言是",
+            "Outbreak的原始语言是",
+            "Now You See Me的原始语言是",
+            "London River的语言是",
+            "Now You See Me的语言曾是",
+            "The Phantom of Liberty的原始语言是",
+            "Man Bites Dog的原始语言曾是"
+        ]
+    },
+    {
+        "case_id": 2511,
+        "pararel_idx": 11651,
+        "requested_rewrite": {
+            "prompt": "{}首次亮相于",
+            "relation_id": "P449",
+            "target_new": {
+                "str": "HBO",
+                "id": "Q23633"
+            },
+            "target_true": {
+                "str": "CBS",
+                "id": "Q43380"
+            },
+            "subject": "特拉珀·约翰，医学博士"
+        },
+        "paraphrase_prompts": [
+            "特拉珀·约翰，医学博士发布于",
+            "特拉珀·约翰，医学博士首映于"
+        ],
+        "neighborhood_prompts": [
+            "警察世家最初播放于",
+            "小恐龙丁克首映于",
+            "大卫·莱特曼深夜秀首次亮相于",
+            "海湾街的蜡烛最初播放于",
+            "比佛利山人首映于",
+            "警察世家首映于",
+            "她写的谋杀案发布于",
+            "西比尔首映于",
+            "塞勒姆的命运最初播放于",
+            "小美人鱼发布于"
+        ]
+    },
+    {
+        "case_id": 20912,
+        "pararel_idx": 15867,
+        "requested_rewrite": {
+            "prompt": "{}成立于",
+            "relation_id": "P740",
+            "target_new": {
+                "str": "富兰克林",
+                "id": "Q984264"
+            },
+            "target_true": {
+                "str": "悉尼",
+                "id": "Q3130"
+            },
+            "subject": "The Presets"
+        },
+        "paraphrase_prompts": [
+            "\" The Presets成立于",
+            "The Presets开始于"
+        ],
+        "neighborhood_prompts": [
+            "sleepmakeswaves，成立于",
+            "Seeker Lover Keeper，起源于",
+            "The Whitlams，成立于",
+            "The Sunnyboys创建于",
+            "The Collective成立于",
+            "Jagwar Ma成立于",
+            "The Sunpilots起源于",
+            "sleepmakeswaves成立于",
+            "Jagwar Ma创建于",
+            "Python Lee Jackson，起源于"
+        ]
+    },
+    {
+        "case_id": 7433,
+        "pararel_idx": 18048,
+        "requested_rewrite": {
+            "prompt": "{}使用的语言是",
+            "relation_id": "P1412",
+            "target_new": {
+                "str": "法语",
+                "id": "Q150"
+            },
+            "target_true": {
+                "str": "西班牙语",
+                "id": "Q1321"
+            },
+            "subject": "卢克雷齐娅·博里"
+        },
+        "paraphrase_prompts": [
+            "卢克雷齐娅·博里写作使用的语言是",
+            "卢克雷齐娅·博里说的语言是"
+        ],
+        "neighborhood_prompts": [
+            "桑乔·格拉西亚使用的语言是",
+            "江泽民说的语言是",
+            "何塞·巴特列-奥多涅斯写作使用的语言是",
+            "马里奥·贝内德蒂写作使用的语言是",
+            "何塞普·普伊格·卡达法尔克说的是",
+            "马里奥·贝内德蒂说的语言是",
+            "奥拉西奥·基罗加写作使用的语言是",
+            "琼·绍拉·拉波塔使用的语言是",
+            "格雷·格里芬写作使用的语言是",
+            "卡莱斯·普约尔说的是"
+        ]
+    },
+    {
+        "case_id": 16763,
+        "pararel_idx": 16958,
+        "requested_rewrite": {
+            "prompt": "{}演奏的流派是",
+            "relation_id": "P136",
+            "target_new": {
+                "str": "音乐剧",
+                "id": "Q2743"
+            },
+            "target_true": {
+                "str": "爵士乐",
+                "id": "Q8341"
+            },
+            "subject": "唐·拜伦"
+        },
+        "paraphrase_prompts": [
+            "唐·拜伦演奏",
+            "唐·拜伦演奏什么？他们演奏"
+        ],
+        "neighborhood_prompts": [
+            "Zeena Parkins演奏的流派是",
+            "Casey Abrams演奏什么？他们演奏",
+            "Niño Josele演奏",
+            "Richard Wright演奏的流派是",
+            "Al Sears演奏的流派是",
+            "Eric Alexander演奏",
+            "Niño Josele演奏",
+            "Eric Alexander以演奏闻名",
+            "Otis Taylor演奏",
+            "Raimonds Pauls演奏"
+        ]
+    },
+    {
+        "case_id": 19877,
+        "pararel_idx": 259,
+        "requested_rewrite": {
+            "prompt": "{}, 担任的职位是",
+            "relation_id": "P39",
+            "target_new": {
+                "str": "红衣主教",
+                "id": "Q45722"
+            },
+            "target_true": {
+                "str": "主教",
+                "id": "Q29182"
+            },
+            "subject": "Tysilio"
+        },
+        "paraphrase_prompts": [
+            "Tysilio, 担任的职位是",
+            "Tysilio 拥有的头衔是"
+        ],
+        "neighborhood_prompts": [
+            "Clement, 担任的职位是",
+            "Friedrich Müller-Langenthal, 其职位是",
+            "Paulinus II of Aquileia, 担任的职位是",
+            "Friedrich Müller-Langenthal 是一位",
+            "Marius Aventicensis 拥有的头衔是",
+            "Thomas Percy 担任的职位是",
+            "Edwin Morris, 拥有的职位是",
+            "George Bull, 拥有的职位是",
+            "Possidius of Calama 拥有的头衔是",
+            "Alban of Mainz 是一位"
+        ]
+    },
+    {
+        "case_id": 9344,
+        "pararel_idx": 17363,
+        "requested_rewrite": {
+            "prompt": "{}, 来自",
+            "relation_id": "P127",
+            "target_new": {
+                "str": "德国",
+                "id": "Q183"
+            },
+            "target_true": {
+                "str": "波兰",
+                "id": "Q36"
+            },
+            "subject": "PZL Mielec"
+        },
+        "paraphrase_prompts": [
+            "PZL Mielec的所有者",
+            "PZL Mielec由谁拥有"
+        ],
+        "neighborhood_prompts": [
+            "波兰国家铁路, 来自",
+            "波兰国家铁路来自",
+            "普鲁士致敬的所有者",
+            "Lindenallee 7 来自",
+            "Kazimierz Górski体育场的所有者",
+            "Edward Jancarz体育场, 来自",
+            "Chemik Bydgoszcz体育场, 由",
+            "Bolesławiec铁路高架桥, 来自",
+            "奥林匹克体育场来自",
+            "普鲁士致敬, 由"
+        ]
+    },
+    {
+        "case_id": 14141,
+        "pararel_idx": 22632,
+        "requested_rewrite": {
+            "prompt": "{}的专业领域是",
+            "relation_id": "P101",
+            "target_new": {
+                "str": "物理学",
+                "id": "Q413"
+            },
+            "target_true": {
+                "str": "天文学",
+                "id": "Q333"
+            },
+            "subject": "奥林·J·埃根"
+        },
+        "paraphrase_prompts": [
+            "奥林·J·埃根的工作领域是",
+            "奥林·J·埃根专长于"
+        ],
+        "neighborhood_prompts": [
+            "克里斯蒂安·惠更斯的活动领域是",
+            "奥马尔·海亚姆的工作领域是",
+            "阿威罗伊的活动领域是",
+            "克里斯蒂安·惠更斯的工作领域是",
+            "皮埃尔-西蒙·拉普拉斯的专业领域是",
+            "托勒密的专业领域是",
+            "卡尔·萨根的工作领域是",
+            "约翰·弗雷德里克·威廉·赫歇尔专长于",
+            "皮埃尔-西蒙·拉普拉斯的专业领域是",
+            "奥马尔·海亚姆的活动领域是"
+        ]
+    },
+    {
+        "case_id": 6965,
+        "pararel_idx": 5904,
+        "requested_rewrite": {
+            "prompt": "{} 是的产品",
+            "relation_id": "P178",
+            "target_new": {
+                "str": "Adobe",
+                "id": "Q11463"
+            },
+            "target_true": {
+                "str": "微软",
+                "id": "Q2283"
+            },
+            "subject": "Windows Phone 8.1"
+        },
+        "paraphrase_prompts": [
+            "Windows Phone 8.1 是的产品",
+            "Windows Phone 8.1，由创造的产品"
+        ],
+        "neighborhood_prompts": [
+            "Visual Basic for Applications，由开发",
+            "Windows 3.1 由开发",
+            "Microsoft Office 2007，的产品",
+            "JScript 由开发",
+            "Microsoft Silverlight，由创造的产品",
+            "Microsoft Silverlight 由开发",
+            "Rich Text Format 由开发",
+            "Microsoft Surface，的产品",
+            "F#，的产品",
+            "Windows 2000 由开发"
+        ]
+    },
+    {
+        "case_id": 1212,
+        "pararel_idx": 15196,
+        "requested_rewrite": {
+            "prompt": "{}的姐妹城市是哪个？它是",
+            "relation_id": "P190",
+            "target_new": {
+                "str": "莫斯科",
+                "id": "Q649"
+            },
+            "target_true": {
+                "str": "悉尼",
+                "id": "Q3130"
+            },
+            "subject": "墨西哥城"
+        },
+        "paraphrase_prompts": [
+            "墨西哥城的姐妹城市是",
+            "墨西哥城的姐妹城市是哪个"
+        ],
+        "neighborhood_prompts": [
+            "米兰的姐妹城市是",
+            "名古屋的姐妹城市是",
+            "马尼拉的姐妹城市是",
+            "新德里的姐妹城市是",
+            "旧金山的姐妹城市是哪个？它是",
+            "旧金山的姐妹城市是",
+            "帝力的姐妹城市是",
+            "帝力的姐妹城市是哪个？它是",
+            "广州的姐妹城市是哪个？它是",
+            "伊斯兰堡的姐妹城市是"
+        ]
+    },
+    {
+        "case_id": 12695,
+        "pararel_idx": 8229,
+        "requested_rewrite": {
+            "prompt": "{} 打的位置是",
+            "relation_id": "P413",
+            "target_new": {
+                "str": "线卫",
+                "id": "Q528145"
+            },
+            "target_true": {
+                "str": "中场",
+                "id": "Q193592"
+            },
+            "subject": "史蒂夫·麦肯齐"
+        },
+        "paraphrase_prompts": [
+            "史蒂夫·麦肯齐，他打的位置是",
+            "史蒂夫·麦肯齐打什么位置？他打的位置是"
+        ],
+        "neighborhood_prompts": [
+            "莱昂纳多·阿劳霍，他打的位置是",
+            "胡安·塞巴斯蒂安·贝隆，这位",
+            "帕特里克·维埃拉打的位置是",
+            "莱昂纳多·阿劳霍打的位置是",
+            "伊德里萨·盖耶打什么位置？他打的位置是",
+            "埃杜·马朗贡，这位",
+            "胡安·塞巴斯蒂安·贝隆打的位置是",
+            "阿达马·巴打的位置是",
+            "莱昂纳多·阿劳霍，这位",
+            "阿达马·巴打什么位置？他打的位置是"
+        ]
+    },
+    {
+        "case_id": 7055,
+        "pararel_idx": 9241,
+        "requested_rewrite": {
+            "prompt": "{}, 一位公民",
+            "relation_id": "P27",
+            "target_new": {
+                "str": "加拿大",
+                "id": "Q16"
+            },
+            "target_true": {
+                "str": "爱尔兰",
+                "id": "Q27"
+            },
+            "subject": "奥斯汀·柯里"
+        },
+        "paraphrase_prompts": [
+            "奥斯汀·柯里是一位公民",
+            "奥斯汀·柯里，持有来自的公民身份"
+        ],
+        "neighborhood_prompts": [
+            "托马斯·菲茨杰拉德，第十代基尔代尔伯爵，一位公民",
+            "尼古拉斯·罗奇持有来自的公民身份",
+            "约翰·A·科斯特洛是一位公民",
+            "塞阿尔·奥达利持有来自的公民身份",
+            "杰夫·亨德里克，一位公民",
+            "欧文·科伊尔持有来自的公民身份",
+            "利亚姆·科斯格雷夫是一位公民",
+            "欧文·科伊尔有一个来自的公民身份",
+            "杰克·林奇持有来自的公民身份",
+            "杰夫·亨德里克，他是一位公民"
+        ]
+    },
+    {
+        "case_id": 16059,
+        "pararel_idx": 9389,
+        "requested_rewrite": {
+            "prompt": "{}隶属于",
+            "relation_id": "P463",
+            "target_new": {
+                "str": "北约",
+                "id": "Q7184"
+            },
+            "target_true": {
+                "str": "国际足球联合会",
+                "id": "Q253414"
+            },
+            "subject": "所罗门群岛足球联合会"
+        },
+        "paraphrase_prompts": [
+            "所罗门群岛足球联合会属于的组织是",
+            "所罗门群岛足球联合会隶属于"
+        ],
+        "neighborhood_prompts": [
+            "以色列足球协会是",
+            "俄罗斯国家足球队隶属于的组织是",
+            "澳大利亚足球联合会是",
+            "乌拉圭足球协会是",
+            "土耳其足球联合会隶属于",
+            "洪都拉斯国家自治足球联合会是的一部分",
+            "拉脱维亚足球联合会是的一部分",
+            "赞比亚足球协会隶属于的组织是",
+            "洪都拉斯国家自治足球联合会是",
+            "以色列足球协会隶属于"
+        ]
+    },
+    {
+        "case_id": 2349,
+        "pararel_idx": 10080,
+        "requested_rewrite": {
+            "prompt": "{}的原始语言是",
+            "relation_id": "P364",
+            "target_new": {
+                "str": "印地语",
+                "id": "Q1568"
+            },
+            "target_true": {
+                "str": "英语",
+                "id": "Q1860"
+            },
+            "subject": "Pablo Honey"
+        },
+        "paraphrase_prompts": [
+            "Pablo Honey的语言是",
+            "Pablo Honey的语言是"
+        ],
+        "neighborhood_prompts": [
+            "Ghost Rider的原始语言是",
+            "Titanic的语言是",
+            "The Sisterhood of the Traveling Pants的语言是",
+            "Dumbo的原始语言是",
+            "Dogma的原始语言是",
+            "Barbarella的原始语言是",
+            "Dumbo的语言是",
+            "Dogma的语言是",
+            "Titanic的语言是",
+            "The Fox and the Hound的原始语言是"
+        ]
+    },
+    {
+        "case_id": 9261,
+        "pararel_idx": 21351,
+        "requested_rewrite": {
+            "prompt": "{}的总部位于",
+            "relation_id": "P159",
+            "target_new": {
+                "str": "拉格比",
+                "id": "Q623765"
+            },
+            "target_true": {
+                "str": "马歇尔",
+                "id": "Q1986475"
+            },
+            "subject": "施万食品公司"
+        },
+        "paraphrase_prompts": [
+            "施万食品公司的总部位于",
+            "施万食品公司坐落于"
+        ],
+        "neighborhood_prompts": [
+            "西南明尼苏达州立大学教育系的 headquarters are in",
+            "西南明尼苏达州立大学教育系的总部位于",
+            "西南明尼苏达州立大学科学系的总部位于",
+            "施万公司的总部位于",
+            "西南明尼苏达州立大学科学系的总部位于",
+            "西南明尼苏达州立大学书店的总部位于",
+            "施万公司的总部位于",
+            "西南明尼苏达州立大学书店的总部位于",
+            "西南明尼苏达州立大学书店的总部坐落于",
+            "施万公司，其总部位于"
+        ]
+    },
+    {
+        "case_id": 14086,
+        "pararel_idx": 595,
+        "requested_rewrite": {
+            "prompt": "{}的法律宣布的语言是",
+            "relation_id": "P37",
+            "target_new": {
+                "str": "英语",
+                "id": "Q1860"
+            },
+            "target_true": {
+                "str": "芬兰语",
+                "id": "Q1412"
+            },
+            "subject": "马拉克斯"
+        },
+        "paraphrase_prompts": [
+            "在马拉克斯，官方语言是",
+            "马拉克斯的官方语言是"
+        ],
+        "neighborhood_prompts": [
+            "在普达斯耶尔维，官方语言是",
+            "在库赫莫，使用的语言是",
+            "洛伊马的法律宣布的语言是",
+            "在松德比贝里市，官方语言是",
+            "在萨拉，官方语言是",
+            "在皮尔卡拉，使用的语言是",
+            "在哈帕韦西，他们理解",
+            "在卡拉约基，他们理解",
+            "在洛伊马，使用的语言是",
+            "伦派莱的法律宣布的语言是"
+        ]
+    },
+    {
+        "case_id": 18741,
+        "pararel_idx": 7104,
+        "requested_rewrite": {
+            "prompt": "{}, 位于",
+            "relation_id": "P17",
+            "target_new": {
+                "str": "芬兰",
+                "id": "Q33"
+            },
+            "target_true": {
+                "str": "伊朗",
+                "id": "Q794"
+            },
+            "subject": "伊斯法罕国际机场"
+        },
+        "paraphrase_prompts": [
+            "伊斯法罕国际机场位于",
+            "伊斯法罕国际机场，位于"
+        ],
+        "neighborhood_prompts": [
+            "四十柱宫，位于",
+            "格鲁吉亚语，位于",
+            "赫尔曼德河，位于",
+            "德黑兰，位于",
+            "土库曼语，位于",
+            "格鲁吉亚人，位于",
+            "阿塞拜疆语位于的国家是",
+            "中古波斯语，位于",
+            "马赞德兰语位于的国家是",
+            "中古波斯语，位于"
+        ]
+    },
+    {
+        "case_id": 8052,
+        "pararel_idx": 3176,
+        "requested_rewrite": {
+            "prompt": "{}的母语是",
+            "relation_id": "P103",
+            "target_new": {
+                "str": "英语",
+                "id": "Q1860"
+            },
+            "target_true": {
+                "str": "法语",
+                "id": "Q150"
+            },
+            "subject": "Bernard Cerquiglini"
+        },
+        "paraphrase_prompts": [
+            "Bernard Cerquiglini的母语是",
+            "Bernard Cerquiglini说的语言是"
+        ],
+        "neighborhood_prompts": [
+            "Jean Auguste Dominique Ingres说的语言是",
+            "Ferdinand de Saussure的母语是",
+            "Montesquieu的母语是",
+            "Octave Mirbeau说的语言是",
+            "Jean-Luc Picard的母语是",
+            "Frédéric Bastiat的母语",
+            "Henri Barbusse的母语是",
+            "Jean-Luc Picard说的语言是",
+            "Henri Barbusse说的语言是",
+            "Octave Mirbeau的母语是"
+        ]
+    },
+    {
+        "case_id": 18615,
+        "pararel_idx": 10669,
+        "requested_rewrite": {
+            "prompt": "{}, 开发于",
+            "relation_id": "P495",
+            "target_new": {
+                "str": "法国",
+                "id": "Q142"
+            },
+            "target_true": {
+                "str": "瑞典",
+                "id": "Q34"
+            },
+            "subject": "斯堪尼亚"
+        },
+        "paraphrase_prompts": [
+            "斯堪尼亚来自",
+            "斯堪尼亚，制定于"
+        ],
+        "neighborhood_prompts": [
+            "执行者，开发于",
+            "执行者来自",
+            "爱德华·蒙克，开发于",
+            "《全是老板》来自",
+            "《新年快乐》，制定于",
+            "《所有这些女人》，创作于",
+            "乔·希尔，制定于",
+            "Meshuggah，制定于",
+            "At the Gates，来自",
+            "乔·希尔，起源于"
+        ]
+    },
+    {
+        "case_id": 5427,
+        "pararel_idx": 6541,
+        "requested_rewrite": {
+            "prompt": "{}位于国家",
+            "relation_id": "P17",
+            "target_new": {
+                "str": "波兰",
+                "id": "Q36"
+            },
+            "target_true": {
+                "str": "智利",
+                "id": "Q298"
+            },
+            "subject": "Aucanquilcha"
+        },
+        "paraphrase_prompts": [
+            "Aucanquilcha, 位于",
+            "Aucanquilcha位于"
+        ],
+        "neighborhood_prompts": [
+            "安托法加斯塔大区, 位于",
+            "洛斯里奥斯大区, 位于",
+            "洛斯里奥斯大区, 在",
+            "阿塔卡马大区位于国家",
+            "圣地亚哥首都大区位于国家",
+            "奥希金斯大区位于国家",
+            "圣地亚哥首都大区, 在",
+            "智利, 位于",
+            "科金博大区位于",
+            "康塞普西翁, 位于"
+        ]
+    },
+    {
+        "case_id": 18929,
+        "pararel_idx": 21622,
+        "requested_rewrite": {
+            "prompt": "{}的职业是",
+            "relation_id": "P106",
+            "target_new": {
+                "str": "诗人",
+                "id": "Q49757"
+            },
+            "target_true": {
+                "str": "喜剧演员",
+                "id": "Q245068"
+            },
+            "subject": "克里斯·巴里"
+        },
+        "paraphrase_prompts": [
+            "克里斯·巴里的职业是",
+            "克里斯·巴里的工作是"
+        ],
+        "neighborhood_prompts": [
+            "瑞奇·热维斯的职业是",
+            "托托的工作是",
+            "罗温·阿特金森的工作是",
+            "北野武的职业是",
+            "路易·德·菲奈斯，他的工作是",
+            "查理·卓别林的职业是",
+            "罗伯托·贝尼尼的职业是",
+            "蒂娜·菲的职业是",
+            "约翰·贝鲁西的工作是",
+            "\"怪人奥尔\"扬科维奇的职业是"
+        ]
+    },
+    {
+        "case_id": 3426,
+        "pararel_idx": 8906,
+        "requested_rewrite": {
+            "prompt": "{}, 的公民",
+            "relation_id": "P27",
+            "target_new": {
+                "str": "瑞士",
+                "id": "Q39"
+            },
+            "target_true": {
+                "str": "日本",
+                "id": "Q17"
+            },
+            "subject": "池田茂昭"
+        },
+        "paraphrase_prompts": [
+            "池田茂昭是",
+            "池田茂昭，持有的公民身份"
+        ],
+        "neighborhood_prompts": [
+            "黑泽明持有",
+            "室伏广治，持有",
+            "松坂大辅，拥有",
+            "谷口千吉拥有",
+            "谷口千吉持有",
+            "尾田荣一郎，是",
+            "Juju，的公民",
+            "三石琴乃持有",
+            "铃木一朗是",
+            "松尾芭蕉，拥有的公民身份"
+        ]
+    },
+    {
+        "case_id": 8857,
+        "pararel_idx": 9842,
+        "requested_rewrite": {
+            "prompt": "{}的语言是",
+            "relation_id": "P364",
+            "target_new": {
+                "str": "英语",
+                "id": "Q1860"
+            },
+            "target_true": {
+                "str": "泰米尔语",
+                "id": "Q5885"
+            },
+            "subject": "Vettai"
+        },
+        "paraphrase_prompts": [
+            "Vettai的原始语言是",
+            "Vettai的原始语言为"
+        ],
+        "neighborhood_prompts": [
+            "Unakkum Enakkum的语言是",
+            "Autograph的原始语言是",
+            "Kaakha Kaakha的原始语言是",
+            "Vettaiyaadu Vilaiyaadu的语言是",
+            "Aalavandhan的语言是",
+            "Mudhalvan的原始语言是",
+            "Thotti Jaya的语言是",
+            "Pithamagan的语言是",
+            "Thotti Jaya的原始语言是",
+            "Priyasakhi的原始语言是"
+        ]
+    },
+    {
+        "case_id": 12854,
+        "pararel_idx": 22137,
+        "requested_rewrite": {
+            "prompt": "{} works as",
+            "relation_id": "P106",
+            "target_new": {
+                "str": "哲学家",
+                "id": "Q4964182"
+            },
+            "target_true": {
+                "str": "精神病学家",
+                "id": "Q211346"
+            },
+            "subject": "莫里斯·尼科尔"
+        },
+        "paraphrase_prompts": [
+            "莫里斯·尼科尔的职业是",
+            "莫里斯·尼科尔，他的职业是"
+        ],
+        "neighborhood_prompts": [
+            "保罗·朱利叶斯·莫比乌斯的职业是",
+            "奥托·弗里茨·迈尔霍夫的职业是",
+            "阿洛伊斯·阿尔茨海默的职业是",
+            "威廉·格里辛格的职业是",
+            "迪诺·里西的职业是",
+            "阿克塞尔·蒙特的工作是",
+            "阿克塞尔·蒙特的职业是",
+            "奥斯卡·帕尼扎的职业是",
+            "西奥多·齐恩的工作是",
+            "恩斯特·克雷奇默，他的工作是"
+        ]
+    },
+    {
+        "case_id": 7216,
+        "pararel_idx": 10565,
+        "requested_rewrite": {
+            "prompt": "{}起源于",
+            "relation_id": "P495",
+            "target_new": {
+                "str": "菲律宾",
+                "id": "Q928"
+            },
+            "target_true": {
+                "str": "法国",
+                "id": "Q142"
+            },
+            "subject": "爱已逝去"
+        },
+        "paraphrase_prompts": [
+            "爱已逝去，制定于",
+            "爱已逝去，起源于"
+        ],
+        "neighborhood_prompts": [
+            "百科全书，发展于",
+            "人造黄油，发展于",
+            "8½ 创作于国家",
+            "工人离开卢米埃尔工厂，发展于",
+            "德谟克利特在灵魂的座位上冥想，创作于",
+            "梅西耶天体来自",
+            "A350 创建于",
+            "卑鄙的我，制定于",
+            "里昂国家管弦乐团，起源于",
+            "小拇指，制定于"
+        ]
+    },
+    {
+        "case_id": 5994,
+        "pararel_idx": 6610,
+        "requested_rewrite": {
+            "prompt": "{}, 位于",
+            "relation_id": "P17",
+            "target_new": {
+                "str": "希腊",
+                "id": "Q41"
+            },
+            "target_true": {
+                "str": "白俄罗斯",
+                "id": "Q184"
+            },
+            "subject": "FC戈罗杰亚"
+        },
+        "paraphrase_prompts": [
+            "FC戈罗杰亚位于",
+            "FC戈罗杰亚位于的国家是"
+        ],
+        "neighborhood_prompts": [
+            "白俄罗斯语，位于",
+            "乌克兰语位于",
+            "道加瓦河位于的国家是",
+            "白俄罗斯，位于",
+            "立陶宛语位于",
+            "2014年国际冰联世界锦标赛，位于",
+            "意第绪语，位于",
+            "楚瓦什语，位于",
+            "白俄罗斯，位于",
+            "布列斯特机场，位于"
+        ]
+    },
+    {
+        "case_id": 8834,
+        "pararel_idx": 1495,
+        "requested_rewrite": {
+            "prompt": "{} 为",
+            "relation_id": "P108",
+            "target_new": {
+                "str": "IBM",
+                "id": "Q37156"
+            },
+            "target_true": {
+                "str": "BBC",
+                "id": "Q9531"
+            },
+            "subject": "尼尔·南丁格尔"
+        },
+        "paraphrase_prompts": [
+            "尼尔·南丁格尔，受雇于",
+            "尼尔·南丁格尔，属于"
+        ],
+        "neighborhood_prompts": [
+            "杰弗里·劳埃德，杰弗里-劳埃德男爵，属于",
+            "马格努斯·马格努松为",
+            "贾米拉·贾米尔，受雇于",
+            "安德鲁·马尔，为",
+            "鲍勃·斯皮尔斯，受雇于",
+            "马格努斯·马格努松，属于",
+            "克里斯·埃文斯，受雇于",
+            "维里蒂·兰伯特，属于",
+            "乔治·维利尔斯，第六代克拉伦登伯爵受雇于",
+            "阿利斯泰尔·库克为"
+        ]
+    },
+    {
+        "case_id": 11070,
+        "pararel_idx": 7628,
+        "requested_rewrite": {
+            "prompt": "{}踢什么位置？他们踢的位置是",
+            "relation_id": "P413",
+            "target_new": {
+                "str": "四分卫",
+                "id": "Q622747"
+            },
+            "target_true": {
+                "str": "中场",
+                "id": "Q193592"
+            },
+            "subject": "古斯·波耶特"
+        },
+        "paraphrase_prompts": [
+            "古斯·波耶特踢的位置是",
+            "古斯·波耶特踢的位置"
+        ],
+        "neighborhood_prompts": [
+            "伊格纳西奥·卡马乔踢什么位置？他们踢的位置是",
+            "伊格纳西奥·卡马乔，这位",
+            "法布里斯·埃雷特，这位",
+            "坎加·阿卡莱，这位",
+            "胡安·塞巴斯蒂安·贝隆，他踢的位置",
+            "坎加·阿卡莱踢什么位置？他们踢的位置是",
+            "保罗·斯科尔斯，他踢的位置",
+            "皮埃尔·利特巴尔斯基，这位",
+            "阿戈斯蒂尼奥·卡踢的位置是",
+            "伊格纳西奥·卡马乔，他踢的位置"
+        ]
+    },
+    {
+        "case_id": 3767,
+        "pararel_idx": 816,
+        "requested_rewrite": {
+            "prompt": "在{}，他们理解",
+            "relation_id": "P37",
+            "target_new": {
+                "str": "英语",
+                "id": "Q1860"
+            },
+            "target_true": {
+                "str": "俄语",
+                "id": "Q7737"
+            },
+            "subject": "犹太自治州"
+        },
+        "paraphrase_prompts": [
+            "犹太自治州的官方语言是",
+            "在犹太自治州，一种官方语言是"
+        ],
+        "neighborhood_prompts": [
+            "在Kalininsky，人们说的语言是",
+            "在Kalimullino，他们理解",
+            "Verkhnyaya Bikberda的法律宣布的语言是",
+            "在Novopavlovka，他们理解",
+            "Nizhny Sarabil的法律宣布的语言是",
+            "在Umbetovo，他们理解",
+            "Arsyonovo的法律宣布的语言是",
+            "Bishtiryak的法律宣布的语言是",
+            "Kalininsky的官方语言是",
+            "在Bishtiryak，一种官方语言是"
+        ]
+    },
+    {
+        "case_id": 4272,
+        "pararel_idx": 23903,
+        "requested_rewrite": {
+            "prompt": "{} 是一名职业",
+            "relation_id": "P641",
+            "target_new": {
+                "str": "足球",
+                "id": "Q41323"
+            },
+            "target_true": {
+                "str": "曲棍球",
+                "id": "Q41466"
+            },
+            "subject": "丹尼斯·赛登伯格"
+        },
+        "paraphrase_prompts": [
+            "丹尼斯·赛登伯格从事",
+            "丹尼斯·赛登伯格从事什么运动？他们从事"
+        ],
+        "neighborhood_prompts": [
+            "马里安·霍萨，这位",
+            "多米尼克·哈谢克，这位",
+            "让·贝利沃从事什么运动？他们从事",
+            "戈迪·豪职业从事的运动",
+            "博比·奥尔，这位",
+            "让·贝利沃是一名职业",
+            "泰穆·塞兰纳是一名职业",
+            "雅罗米尔·雅戈尔从事",
+            "泰穆·塞兰纳，这位",
+            "肯·德莱登是一名职业"
+        ]
+    },
+    {
+        "case_id": 14923,
+        "pararel_idx": 20765,
+        "requested_rewrite": {
+            "prompt": "{}的总部位于",
+            "relation_id": "P159",
+            "target_new": {
+                "str": "多伦多",
+                "id": "Q172"
+            },
+            "target_true": {
+                "str": "布鲁克林",
+                "id": "Q18419"
+            },
+            "subject": "疯狂艾迪"
+        },
+        "paraphrase_prompts": [
+            "疯狂艾迪的总部位于",
+            "疯狂艾迪的总部设在"
+        ],
+        "neighborhood_prompts": [
+            "西班牙裔信息和电信网络的总部位于",
+            "蓝命贵运动的总部设在",
+            "性别平等女孩组织的总部位于",
+            "大众民主中心的总部设在",
+            "犹太之声的总部位于",
+            "KTAV出版社的总部设在",
+            "Wedidit的总部位于",
+            "Nightboat Books的总部设在",
+            "奥斯本协会的总部位于",
+            "KTAV出版社的总部设在"
+        ]
+    },
+    {
+        "case_id": 21566,
+        "pararel_idx": 16851,
+        "requested_rewrite": {
+            "prompt": "{}, 演奏",
+            "relation_id": "P136",
+            "target_new": {
+                "str": "迪斯科",
+                "id": "Q58339"
+            },
+            "target_true": {
+                "str": "爵士乐",
+                "id": "Q8341"
+            },
+            "subject": "迪格比·费尔韦瑟"
+        },
+        "paraphrase_prompts": [
+            "迪格比·费尔韦瑟演奏什么？他们演奏",
+            "迪格比·费尔韦瑟演奏的流派是"
+        ],
+        "neighborhood_prompts": [
+            "凯西·艾布拉姆斯演奏",
+            "莎黛演奏",
+            "齐吉·埃尔曼演奏什么？他们演奏",
+            "昆西·琼斯以演奏",
+            "齐吉·埃尔曼以演奏",
+            "理查德·赖特演奏什么？他们演奏",
+            "安东尼奥·卡洛斯·乔宾以演奏",
+            "莎黛, 演奏",
+            "齐吉·埃尔曼表演",
+            "奥蒂斯·泰勒演奏的流派是"
+        ]
+    },
+    {
+        "case_id": 14315,
+        "pararel_idx": 16744,
+        "requested_rewrite": {
+            "prompt": "{} 以表演而闻名",
+            "relation_id": "P136",
+            "target_new": {
+                "str": "诗歌",
+                "id": "Q482"
+            },
+            "target_true": {
+                "str": "爵士乐",
+                "id": "Q8341"
+            },
+            "subject": "帕蒂·沃特斯"
+        },
+        "paraphrase_prompts": [
+            "帕蒂·沃特斯演奏",
+            "帕蒂·沃特斯演奏什么？他们演奏"
+        ],
+        "neighborhood_prompts": [
+            "弗雷迪·科尔演奏什么？他们演奏",
+            "理查德·赖特演奏",
+            "杰基·特拉萨森演奏什么？他们演奏",
+            "奥蒂斯·泰勒演奏什么？他们演奏",
+            "大卫·桑伯恩演奏",
+            "齐吉·埃尔曼以表演而闻名",
+            "杰森·玛耶兹表演",
+            "雷蒙兹·保尔斯演奏的流派是",
+            "阿尔·西尔斯以表演而闻名",
+            "昆西·琼斯演奏"
+        ]
+    },
+    {
+        "case_id": 16359,
+        "pararel_idx": 15950,
+        "requested_rewrite": {
+            "prompt": "{}, 成立于",
+            "relation_id": "P740",
+            "target_new": {
+                "str": "芝加哥",
+                "id": "Q1297"
+            },
+            "target_true": {
+                "str": "日本",
+                "id": "Q17"
+            },
+            "subject": "万代频道"
+        },
+        "paraphrase_prompts": [
+            "万代频道创建于",
+            "万代频道，起源于"
+        ],
+        "neighborhood_prompts": [
+            "GO!GO!7188成立于",
+            "凡尔赛宫建于",
+            "Passpo，起源于",
+            "Supercell成立于",
+            "Supercell，创建于",
+            "AAA成立于",
+            "Off Course建于",
+            "Passpo，成立于",
+            "Passpo，创建于",
+            "Zard，起源于"
+        ]
+    },
+    {
+        "case_id": 786,
+        "pararel_idx": 15942,
+        "requested_rewrite": {
+            "prompt": "{}, 开始于",
+            "relation_id": "P740",
+            "target_new": {
+                "str": "伊斯坦布尔",
+                "id": "Q406"
+            },
+            "target_true": {
+                "str": "诺丁汉",
+                "id": "Q41262"
+            },
+            "subject": "混凝土袜"
+        },
+        "paraphrase_prompts": [
+            "混凝土袜，创建于",
+            "混凝土袜成立于"
+        ],
+        "neighborhood_prompts": [
+            "宇宙骷髅教堂开始于",
+            "一个乐队开始于",
+            "法奇隧道创建于",
+            "音调变换器，成立于",
+            "铁猴子开始于",
+            "土音九起源于",
+            "一个乐队起源于",
+            "六七乐队成立于",
+            "笑着死去组建于",
+            "法奇隧道成立于"
+        ]
+    },
+    {
+        "case_id": 11049,
+        "pararel_idx": 14311,
+        "requested_rewrite": {
+            "prompt": "{} 起源于",
+            "relation_id": "P19",
+            "target_new": {
+                "str": "波士顿",
+                "id": "Q100"
+            },
+            "target_true": {
+                "str": "曼彻斯特",
+                "id": "Q18125"
+            },
+            "subject": "马丁·汉内特"
+        },
+        "paraphrase_prompts": [
+            "马丁·汉内特最初来自",
+            "马丁·汉内特起源于"
+        ],
+        "neighborhood_prompts": [
+            "克里斯·奥菲利出生于",
+            "盖尔·迪恩斯起源于",
+            "约翰·威廉·萨顿·普林格尔起源于",
+            "克劳德·瓦瑟姆最初来自",
+            "莱斯利·阿尔科克出生于",
+            "布莱恩·普里斯特利起源于",
+            "科林·霍顿出生于",
+            "克劳德·瓦瑟姆起源于",
+            "多琳·梅西最初来自",
+            "克劳德·瓦瑟姆出生在"
+        ]
+    },
+    {
+        "case_id": 14304,
+        "pararel_idx": 17944,
+        "requested_rewrite": {
+            "prompt": "{}使用的语言是",
+            "relation_id": "P1412",
+            "target_new": {
+                "str": "希伯来语",
+                "id": "Q9288"
+            },
+            "target_true": {
+                "str": "英语",
+                "id": "Q1860"
+            },
+            "subject": "梅尔文·布拉格"
+        },
+        "paraphrase_prompts": [
+            "梅尔文·布拉格写作使用的语言是",
+            "梅尔文·布拉格说的语言是"
+        ],
+        "neighborhood_prompts": [
+            "迈克尔·法拉第使用的语言是",
+            "科特·柯本写作使用的语言是",
+            "诺姆·乔姆斯基说的语言是",
+            "科特·柯本说的语言是",
+            "恩里科·费米写作使用的语言是",
+            "萨蒂亚吉特·雷写作使用的语言是",
+            "詹姆斯·克拉克·麦克斯韦写作使用的语言是",
+            "托马斯·阿尔瓦·爱迪生说的语言是",
+            "欧内斯特·卢瑟福使用的语言是",
+            "亨利·福特使用的语言是"
+        ]
+    },
+    {
+        "case_id": 14785,
+        "pararel_idx": 16389,
+        "requested_rewrite": {
+            "prompt": "{} 演奏",
+            "relation_id": "P136",
+            "target_new": {
+                "str": "歌剧",
+                "id": "Q1344"
+            },
+            "target_true": {
+                "str": "爵士乐",
+                "id": "Q8341"
+            },
+            "subject": "里克·马吉察"
+        },
+        "paraphrase_prompts": [
+            "里克·马吉察演奏的流派是",
+            "里克·马吉察演奏什么？他们演奏"
+        ],
+        "neighborhood_prompts": [
+            "弗雷迪·科尔演奏的流派是",
+            "莱蒙兹·保尔斯演奏什么？他们演奏",
+            "莱蒙兹·保尔斯演奏",
+            "杰森·玛耶兹演奏",
+            "安东尼奥·卡洛斯·乔宾以演奏而闻名",
+            "弗雷迪·科尔以演奏而闻名",
+            "昆西·琼斯，谁演奏",
+            "凯西·艾布拉姆斯以演奏而闻名",
+            "莎黛以演奏而闻名",
+            "尼诺·何塞莱演奏什么？他们演奏"
+        ]
+    },
+    {
+        "case_id": 21884,
+        "pararel_idx": 18423,
+        "requested_rewrite": {
+            "prompt": "{} 讲的语言",
+            "relation_id": "P1412",
+            "target_new": {
+                "str": "意大利语",
+                "id": "Q652"
+            },
+            "target_true": {
+                "str": "法语",
+                "id": "Q150"
+            },
+            "subject": "路易·瑞尔"
+        },
+        "paraphrase_prompts": [
+            "路易·瑞尔使用的语言是",
+            "路易·瑞尔讲"
+        ],
+        "neighborhood_prompts": [
+            "萨莎·格雷用写作的语言是",
+            "穆斯塔法·凯末尔·阿塔图尔克使用的语言是",
+            "鲁道夫·托普弗用写作的语言是",
+            "勒·柯布西耶讲的语言",
+            "夏尔·莫拉斯使用的语言是",
+            "格蕾丝·凯利使用的语言是",
+            "鲁道夫·托普弗讲",
+            "摩纳哥亲王阿尔贝二世讲的语言",
+            "安托万·德·圣-埃克苏佩里讲",
+            "乔治·蓬皮杜使用的语言是"
+        ]
+    },
+    {
+        "case_id": 20323,
+        "pararel_idx": 8954,
+        "requested_rewrite": {
+            "prompt": "{}是",
+            "relation_id": "P27",
+            "target_new": {
+                "str": "加拿大",
+                "id": "Q16"
+            },
+            "target_true": {
+                "str": "罗马尼亚",
+                "id": "Q218"
+            },
+            "subject": "格奥尔基·格里戈雷·坎塔库济诺"
+        },
+        "paraphrase_prompts": [
+            "格奥尔基·格里戈雷·坎塔库济诺持有的国籍是",
+            "格奥尔基·格里戈雷·坎塔库济诺，其国籍是"
+        ],
+        "neighborhood_prompts": [
+            "安吉拉·乔治乌，其国籍是",
+            "蒂贝留·布雷迪恰努，持有的国籍是",
+            "丹尼尔·斯波埃里持有的国籍是",
+            "玛雅·摩根斯特恩是",
+            "弗洛林·皮尔西克是",
+            "威廉·托托克，持有的国籍是",
+            "卡塔林·多里安·弗洛雷斯库持有的国籍是",
+            "捷尔吉·利盖蒂持有的国籍是",
+            "欧金尼奥·科谢留是",
+            "扬·安东内斯库，其国籍是"
+        ]
+    },
+    {
+        "case_id": 16953,
+        "pararel_idx": 17015,
+        "requested_rewrite": {
+            "prompt": "{} 演奏",
+            "relation_id": "P136",
+            "target_new": {
+                "str": "歌剧",
+                "id": "Q1344"
+            },
+            "target_true": {
+                "str": "爵士乐",
+                "id": "Q8341"
+            },
+            "subject": "巴马州立学院乐团"
+        },
+        "paraphrase_prompts": [
+            "巴马州立学院乐团表演",
+            "巴马州立学院乐团，他们演奏"
+        ],
+        "neighborhood_prompts": [
+            "奇克·柯瑞亚演奏",
+            "杰基·特雷森演奏",
+            "弗雷迪·科尔演奏",
+            "凯西·艾布拉姆斯演奏什么？他们演奏",
+            "阿尔·西尔斯，他演奏",
+            "埃里克·亚历山大以表演闻名",
+            "弗雷迪·科尔，他演奏",
+            "杰森·玛耶兹以表演闻名",
+            "大卫·桑伯恩演奏",
+            "尼尼奥·约瑟勒，他演奏"
+        ]
+    },
+    {
+        "case_id": 6481,
+        "pararel_idx": 5976,
+        "requested_rewrite": {
+            "prompt": "{}, 一款由",
+            "relation_id": "P178",
+            "target_new": {
+                "str": "苹果",
+                "id": "Q312"
+            },
+            "target_true": {
+                "str": "微软",
+                "id": "Q2283"
+            },
+            "subject": "微软日程加"
+        },
+        "paraphrase_prompts": [
+            "微软日程加, 一款由",
+            "微软日程加, 由"
+        ],
+        "neighborhood_prompts": [
+            "微软Office 2010由",
+            "ASP.NET MVC框架, 一款由",
+            "微软Silverlight, 由",
+            "JScript由",
+            "ASP.NET MVC框架是",
+            "JScript由",
+            "Windows 3.1, 由",
+            "ASP.NET MVC框架是",
+            "Visual Basic for Applications, 一款由",
+            "Visual Basic for Applications是"
+        ]
+    },
+    {
+        "case_id": 15792,
+        "pararel_idx": 1243,
+        "requested_rewrite": {
+            "prompt": "{}的官方语言是",
+            "relation_id": "P37",
+            "target_new": {
+                "str": "索马里语",
+                "id": "Q13275"
+            },
+            "target_true": {
+                "str": "芬兰语",
+                "id": "Q1412"
+            },
+            "subject": "帕亚拉市"
+        },
+        "paraphrase_prompts": [
+            "在帕亚拉市，人们说的语言是",
+            "在帕亚拉市，他们理解"
+        ],
+        "neighborhood_prompts": [
+            "在皮尔卡拉，一种官方语言是",
+            "普达斯耶尔维的官方语言是",
+            "伊纳里的官方语言是",
+            "维塔萨里的官方语言是",
+            "在松德比贝里市，一种官方语言是",
+            "在福尔萨，人们说的语言是",
+            "在皮尔卡拉，他们理解",
+            "在洛维萨，他们理解",
+            "博里厄斯市的法律宣布的语言是",
+            "凯乌鲁的官方语言是"
+        ]
+    },
+    {
+        "case_id": 12379,
+        "pararel_idx": 14042,
+        "requested_rewrite": {
+            "prompt": "{}起源于",
+            "relation_id": "P19",
+            "target_new": {
+                "str": "底特律",
+                "id": "Q12439"
+            },
+            "target_true": {
+                "str": "巴格达",
+                "id": "Q1530"
+            },
+            "subject": "伊本·豪卡尔"
+        },
+        "paraphrase_prompts": [
+            "伊本·豪卡尔最初来自",
+            "伊本·豪卡尔原籍于"
+        ],
+        "neighborhood_prompts": [
+            "肯扎·布拉伊加出生于",
+            "什穆埃尔·莫雷起源于",
+            "拉阿南·科恩出生于",
+            "伊本·巴瓦卜最初来自",
+            "萨松·索梅克起源于",
+            "盖斯·阿卜杜勒-阿哈德最初来自",
+            "纳齐姆·阿尔-加扎利原籍于",
+            "萨拉内·亚历山大里安出生于",
+            "摩西·巴拉扎尼出生于",
+            "兰·科恩最初来自"
+        ]
+    },
+    {
+        "case_id": 7853,
+        "pararel_idx": 3415,
+        "requested_rewrite": {
+            "prompt": "{} 讲的语言",
+            "relation_id": "P103",
+            "target_new": {
+                "str": "荷兰语",
+                "id": "Q7411"
+            },
+            "target_true": {
+                "str": "法语",
+                "id": "Q150"
+            },
+            "subject": "阿道夫·皮纳德"
+        },
+        "paraphrase_prompts": [
+            "阿道夫·皮纳德的母语是",
+            "阿道夫·皮纳德是母语为"
+        ],
+        "neighborhood_prompts": [
+            "弗朗索瓦·贝鲁，一个母语为",
+            "让·加宾讲的语言",
+            "让-吕克·皮卡尔的母语是",
+            "雷蒙·巴尔，讲",
+            "让·奥古斯特·多米尼克·安格尔的母语是",
+            "弗雷德里克·巴斯夏讲的语言",
+            "让·奥古斯特·多米尼克·安格尔是母语为",
+            "雷蒙·巴尔讲的语言",
+            "孟德斯鸠的母语是",
+            "莱昂·布鲁姆的母语是"
+        ]
+    },
+    {
+        "case_id": 20649,
+        "pararel_idx": 15567,
+        "requested_rewrite": {
+            "prompt": "{} 成立于",
+            "relation_id": "P740",
+            "target_new": {
+                "str": "加的夫",
+                "id": "Q10690"
+            },
+            "target_true": {
+                "str": "多伦多",
+                "id": "Q172"
+            },
+            "subject": "Ayria"
+        },
+        "paraphrase_prompts": [
+            "Ayria, 组建于",
+            "Ayria, 创建于"
+        ],
+        "neighborhood_prompts": [
+            "Freshii 创建于",
+            "Coles 创建于",
+            "Crash Vegas 开始于",
+            "Coles 成立于",
+            "Coles 开始于",
+            "Diemonds, 开始于",
+            "Elliott Brood, 成立于",
+            "Joydrop 成立于",
+            "Fractured 创建于",
+            "Coles 组建于"
+        ]
+    },
+    {
+        "case_id": 18214,
+        "pararel_idx": 16221,
+        "requested_rewrite": {
+            "prompt": "{}, 演奏",
+            "relation_id": "P136",
+            "target_new": {
+                "str": "悲剧",
+                "id": "Q80930"
+            },
+            "target_true": {
+                "str": "爵士乐",
+                "id": "Q8341"
+            },
+            "subject": "鲍勃·埃内沃尔森"
+        },
+        "paraphrase_prompts": [
+            "鲍勃·埃内沃尔森以演奏而闻名",
+            "鲍勃·埃内沃尔森演奏的流派是"
+        ],
+        "neighborhood_prompts": [
+            "大卫·桑伯恩, 演奏",
+            "埃塔·詹姆斯, 演奏",
+            "理查德·赖特演奏什么？他们演奏",
+            "阿尔·西尔斯以演奏而闻名",
+            "阿尔·西尔斯演奏",
+            "埃塔·詹姆斯以演奏而闻名",
+            "奥蒂斯·泰勒演奏的流派是",
+            "弗兰克·韦斯演奏的流派是",
+            "雷蒙兹·保尔斯演奏",
+            "凯西·艾布拉姆斯演奏什么？他们演奏"
+        ]
+    },
+    {
+        "case_id": 13016,
+        "pararel_idx": 3168,
+        "requested_rewrite": {
+            "prompt": "{}的母语是",
+            "relation_id": "P103",
+            "target_new": {
+                "str": "法语",
+                "id": "Q150"
+            },
+            "target_true": {
+                "str": "荷兰语",
+                "id": "Q7411"
+            },
+            "subject": "特奥·凡·杜斯堡"
+        },
+        "paraphrase_prompts": [
+            "特奥·凡·杜斯堡，讲",
+            "特奥·凡·杜斯堡的母语是"
+        ],
+        "neighborhood_prompts": [
+            "亨克·凡·沃尔登的母语是",
+            "亨德里克·布鲁格曼，讲",
+            "扬·亨德里克·瓦辛克的母语是",
+            "安东·库伦，母语",
+            "尼古拉斯·塔尔普的母语是",
+            "约翰内斯·林格尔巴赫的母语是",
+            "老亨德里克·凡·巴伦讲的语言是",
+            "彼得·科德的母语是",
+            "扬·亨德里克·瓦辛克的母语是",
+            "阿伦德·利普哈特的母语是"
+        ]
+    },
+    {
+        "case_id": 14873,
+        "pararel_idx": 2952,
+        "requested_rewrite": {
+            "prompt": "{}的母语是",
+            "relation_id": "P103",
+            "target_new": {
+                "str": "荷兰语",
+                "id": "Q7411"
+            },
+            "target_true": {
+                "str": "法语",
+                "id": "Q150"
+            },
+            "subject": "雅克·迪菲洛"
+        },
+        "paraphrase_prompts": [
+            "\"雅克·迪菲洛，讲",
+            "雅克·迪菲洛，一位母语"
+        ],
+        "neighborhood_prompts": [
+            "弗朗索瓦·贝鲁讲的语言",
+            "让-吕克·皮卡德，讲",
+            "米歇尔·罗卡尔讲的语言",
+            "罗伯特·舒曼，一位母语",
+            "埃利泽·雷克吕斯的母语是",
+            "雷蒙·巴尔，一位母语",
+            "莫里斯·热纳瓦的母语是",
+            "弗雷德里克·巴斯夏的母语是",
+            "让·奥古斯特·多米尼克·安格尔讲的语言",
+            "乔治·杜阿梅尔的母语是"
+        ]
+    },
+    {
+        "case_id": 14259,
+        "pararel_idx": 10613,
+        "requested_rewrite": {
+            "prompt": "{} 制定于",
+            "relation_id": "P495",
+            "target_new": {
+                "str": "英格兰",
+                "id": "Q21"
+            },
+            "target_true": {
+                "str": "加拿大",
+                "id": "Q16"
+            },
+            "subject": "《马哈拉特评论》"
+        },
+        "paraphrase_prompts": [
+            "《马哈拉特评论》，那来自于",
+            "《马哈拉特评论》，开发于"
+        ],
+        "neighborhood_prompts": [
+            "《大象巴巴王》，开发于",
+            "《扫描者》，制定于",
+            "《大象巴巴王》来自",
+            "《万无一失》，那创建于",
+            "《尖叫者》创建于",
+            "《跳跃者》，创建于",
+            "《孤岛惊魂》，那开发于",
+            "《成为艾瑞卡》开发于",
+            "《天赐》制定于",
+            "《另一个灰姑娘的故事》，创建于"
+        ]
+    },
+    {
+        "case_id": 2905,
+        "pararel_idx": 10032,
+        "requested_rewrite": {
+            "prompt": "{}的原始语言是",
+            "relation_id": "P364",
+            "target_new": {
+                "str": "泰米尔语",
+                "id": "Q5885"
+            },
+            "target_true": {
+                "str": "英语",
+                "id": "Q1860"
+            },
+            "subject": "政治不正确"
+        },
+        "paraphrase_prompts": [
+            "政治不正确的原始语言是",
+            "政治不正确使用的语言是"
+        ],
+        "neighborhood_prompts": [
+            "小飞象的原始语言是",
+            "狐狸与猎狗的原始语言是",
+            "小飞象使用的语言是",
+            "幽灵骑士使用的语言是",
+            "托斯卡纳艳阳下使用的语言是",
+            "42街的原始语言是",
+            "艺伎回忆录使用的语言是",
+            "纽约，我爱你使用的语言是",
+            "泰坦尼克号的原始语言是",
+            "教条的原始语言是"
+        ]
+    },
+    {
+        "case_id": 4626,
+        "pararel_idx": 12538,
+        "requested_rewrite": {
+            "prompt": "{} 死于",
+            "relation_id": "P20",
+            "target_new": {
+                "str": "波士顿",
+                "id": "Q100"
+            },
+            "target_true": {
+                "str": "巴塞罗那",
+                "id": "Q1492"
+            },
+            "subject": "查尔斯，维亚纳王子"
+        },
+        "paraphrase_prompts": [
+            "查尔斯，维亚纳王子在去世",
+            "查尔斯，维亚纳王子在逝世"
+        ],
+        "neighborhood_prompts": [
+            "巴塞罗那伯爵拉蒙·贝伦格尔一世死于",
+            "何塞·安东尼奥·德拉洛马·埃尔南德斯在去世",
+            "埃斯特·图斯克茨在逝世",
+            "曼努埃尔·德佩德罗洛·伊莫利纳死于城市",
+            "安娜·利萨兰在去世",
+            "帕尔马公爵卡洛斯·雨果在逝世",
+            "豪梅·瓦尔科尔巴·普拉纳在去世",
+            "何塞普·路易斯·塞特在逝世",
+            "曼努埃尔·德佩德罗洛·伊莫利纳在去世",
+            "安娜·利萨兰死于"
+        ]
+    },
+    {
+        "case_id": 16498,
+        "pararel_idx": 21654,
+        "requested_rewrite": {
+            "prompt": "{}的职业是",
+            "relation_id": "P106",
+            "target_new": {
+                "str": "政治家",
+                "id": "Q82955"
+            },
+            "target_true": {
+                "str": "演员",
+                "id": "Q33999"
+            },
+            "subject": "佘诗曼"
+        },
+        "paraphrase_prompts": [
+            "佘诗曼的工作是",
+            "佘诗曼的职业是"
+        ],
+        "neighborhood_prompts": [
+            "保罗·麦卡特尼的职业是",
+            "尼尔·杨的工作是",
+            "梅丽尔·斯特里普的职业是",
+            "约翰·列侬的职业是",
+            "埃尔维斯·普雷斯利的职业是",
+            "保罗·麦卡特尼的职业是",
+            "麦当娜的职业是",
+            "格蕾丝·凯利的职业是",
+            "迈克尔·杰克逊的职业是",
+            "麦当娜的职业是"
+        ]
+    },
+    {
+        "case_id": 996,
+        "pararel_idx": 5941,
+        "requested_rewrite": {
+            "prompt": "{} 是的产品",
+            "relation_id": "P178",
+            "target_new": {
+                "str": "任天堂",
+                "id": "Q8093"
+            },
+            "target_true": {
+                "str": "Adobe",
+                "id": "Q11463"
+            },
+            "subject": "字形位图分布格式"
+        },
+        "paraphrase_prompts": [
+            "字形位图分布格式是的产品",
+            "字形位图分布格式由开发"
+        ],
+        "neighborhood_prompts": [
+            "Adobe Photoshop Lightroom, 由开发",
+            "PostScript 由开发",
+            "Adobe GoLive 是的产品",
+            "Adobe After Effects 是的产品",
+            "Adobe After Effects 由创建",
+            "Adobe After Effects 是的产品",
+            "Adobe Flash Player, 由创建的产品",
+            "Adobe After Effects, 的产品",
+            "Adobe InDesign 由创建",
+            "Small Web Format 由创建"
+        ]
+    },
+    {
+        "case_id": 16320,
+        "pararel_idx": 16293,
+        "requested_rewrite": {
+            "prompt": "{}以表演而闻名",
+            "relation_id": "P136",
+            "target_new": {
+                "str": "歌剧",
+                "id": "Q1344"
+            },
+            "target_true": {
+                "str": "爵士乐",
+                "id": "Q8341"
+            },
+            "subject": "里基·福特"
+        },
+        "paraphrase_prompts": [
+            "里基·福特演奏的流派是",
+            "里基·福特演奏"
+        ],
+        "neighborhood_prompts": [
+            "凯西·艾布拉姆斯演奏",
+            "弗雷迪·科尔表演",
+            "安东尼奥·卡洛斯·乔宾表演",
+            "杰基·泰拉松演奏的流派是",
+            "大卫·桑伯恩演奏什么？他们演奏",
+            "凯西·艾布拉姆斯演奏",
+            "齐吉·埃尔曼演奏",
+            "凯西·艾布拉姆斯演奏什么？他们演奏",
+            "安东尼奥·卡洛斯·乔宾演奏什么？他们演奏",
+            "齐娜·帕金斯演奏"
+        ]
+    },
+    {
+        "case_id": 19231,
+        "pararel_idx": 3257,
+        "requested_rewrite": {
+            "prompt": "{}的母语是",
+            "relation_id": "P103",
+            "target_new": {
+                "str": "英语",
+                "id": "Q1860"
+            },
+            "target_true": {
+                "str": "法语",
+                "id": "Q150"
+            },
+            "subject": "帕特里克·朗博"
+        },
+        "paraphrase_prompts": [
+            "帕特里克·朗博的母语是",
+            "帕特里克·朗博，说"
+        ],
+        "neighborhood_prompts": [
+            "弗雷德里克·巴斯夏说的语言是",
+            "莫里斯·热纳瓦的母语是",
+            "莫里斯·热纳瓦的母语是",
+            "雅克·沙邦-戴尔马的母语是",
+            "让-巴蒂斯特·萨伊说的语言是",
+            "雷蒙·巴尔的母语是",
+            "雅克·沙邦-戴尔马的母语是",
+            "奥克塔夫·米尔博的母语是",
+            "费迪南·德·索绪尔，说",
+            "埃利泽·雷克吕的母语是"
+        ]
+    },
+    {
+        "case_id": 154,
+        "pararel_idx": 4272,
+        "requested_rewrite": {
+            "prompt": "{}, 由",
+            "relation_id": "P176",
+            "target_new": {
+                "str": "索尼",
+                "id": "Q41187"
+            },
+            "target_true": {
+                "str": "宝马",
+                "id": "Q26678"
+            },
+            "subject": "宝马 326"
+        },
+        "paraphrase_prompts": [
+            "宝马 326 由开发",
+            "宝马 326 由创建"
+        ],
+        "neighborhood_prompts": [
+            "宝马 N55 是的产品",
+            "宝马 M5 由开发",
+            "宝马 M67, 由生产",
+            "宝马 M3 由创建",
+            "宝马 M54, 由开发",
+            "宝马 GINA 由开发",
+            "宝马 M1, 由生产",
+            "宝马 N53, 由开发",
+            "宝马 M60, 由创建",
+            "宝马 N57 是的产品"
+        ]
+    },
+    {
+        "case_id": 7246,
+        "pararel_idx": 17421,
+        "requested_rewrite": {
+            "prompt": "{} 来自",
+            "relation_id": "P127",
+            "target_new": {
+                "str": "谷歌",
+                "id": "Q95"
+            },
+            "target_true": {
+                "str": "铃木",
+                "id": "Q181642"
+            },
+            "subject": "马鲁蒂铃木"
+        },
+        "paraphrase_prompts": [
+            "马鲁蒂铃木的所有者",
+            "\" 马鲁蒂铃木的所有者"
+        ],
+        "neighborhood_prompts": [
+            "匈牙利铃木的所有者",
+            "铃木Indomobil Motor的所有者",
+            "台湾铃木汽车公司，由",
+            "CAMI Automotive的所有者",
+            "台湾铃木汽车公司来自",
+            "CAMI Automotive，由",
+            "台湾铃木汽车公司的所有者",
+            "台湾铃木汽车公司由拥有",
+            "铃木Indomobil Motor来自",
+            "铃木Indomobil Motor的所有者"
+        ]
+    },
+    {
+        "case_id": 11468,
+        "pararel_idx": 16429,
+        "requested_rewrite": {
+            "prompt": "{}演奏什么？他们演奏",
+            "relation_id": "P136",
+            "target_new": {
+                "str": "电子乐",
+                "id": "Q217597"
+            },
+            "target_true": {
+                "str": "爵士乐",
+                "id": "Q8341"
+            },
+            "subject": "Jiunie Booth"
+        },
+        "paraphrase_prompts": [
+            "Jiunie Booth演奏",
+            "Jiunie Booth演奏的流派是"
+        ],
+        "neighborhood_prompts": [
+            "Al Sears演奏",
+            "Paolo Conte以演奏",
+            "Freddy Cole演奏的流派是",
+            "Chick Corea演奏的流派是",
+            "Freddy Cole演奏",
+            "Chick Corea演奏",
+            "Zeena Parkins演奏的流派是",
+            "Zeena Parkins演奏什么？他们演奏",
+            "Frank Wess演奏",
+            "Ziggy Elman以演奏"
+        ]
+    },
+    {
+        "case_id": 14600,
+        "pararel_idx": 3222,
+        "requested_rewrite": {
+            "prompt": "{}的母语是",
+            "relation_id": "P103",
+            "target_new": {
+                "str": "荷兰语",
+                "id": "Q7411"
+            },
+            "target_true": {
+                "str": "法语",
+                "id": "Q150"
+            },
+            "subject": "爱丽丝·伊萨兹"
+        },
+        "paraphrase_prompts": [
+            "爱丽丝·伊萨兹的母语是",
+            "爱丽丝·伊萨兹，母语"
+        ],
+        "neighborhood_prompts": [
+            "费迪南德·德·索绪尔的母语是",
+            "让-吕克·皮卡德，说的语言是",
+            "孟德斯鸠的母语是",
+            "梅尔基奥尔·德·沃居埃说的语言是",
+            "米歇尔·罗卡尔，母语",
+            "莱昂·布鲁姆的母语是",
+            "罗伯特·舒曼，说的语言是",
+            "费迪南德·德·索绪尔，母语",
+            "让-巴蒂斯特·萨伊，母语",
+            "奥克塔夫·米尔博说的语言是"
+        ]
+    },
+    {
+        "case_id": 21528,
+        "pararel_idx": 22539,
+        "requested_rewrite": {
+            "prompt": "{}的活动领域是",
+            "relation_id": "P101",
+            "target_new": {
+                "str": "几何学",
+                "id": "Q8087"
+            },
+            "target_true": {
+                "str": "化学",
+                "id": "Q2329"
+            },
+            "subject": "埃利亚斯·詹姆斯·科里"
+        },
+        "paraphrase_prompts": [
+            "埃利亚斯·詹姆斯·科里专长于",
+            "埃利亚斯·詹姆斯·科里的工作领域是"
+        ],
+        "neighborhood_prompts": [
+            "格哈德·埃特尔的活动领域是",
+            "亨利·贝克勒尔的活动领域是",
+            "保罗·埃尔利希工作的领域是",
+            "伊雷娜·约里奥-居里的专长是",
+            "德米特里·门捷列夫的工作领域是",
+            "格哈德·埃特尔工作的领域是",
+            "尤斯图斯·冯·李比希的专长是",
+            "弗里德里希·维勒的工作领域是",
+            "路易·巴斯德的工作领域是",
+            "保罗·埃尔利希的工作领域是"
+        ]
+    },
+    {
+        "case_id": 6250,
+        "pararel_idx": 22065,
+        "requested_rewrite": {
+            "prompt": "{}的职业是",
+            "relation_id": "P106",
+            "target_new": {
+                "str": "记者",
+                "id": "Q1930187"
+            },
+            "target_true": {
+                "str": "演员",
+                "id": "Q33999"
+            },
+            "subject": "丽贝卡·皮金"
+        },
+        "paraphrase_prompts": [
+            "丽贝卡·皮金的职业是",
+            "丽贝卡·皮金的工作是"
+        ],
+        "neighborhood_prompts": [
+            "约翰·列侬的职业是",
+            "查尔斯·阿兹纳夫尔的职业是",
+            "埃尔维斯·普雷斯利的职业是",
+            "鲍勃·迪伦的职业是",
+            "麦当娜的职业是",
+            "大卫·林奇的职业是",
+            "格蕾丝·凯利的职业是",
+            "米哈伊尔·布尔加科夫的职业是",
+            "阿诺德·施瓦辛格的工作是",
+            "尼尔·杨的职业是"
+        ]
+    },
+    {
+        "case_id": 17149,
+        "pararel_idx": 11713,
+        "requested_rewrite": {
+            "prompt": "{} 首播于",
+            "relation_id": "P449",
+            "target_new": {
+                "str": "PBS",
+                "id": "Q215616"
+            },
+            "target_true": {
+                "str": "CBS",
+                "id": "Q43380"
+            },
+            "subject": "早间秀"
+        },
+        "paraphrase_prompts": [
+            "早间秀发布于",
+            "早间秀首播于"
+        ],
+        "neighborhood_prompts": [
+            "贝弗利山人首播于",
+            "神奇先生首播于",
+            "塞勒姆的命运发布于",
+            "神奇先生首播于",
+            "拉丁格莱美奖首播于",
+            "塞勒姆的命运最初播出于",
+            "小美人鱼发布于",
+            "CBS新闻最初播出于",
+            "巴纳比·琼斯最初播出于",
+            "海湾街的蜡烛首播于"
+        ]
+    },
+    {
+        "case_id": 8055,
+        "pararel_idx": 12467,
+        "requested_rewrite": {
+            "prompt": "{}的生命结束于",
+            "relation_id": "P20",
+            "target_new": {
+                "str": "维也纳",
+                "id": "Q1741"
+            },
+            "target_true": {
+                "str": "圣地亚哥",
+                "id": "Q2887"
+            },
+            "subject": "巴勃罗·德·罗卡"
+        },
+        "paraphrase_prompts": [
+            "巴勃罗·德·罗卡去世于",
+            "巴勃罗·德·罗卡逝世于"
+        ],
+        "neighborhood_prompts": [
+            "米格尔·布斯克茨的生命结束于",
+            "马里奥·莫雷诺的生命结束于",
+            "豪尔赫·胡内乌斯·塞格斯逝世于",
+            "何塞·托哈去世于",
+            "格拉迪斯·德尔·里奥逝世于",
+            "劳尔·桑切斯在{}市去世",
+            "奥尔滕西亚·布西逝世于",
+            "爱德华多·邦瓦莱特去世于",
+            "何塞·托哈的生命结束于",
+            "罗伯托·霍奇的生命结束于"
+        ]
+    },
+    {
+        "case_id": 21421,
+        "pararel_idx": 12489,
+        "requested_rewrite": {
+            "prompt": "{} 在",
+            "relation_id": "P20",
+            "target_new": {
+                "str": "波士顿",
+                "id": "Q100"
+            },
+            "target_true": {
+                "str": "巴黎",
+                "id": "Q90"
+            },
+            "subject": "圣乔治骑士"
+        },
+        "paraphrase_prompts": [
+            "圣乔治骑士在这座城市去世",
+            "圣乔治骑士在去世"
+        ],
+        "neighborhood_prompts": [
+            "加布里埃尔·福雷在去世",
+            "恩斯特·魏斯在这座城市去世",
+            "夏尔-安托万·夸佩尔在去世",
+            "阿道夫·尼尔在去世",
+            "卡米耶·德奥斯坦，塔拉尔公爵在去世",
+            "谢尔盖·普罗库金-戈尔斯基在去世",
+            "贝尔特·莫里索在去世",
+            "奥托·格劳托夫在去世",
+            "让-巴蒂斯特·菲利贝尔·瓦扬在去世",
+            "威廉·弗勒纳在去世"
+        ]
+    },
+    {
+        "case_id": 5523,
+        "pararel_idx": 22476,
+        "requested_rewrite": {
+            "prompt": "{}的工作领域是",
+            "relation_id": "P101",
+            "target_new": {
+                "str": "物理学",
+                "id": "Q413"
+            },
+            "target_true": {
+                "str": "人类学",
+                "id": "Q23404"
+            },
+            "subject": "弗雷德里卡·德·拉古纳"
+        },
+        "paraphrase_prompts": [
+            "弗雷德里卡·德·拉古纳的专业是",
+            "弗雷德里卡·德·拉古纳的活动领域是"
+        ],
+        "neighborhood_prompts": [
+            "弗朗索瓦丝·埃里捷的工作领域是",
+            "美国人类学协会的工作领域是",
+            "罗宾·邓巴的专业是",
+            "霍滕斯·鲍德梅克的工作领域是",
+            "罗宾·邓巴的工作领域是",
+            "雪莉·奥特纳的工作领域是",
+            "山口昌男的工作领域是",
+            "罗宾·邓巴的活动领域是",
+            "费迪尔·沃夫克的专长是",
+            "蒂姆·英戈尔德的工作领域是"
+        ]
+    },
+    {
+        "case_id": 18240,
+        "pararel_idx": 4083,
+        "requested_rewrite": {
+            "prompt": "{} 由",
+            "relation_id": "P176",
+            "target_new": {
+                "str": "菲亚特",
+                "id": "Q27597"
+            },
+            "target_true": {
+                "str": "克莱斯勒",
+                "id": "Q181114"
+            },
+            "subject": "吉普牧马人"
+        },
+        "paraphrase_prompts": [
+            "吉普牧马人，由开发",
+            "吉普牧马人，由创建"
+        ],
+        "neighborhood_prompts": [
+            "M8 由生产",
+            "克莱斯勒城乡（1990年前），由生产",
+            "吉普瓦格尼尔（WS）由创建",
+            "克莱斯勒LeBaron GTS 是的产品",
+            "克莱斯勒层云由创建",
+            "S-IB，由开发",
+            "M8，由创建",
+            "TorqueFlite 由生产",
+            "克莱斯勒LeBaron GTS 由生产",
+            "克莱斯勒LeBaron GTS，由生产"
+        ]
+    },
+    {
+        "case_id": 7505,
+        "pararel_idx": 9205,
+        "requested_rewrite": {
+            "prompt": "{}, 拥有国籍来自",
+            "relation_id": "P27",
+            "target_new": {
+                "str": "法国",
+                "id": "Q142"
+            },
+            "target_true": {
+                "str": "加拿大",
+                "id": "Q16"
+            },
+            "subject": "托马斯·莱尔德·肯尼迪"
+        },
+        "paraphrase_prompts": [
+            "托马斯·莱尔德·肯尼迪, 持有国籍来自",
+            "托马斯·莱尔德·肯尼迪是公民的"
+        ],
+        "neighborhood_prompts": [
+            "基弗·萨瑟兰持有国籍来自",
+            "帕特里克·陈, 一个公民的",
+            "盖伊·加夫里尔·凯, 一个公民的",
+            "西德尼·奥尔特曼, 谁是公民的",
+            "罗比·罗伯逊是公民的",
+            "盖伊·加夫里尔·凯是公民的",
+            "奥古斯特·维亚特, 一个公民的",
+            "奥斯卡·莫拉维茨持有国籍来自",
+            "帕特里克·陈, 谁拥有国籍来自",
+            "玛丽·毕克馥, 谁是公民的"
+        ]
+    },
+    {
+        "case_id": 14467,
+        "pararel_idx": 11882,
+        "requested_rewrite": {
+            "prompt": "{} 首播于",
+            "relation_id": "P449",
+            "target_new": {
+                "str": "NBC",
+                "id": "Q13974"
+            },
+            "target_true": {
+                "str": "CBS",
+                "id": "Q43380"
+            },
+            "subject": "CBS学校特别节目"
+        },
+        "paraphrase_prompts": [
+            "CBS学校特别节目最初在",
+            "CBS学校特别节目将在"
+        ],
+        "neighborhood_prompts": [
+            "比佛利山人将在",
+            "大卫·莱特曼晚间秀最初在",
+            "海湾街的蜡烛首播于",
+            "拉丁格莱美奖将在",
+            "塞勒姆之地最初在",
+            "小恐龙丁克首播于",
+            "黄金男孩最初在",
+            "特工处最初在",
+            "大卫·莱特曼晚间秀首播于",
+            "塞勒姆之地将在"
+        ]
+    },
+    {
+        "case_id": 8926,
+        "pararel_idx": 12270,
+        "requested_rewrite": {
+            "prompt": "{} 在",
+            "relation_id": "P20",
+            "target_new": {
+                "str": "那不勒斯",
+                "id": "Q2634"
+            },
+            "target_true": {
+                "str": "巴黎",
+                "id": "Q90"
+            },
+            "subject": "阿尔图瓦伯爵夫人玛奥"
+        },
+        "paraphrase_prompts": [
+            "阿尔图瓦伯爵夫人玛奥在",
+            "阿尔图瓦伯爵夫人玛奥逝世于"
+        ],
+        "neighborhood_prompts": [
+            "卡米耶·多斯通，塔拉尔公爵在",
+            "恩斯特·魏斯逝世于城市",
+            "卡米耶·多斯通，塔拉尔公爵逝世于城市",
+            "谢尔盖·普罗库金-戈尔斯基在",
+            "安德烈·吉尼尔的生命的尽头在",
+            "威廉·弗勒纳在",
+            "贝尔特·莫里索逝世于",
+            "乌尔班·勒维里耶在",
+            "贝尔特·莫里索在",
+            "威廉·弗勒纳在"
+        ]
+    },
+    {
+        "case_id": 156,
+        "pararel_idx": 12077,
+        "requested_rewrite": {
+            "prompt": "{} 在",
+            "relation_id": "P20",
+            "target_new": {
+                "str": "巴黎",
+                "id": "Q90"
+            },
+            "target_true": {
+                "str": "蒙特利尔",
+                "id": "Q340"
+            },
+            "subject": "平哈斯·赫希斯普龙"
+        },
+        "paraphrase_prompts": [
+            "平哈斯·赫希斯普龙在这座城市去世",
+            "平哈斯·赫希斯普龙去世于"
+        ],
+        "neighborhood_prompts": [
+            "阿尔塞纳·贝塞特在",
+            "安托万·夏尔捷·德·洛特比尼埃·哈伍德在",
+            "安托万·夏尔捷·德·洛特比尼埃·哈伍德去世于",
+            "安德烈·马耶在",
+            "安托万-艾梅·多里昂在",
+            "安德烈·雷诺在",
+            "阿尔芒·弗拉皮耶去世于",
+            "阿尔塞纳·贝塞特的生命结束于",
+            "安德烈·梅拉松在",
+            "亚瑟·利普塞特在"
+        ]
+    },
+    {
+        "case_id": 3504,
+        "pararel_idx": 20950,
+        "requested_rewrite": {
+            "prompt": "{}的总部位于",
+            "relation_id": "P159",
+            "target_new": {
+                "str": "米兰",
+                "id": "Q490"
+            },
+            "target_true": {
+                "str": "罗马",
+                "id": "Q220"
+            },
+            "subject": "意大利航空-意大利航空公司"
+        },
+        "paraphrase_prompts": [
+            "意大利航空-意大利航空公司的基地位于",
+            "意大利航空-意大利航空公司的总部位于"
+        ],
+        "neighborhood_prompts": [
+            "基督教民主党的总部位于",
+            "博尔盖塞画廊的总部位于",
+            "意大利红十字会的总部位于",
+            "圣母玛利亚慈悲骑士团的总部位于",
+            "意大利红十字会的总部在",
+            "方济各小兄弟会的总部位于",
+            "意大利共和党的总部位于",
+            "意大利卫生部的总部位于",
+            "国际农业发展基金的总部位于",
+            "意大利农业、食品和林业政策部的基地位于"
+        ]
+    },
+    {
+        "case_id": 3085,
+        "pararel_idx": 6507,
+        "requested_rewrite": {
+            "prompt": "{}位于国家",
+            "relation_id": "P17",
+            "target_new": {
+                "str": "波兰",
+                "id": "Q36"
+            },
+            "target_true": {
+                "str": "荷兰",
+                "id": "Q55"
+            },
+            "subject": "阿姆斯特丹舞蹈活动"
+        },
+        "paraphrase_prompts": [
+            "阿姆斯特丹舞蹈活动，位于",
+            "阿姆斯特丹舞蹈活动位于"
+        ],
+        "neighborhood_prompts": [
+            "索梅伦位于",
+            "莫尔迪克位于",
+            "奥斯特豪特位于",
+            "哈勒姆位于",
+            "乌登位于国家",
+            "津德尔特，位于",
+            "登海尔德，在",
+            "奥斯特豪特，在",
+            "奥斯特豪特位于国家",
+            "贝弗维克，位于"
+        ]
+    },
+    {
+        "case_id": 18974,
+        "pararel_idx": 2551,
+        "requested_rewrite": {
+            "prompt": "{}可以在",
+            "relation_id": "P131",
+            "target_new": {
+                "str": "利兹",
+                "id": "Q39121"
+            },
+            "target_true": {
+                "str": "伯尔尼",
+                "id": "Q70"
+            },
+            "subject": "伯尔尼剧院"
+        },
+        "paraphrase_prompts": [
+            "伯尔尼剧院位于",
+            "伯尔尼剧院在"
+        ],
+        "neighborhood_prompts": [
+            "Ländtetor位于",
+            "Police Station Waisenhaus位于",
+            "Stadtmühle可以在",
+            "Naturhistorisches Museum der Burgergemeinde Bern在",
+            "Villette Villas (Cottage and tower construction)在",
+            "Stadtmühle位于",
+            "1x1 Theater可以在",
+            "furnace house Baumgarten Manor位于",
+            "Wysslochgut位于",
+            "Viktoriaschulhaus可以在"
+        ]
+    },
+    {
+        "case_id": 1552,
+        "pararel_idx": 17227,
+        "requested_rewrite": {
+            "prompt": "{}, 来自",
+            "relation_id": "P127",
+            "target_new": {
+                "str": "谷歌",
+                "id": "Q95"
+            },
+            "target_true": {
+                "str": "WWE",
+                "id": "Q35339"
+            },
+            "subject": "佛罗里达冠军摔跤"
+        },
+        "paraphrase_prompts": [
+            "佛罗里达冠军摔跤的所有者",
+            "佛罗里达冠军摔跤的拥有者"
+        ],
+        "neighborhood_prompts": [
+            "WWE NXT, 来自",
+            "WWE Network, 来自",
+            "WWE Performance Center, 来自",
+            "WWE NXT 来自",
+            "WWE Network 来自",
+            "WWE Performance Center 由谁拥有",
+            "WWE Studios 由谁拥有",
+            "WWE Network, 由",
+            "WWE Books 的所有者",
+            "Raw, 来自"
+        ]
+    },
+    {
+        "case_id": 13393,
+        "pararel_idx": 14486,
+        "requested_rewrite": {
+            "prompt": "{} 的出生地是",
+            "relation_id": "P19",
+            "target_new": {
+                "str": "伦敦",
+                "id": "Q84"
+            },
+            "target_true": {
+                "str": "巴黎",
+                "id": "Q90"
+            },
+            "subject": "萨德侯爵"
+        },
+        "paraphrase_prompts": [
+            "萨德侯爵最初来自",
+            "萨德侯爵原籍于"
+        ],
+        "neighborhood_prompts": [
+            "波琳·维亚尔多起源于",
+            "奥古斯特·隆尼翁出生于",
+            "夏尔-让-弗朗索瓦·埃诺的出生地是",
+            "亨利·路易·勒夏特利尔最初来自",
+            "阿德里安·普雷沃·德·隆佩里耶最初来自",
+            "安德烈·夏尔·布尔最初来自",
+            "路易-奥古斯特·比松起源于",
+            "加布里埃尔·伯特兰最初来自",
+            "夏尔·佩罗的出生地是",
+            "夏尔·佩罗原籍于"
+        ]
+    },
+    {
+        "case_id": 556,
+        "pararel_idx": 18420,
+        "requested_rewrite": {
+            "prompt": "{} 说的语言",
+            "relation_id": "P1412",
+            "target_new": {
+                "str": "法语",
+                "id": "Q150"
+            },
+            "target_true": {
+                "str": "英语",
+                "id": "Q1860"
+            },
+            "subject": "詹妮弗·哈德森"
+        },
+        "paraphrase_prompts": [
+            "詹妮弗·哈德森用哪种语言写作",
+            "Pella Sietas GmbH，一家位于德国汉堡的造船厂，詹妮弗·哈德森说"
+        ],
+        "neighborhood_prompts": [
+            "迈克尔·法拉第说",
+            "托马斯·阿尔瓦·爱迪生说的语言",
+            "尼古拉·特斯拉使用的语言是",
+            "迈克尔·法拉第使用的语言是",
+            "诺姆·乔姆斯基说的语言",
+            "孙中山用哪种语言写作",
+            "戈特弗里德·威廉·莱布尼茨用哪种语言写作",
+            "富兰克林·德拉诺·罗斯福说",
+            "欧内斯特·卢瑟福使用的语言是",
+            "恩里科·费米使用的语言是"
+        ]
+    },
+    {
+        "case_id": 2148,
+        "pararel_idx": 11181,
+        "requested_rewrite": {
+            "prompt": "{} 首次亮相于",
+            "relation_id": "P449",
+            "target_new": {
+                "str": "CBS",
+                "id": "Q43380"
+            },
+            "target_true": {
+                "str": "NBC",
+                "id": "Q13974"
+            },
+            "subject": "丹尼·托马斯时间"
+        },
+        "paraphrase_prompts": [
+            "丹尼·托马斯时间即将在",
+            "丹尼·托马斯时间首播于"
+        ],
+        "neighborhood_prompts": [
+            "卡通全明星救援队首播于",
+            "禁忌之恋最初播出于",
+            "好声音发布于",
+            "姐妹们最初播出于",
+            "NBC晚间新闻首播于",
+            "库卡蒙加营地首次亮相于",
+            "力量模式首次亮相于",
+            "永恒边缘的城市首次亮相于",
+            "姐妹们发布于",
+            "好声音首次亮相于"
+        ]
+    },
+    {
+        "case_id": 11987,
+        "pararel_idx": 7036,
+        "requested_rewrite": {
+            "prompt": "{} 位于",
+            "relation_id": "P17",
+            "target_new": {
+                "str": "瑞典",
+                "id": "Q34"
+            },
+            "target_true": {
+                "str": "匈牙利",
+                "id": "Q28"
+            },
+            "subject": "布达"
+        },
+        "paraphrase_prompts": [
+            "布达，位于",
+            "布达位于的国家是"
+        ],
+        "neighborhood_prompts": [
+            "Zichyújfalu 位于",
+            "新锡德尔湖，位于",
+            "斯洛伐克语位于",
+            "Bicske 位于的国家是",
+            "克罗地亚语位于的国家是",
+            "NMHH 电影分级，位于",
+            "巴拉顿湖位于",
+            "NMHH 电影分级，位于",
+            "克罗地亚语，位于",
+            "布达佩斯，位于"
+        ]
+    },
+    {
+        "case_id": 495,
+        "pararel_idx": 69,
+        "requested_rewrite": {
+            "prompt": "{}, 担任的职位是",
+            "relation_id": "P39",
+            "target_new": {
+                "str": "红衣主教",
+                "id": "Q45722"
+            },
+            "target_true": {
+                "str": "市长",
+                "id": "Q30185"
+            },
+            "subject": "伯恩哈德·克尼佩尔多林"
+        },
+        "paraphrase_prompts": [
+            "伯恩哈德·克尼佩尔多林, 其职位是",
+            "伯恩哈德·克尼佩尔多林担任的职位是"
+        ],
+        "neighborhood_prompts": [
+            "尤利乌斯·利珀特, 担任的职位是",
+            "理查德·温德勒持有的头衔是",
+            "理查德·温德勒, 担任的职位是",
+            "威廉·克纳贝是一位",
+            "雷纳·奥弗格尔德担任的职位是",
+            "格奥尔格·迪德里希斯担任的职位是",
+            "托马斯·维默的职位是",
+            "沃尔夫冈·舒斯特, 其职位是",
+            "卡尔·斯特罗林, 担任的职位是",
+            "尤利乌斯·利珀特持有的头衔是"
+        ]
+    },
+    {
+        "case_id": 18884,
+        "pararel_idx": 9708,
+        "requested_rewrite": {
+            "prompt": "{}的语言是",
+            "relation_id": "P364",
+            "target_new": {
+                "str": "法语",
+                "id": "Q150"
+            },
+            "target_true": {
+                "str": "韩语",
+                "id": "Q9176"
+            },
+            "subject": "天堂牧场"
+        },
+        "paraphrase_prompts": [
+            "天堂牧场的语言是",
+            "天堂牧场的原始语言是"
+        ],
+        "neighborhood_prompts": [
+            "《醉画仙》的原始语言是",
+            "《霜花店》的原始语言是",
+            "《2009：迷失的记忆》的原始语言是",
+            "《阿阿奇与西西帕克》的原始语言是",
+            "《七天》的原始语言是",
+            "《朋友》的原始语言是",
+            "《爱情雨》的原始语言是",
+            "《梦》的原始语言是",
+            "《无悔》的原始语言是",
+            "《2009：迷失的记忆》的语言是"
+        ]
+    },
+    {
+        "case_id": 2321,
+        "pararel_idx": 19634,
+        "requested_rewrite": {
+            "prompt": "{}的官方宗教是",
+            "relation_id": "P140",
+            "target_new": {
+                "str": "伊斯兰教",
+                "id": "Q432"
+            },
+            "target_true": {
+                "str": "基督教",
+                "id": "Q5043"
+            },
+            "subject": "Radim Gaudentius"
+        },
+        "paraphrase_prompts": [
+            "Radim Gaudentius信仰的宗教是",
+            "Radim Gaudentius是信徒"
+        ],
+        "neighborhood_prompts": [
+            "Moby的官方宗教是",
+            "Quentin Tarantino的官方宗教是",
+            "君士坦丁大帝信仰的宗教是",
+            "Ringo Starr信仰的宗教是",
+            "Andrew Johnson是信徒",
+            "Paul是信徒",
+            "Eminem是信徒",
+            "Charles Aznavour信仰的宗教是",
+            "Fritz Lang是信徒",
+            "Orson Welles信仰的宗教是"
+        ]
+    },
+    {
+        "case_id": 912,
+        "pararel_idx": 19932,
+        "requested_rewrite": {
+            "prompt": "{}在哪里？它位于",
+            "relation_id": "P276",
+            "target_new": {
+                "str": "路易斯安那州",
+                "id": "Q1588"
+            },
+            "target_true": {
+                "str": "波士顿",
+                "id": "Q100"
+            },
+            "subject": "PAX"
+        },
+        "paraphrase_prompts": [
+            "PAX可以在找到",
+            "PAX的位置是"
+        ],
+        "neighborhood_prompts": [
+            "南站可以在找到",
+            "阿诺德植物园可以在找到",
+            "马萨诸塞大学波士顿分校位于",
+            "波士顿先驱报位于",
+            "MBTA通勤铁路的位置是",
+            "伯克利音乐学院在哪里？它位于",
+            "法尼尔厅可以在找到",
+            "阿诺德植物园在哪里？它位于",
+            "波士顿公共的位置是",
+            "波士顿雅典娜神庙在"
+        ]
+    },
+    {
+        "case_id": 18451,
+        "pararel_idx": 18132,
+        "requested_rewrite": {
+            "prompt": "{} 讲的语言",
+            "relation_id": "P1412",
+            "target_new": {
+                "str": "法语",
+                "id": "Q150"
+            },
+            "target_true": {
+                "str": "意大利语",
+                "id": "Q652"
+            },
+            "subject": "安东尼奥·马格赫里蒂"
+        },
+        "paraphrase_prompts": [
+            "安东尼奥·马格赫里蒂使用的语言是",
+            "! 安东尼奥·马格赫里蒂写作使用的语言是"
+        ],
+        "neighborhood_prompts": [
+            "克里斯蒂娜一世使用的语言是",
+            "埃托雷·斯科拉写作使用的语言是",
+            "卡洛·斯卡帕讲的语言",
+            "维托里奥·德·西卡使用的语言是",
+            "朱塞佩·托纳多雷讲的语言",
+            "马里奥·莫尼切利写作使用的语言是",
+            "阿尔贝托·索尔迪写作使用的语言是",
+            "弗兰克·卡普拉使用的语言是",
+            "路易吉·科门奇尼写作使用的语言是",
+            "朱利奥·安德烈奥蒂讲的语言"
+        ]
+    },
+    {
+        "case_id": 8777,
+        "pararel_idx": 3216,
+        "requested_rewrite": {
+            "prompt": "{}, 母语为",
+            "relation_id": "P103",
+            "target_new": {
+                "str": "荷兰语",
+                "id": "Q7411"
+            },
+            "target_true": {
+                "str": "法语",
+                "id": "Q150"
+            },
+            "subject": "摩西·阿姆罗"
+        },
+        "paraphrase_prompts": [
+            "摩西·阿姆罗的母语是",
+            "摩西·阿姆罗的第一语言是"
+        ],
+        "neighborhood_prompts": [
+            "梅尔基奥尔·德·沃居埃的母语是",
+            "孟德斯鸠的母语是",
+            "孟德斯鸠, 母语为",
+            "乔治·杜阿梅尔, 使用语言为",
+            "雷蒙·巴尔的母语是",
+            "让·奥古斯特·多米尼克·安格尔, 使用语言为",
+            "雅克·沙邦-戴尔马, 母语为",
+            "奥克塔夫·米尔博的第一语言是",
+            "雷蒙·巴尔, 使用语言为",
+            "弗朗索瓦·贝鲁, 母语为"
+        ]
+    },
+    {
+        "case_id": 151,
+        "pararel_idx": 6939,
+        "requested_rewrite": {
+            "prompt": "{}位于国家",
+            "relation_id": "P17",
+            "target_new": {
+                "str": "俄罗斯",
+                "id": "Q159"
+            },
+            "target_true": {
+                "str": "墨西哥",
+                "id": "Q96"
+            },
+            "subject": "Ozumba"
+        },
+        "paraphrase_prompts": [
+            "Ozumba, 位于",
+            "Ozumba, 在"
+        ],
+        "neighborhood_prompts": [
+            "尤卡坦玛雅语, 位于",
+            "哈利斯科, 位于",
+            "华雷斯城, 位于",
+            "奇琴伊察位于",
+            "尤卡坦玛雅语, 在",
+            "新莱昂, 在",
+            "1968年夏季奥运会, 位于",
+            "墨西哥湾位于",
+            "奇琴伊察, 位于",
+            "西班牙语位于国家"
+        ]
+    },
+    {
+        "case_id": 16818,
+        "pararel_idx": 23801,
+        "requested_rewrite": {
+            "prompt": "{}, 这位",
+            "relation_id": "P641",
+            "target_new": {
+                "str": "棒球",
+                "id": "Q5369"
+            },
+            "target_true": {
+                "str": "篮球",
+                "id": "Q5372"
+            },
+            "subject": "朱利叶斯·欧文"
+        },
+        "paraphrase_prompts": [
+            "朱利叶斯·欧文, 这位",
+            "朱利叶斯·欧文打"
+        ],
+        "neighborhood_prompts": [
+            "科比·布莱恩特职业从事的运动",
+            "拉里·伯德, 这位",
+            "凯文·杜兰特打什么运动？他们打",
+            "丹尼斯·罗德曼打什么运动？他们打",
+            "科比·布莱恩特, 这位",
+            "保罗·加索尔打",
+            "魔术师约翰逊是一名职业",
+            "查尔斯·巴克利打",
+            "丹尼斯·罗德曼是一名职业",
+            "哈基姆·奥拉朱旺打什么运动？他们打"
+        ]
+    },
+    {
+        "case_id": 18837,
+        "pararel_idx": 19125,
+        "requested_rewrite": {
+            "prompt": "{}的语言是",
+            "relation_id": "P407",
+            "target_new": {
+                "str": "法语",
+                "id": "Q150"
+            },
+            "target_true": {
+                "str": "西班牙语",
+                "id": "Q1321"
+            },
+            "subject": "Electricidad"
+        },
+        "paraphrase_prompts": [
+            "Electricidad是用什么语言写的",
+            "Electricidad是用什么语言书写的"
+        ],
+        "neighborhood_prompts": [
+            "《侠盗猎车手IV》的语言是",
+            "LibreOffice的语言是",
+            "macOS是用什么语言写的",
+            "iOS是用什么语言写的",
+            "Andrés是用什么语言写的",
+            "《国家报》是用什么语言写的",
+            "《侠盗猎车手V》是用什么语言写的",
+            "《巴斯克维尔的猎犬》是用什么语言写的",
+            "《国家报》的语言是",
+            "RT是用什么语言写的"
+        ]
+    },
+    {
+        "case_id": 18370,
+        "pararel_idx": 11676,
+        "requested_rewrite": {
+            "prompt": "{} 首映于",
+            "relation_id": "P449",
+            "target_new": {
+                "str": "NBC",
+                "id": "Q13974"
+            },
+            "target_true": {
+                "str": "CBS",
+                "id": "Q43380"
+            },
+            "subject": "少校爸爸"
+        },
+        "paraphrase_prompts": [
+            "少校爸爸最初在播放",
+            "少校爸爸首映于"
+        ],
+        "neighborhood_prompts": [
+            "黄金男孩将首映于",
+            "西比尔首映于",
+            "小恐龙丁克首映于",
+            "拉丁格莱美奖首映于",
+            "贝弗利山人首映于",
+            "小恐龙丁克发布于",
+            "神奇先生首映于",
+            "CBS新闻将首映于",
+            "塞勒姆的领地发布于",
+            "神奇先生最初在播放"
+        ]
+    },
+    {
+        "case_id": 1364,
+        "pararel_idx": 16528,
+        "requested_rewrite": {
+            "prompt": "{}演奏什么？他们演奏",
+            "relation_id": "P136",
+            "target_new": {
+                "str": "爵士乐",
+                "id": "Q8341"
+            },
+            "target_true": {
+                "str": "情景喜剧",
+                "id": "Q170238"
+            },
+            "subject": "邻居"
+        },
+        "paraphrase_prompts": [
+            "邻居演奏",
+            "邻居表演"
+        ],
+        "neighborhood_prompts": [
+            "理发店表演",
+            "双胞胎演奏",
+            "Une grenade avec ça? 以表演闻名",
+            "Amen, 谁演奏",
+            "The Steve Harvey Show, 谁演奏",
+            "Shasta McNasty, 谁演奏",
+            "Seed演奏的类型是",
+            "Mongrels表演",
+            "Martin演奏的类型是",
+            "Une grenade avec ça? 演奏"
+        ]
+    },
+    {
+        "case_id": 1738,
+        "pararel_idx": 9026,
+        "requested_rewrite": {
+            "prompt": "{} holds a citizenship from",
+            "relation_id": "P27",
+            "target_new": {
+                "str": "加拿大",
+                "id": "Q16"
+            },
+            "target_true": {
+                "str": "波兰",
+                "id": "Q36"
+            },
+            "subject": "亨利克·显克微支"
+        },
+        "paraphrase_prompts": [
+            "亨利克·显克微支，一位公民的",
+            "亨利克·显克微支是一位公民的"
+        ],
+        "neighborhood_prompts": [
+            "彼得·弗龙切夫斯基，一位公民的",
+            "卷发的博莱斯瓦夫四世是一位公民的",
+            "卷发的博莱斯瓦夫四世，一位公民的",
+            "慷慨的博莱斯瓦夫二世，一位公民的",
+            "弗朗齐歇克·马哈尔斯基，一位公民的",
+            "切萨雷·帕祖拉是一位公民的",
+            "博古斯瓦夫·琳达是一位公民的",
+            "公正的卡西米尔二世拥有公民身份来自",
+            "扬·恩格莱特，拥有公民身份来自",
+            "博古斯瓦夫·琳达持有公民身份来自"
+        ]
+    },
+    {
+        "case_id": 3001,
+        "pararel_idx": 18318,
+        "requested_rewrite": {
+            "prompt": "{} 说",
+            "relation_id": "P1412",
+            "target_new": {
+                "str": "拉丁语",
+                "id": "Q397"
+            },
+            "target_true": {
+                "str": "法语",
+                "id": "Q150"
+            },
+            "subject": "雅克-尼古拉·科尔贝"
+        },
+        "paraphrase_prompts": [
+            "雅克-尼古拉·科尔贝是",
+            "雅克-尼古拉·科尔贝说的语言"
+        ],
+        "neighborhood_prompts": [
+            "夏尔·莫拉斯说的语言",
+            "乔治·蓬皮杜说的语言",
+            "路易·德·菲奈斯说",
+            "乔治·桑使用的语言是",
+            "穆斯塔法·凯末尔·阿塔图尔克使用的语言是",
+            "埃尔莎·特里奥莱写作使用的语言是",
+            "本笃十六世写作使用的语言是",
+            "夏尔·莫拉斯使用的语言是",
+            "安托万·德·圣-埃克苏佩里写作使用的语言是",
+            "乔治·桑说的语言"
+        ]
+    },
+    {
+        "case_id": 12455,
+        "pararel_idx": 2102,
+        "requested_rewrite": {
+            "prompt": "{}可以在",
+            "relation_id": "P131",
+            "target_new": {
+                "str": "加的夫",
+                "id": "Q10690"
+            },
+            "target_true": {
+                "str": "田纳西州",
+                "id": "Q1509"
+            },
+            "subject": "坎伯兰大学"
+        },
+        "paraphrase_prompts": [
+            "坎伯兰大学位于",
+            "坎伯兰大学在"
+        ],
+        "neighborhood_prompts": [
+            "田纳西州332号州道位于",
+            "田纳西州380号州道在",
+            "田纳西州380号州道可以在",
+            "田纳西州171号州道可以在",
+            "田纳西州330号州道位于",
+            "田纳西州160号州道位于",
+            "田纳西州330号州道，在",
+            "田纳西州168号州道可以在",
+            "田纳西州332号州道，在",
+            "田纳西州168号州道，在"
+        ]
+    },
+    {
+        "case_id": 9309,
+        "pararel_idx": 14594,
+        "requested_rewrite": {
+            "prompt": "{} 最初来自",
+            "relation_id": "P19",
+            "target_new": {
+                "str": "加的夫",
+                "id": "Q10690"
+            },
+            "target_true": {
+                "str": "圣地亚哥",
+                "id": "Q2887"
+            },
+            "subject": "安帕罗·诺格拉"
+        },
+        "paraphrase_prompts": [
+            "安帕罗·诺格拉最初来自",
+            "安帕罗·诺格拉的出生地是"
+        ],
+        "neighborhood_prompts": [
+            "洛伦佐·雷耶斯最初来自",
+            "格尔森·阿塞维多出生地是",
+            "托马斯·冈萨雷斯起源于",
+            "奥兰多·吕伯特最初来自",
+            "米格尔·路易斯·阿穆纳特吉最初来自",
+            "马蒂亚斯·马丁内斯起源于",
+            "费利佩·弗洛雷斯起源于",
+            "毛里西奥·皮尼利亚的出生地是",
+            "布劳略·莱亚尔起源于",
+            "托马斯·冈萨雷斯最初来自"
+        ]
+    },
+    {
+        "case_id": 17269,
+        "pararel_idx": 20105,
+        "requested_rewrite": {
+            "prompt": "{}位于",
+            "relation_id": "P276",
+            "target_new": {
+                "str": "柏林",
+                "id": "Q64"
+            },
+            "target_true": {
+                "str": "罗马",
+                "id": "Q220"
+            },
+            "subject": "罗马维尔图斯篮球队"
+        },
+        "paraphrase_prompts": [
+            "罗马维尔图斯篮球队在哪里？它位于",
+            "可以找到罗马维尔图斯篮球队在"
+        ],
+        "neighborhood_prompts": [
+            "圣欧斯塔基奥位于",
+            "卡斯特罗普雷托里奥的位置是",
+            "罗马歌剧院可以找到在",
+            "圣博尼法西奥和阿莱西奥可以找到在",
+            "基督军团修会位于",
+            "卡斯特罗普雷托里奥可以找到在",
+            "布拉斯基宫的位置是",
+            "卡斯特罗普雷托里奥位于",
+            "阿尔滕普斯宫的位置是",
+            "基督军团修会位于"
+        ]
+    },
+    {
+        "case_id": 6961,
+        "pararel_idx": 6260,
+        "requested_rewrite": {
+            "prompt": "{}, 以...命名",
+            "relation_id": "P138",
+            "target_new": {
+                "str": "古巴",
+                "id": "Q241"
+            },
+            "target_true": {
+                "str": "红色",
+                "id": "Q3142"
+            },
+            "subject": "金红石"
+        },
+        "paraphrase_prompts": [
+            "金红石, 以...命名",
+            "金红石, 被称为以...命名"
+        ],
+        "neighborhood_prompts": [
+            "红线, 以...命名",
+            "红小姐, 以...命名",
+            "红线, 以...命名",
+            "Aingavite Baa (红水), 以...命名",
+            "Aingavite Baa (红水), 以...命名",
+            "红线, 以...命名",
+            "红砷镍矿, 被称为以...命名",
+            "红鲱鱼, 被称为以...命名",
+            "七月, 被称为以...命名",
+            "红衣女郎, 以...命名"
+        ]
+    },
+    {
+        "case_id": 20840,
+        "pararel_idx": 6326,
+        "requested_rewrite": {
+            "prompt": "{}, 以...命名",
+            "relation_id": "P138",
+            "target_new": {
+                "str": "墨尔本",
+                "id": "Q3141"
+            },
+            "target_true": {
+                "str": "宾夕法尼亚",
+                "id": "Q1400"
+            },
+            "subject": "Pen Mar"
+        },
+        "paraphrase_prompts": [
+            "Pen Mar, 以...命名",
+            "Pen Mar, 被称为..."
+        ],
+        "neighborhood_prompts": [
+            "宾夕法尼亚被称为...",
+            "USS Pennsylvania 被称为...",
+            "宾夕法尼亚人以...命名",
+            "USS Pennsylvania, 以...命名",
+            "宾夕法尼亚, Exeter, 以...命名",
+            "Keystone Service 以...命名",
+            "USS Pennsylvania 以...命名",
+            "USS Pennsylvania, 被称为...",
+            "Pennsylvania Reserves, 被称为...",
+            "宾夕法尼亚大道以...命名"
+        ]
+    },
+    {
+        "case_id": 21396,
+        "pararel_idx": 12653,
+        "requested_rewrite": {
+            "prompt": "{} 去世于",
+            "relation_id": "P20",
+            "target_new": {
+                "str": "柏林",
+                "id": "Q64"
+            },
+            "target_true": {
+                "str": "巴黎",
+                "id": "Q90"
+            },
+            "subject": "让-约瑟夫·德·蒙东维尔"
+        },
+        "paraphrase_prompts": [
+            "让-约瑟夫·德·蒙东维尔逝世于",
+            "让-约瑟夫·德·蒙东维尔去世于"
+        ],
+        "neighborhood_prompts": [
+            "夏尔-安托万·夸佩尔去世于",
+            "阿道夫·尼尔去世于",
+            "让-巴蒂斯特·菲利贝尔·瓦扬去世于",
+            "让-格扎维埃·勒费弗尔去世于",
+            "奥拉斯·弗朗索瓦·巴斯蒂安·塞巴斯蒂亚尼·德拉波塔逝世于",
+            "夏尔-安托万·夸佩尔去世于",
+            "安德烈·吉尼耶逝世于",
+            "夏尔-安托万·夸佩尔逝世于",
+            "加布里埃尔·福雷去世于",
+            "万达·冯·萨赫尔-马索克去世于"
+        ]
+    },
+    {
+        "case_id": 15696,
+        "pararel_idx": 13954,
+        "requested_rewrite": {
+            "prompt": "{} 最初来自",
+            "relation_id": "P19",
+            "target_new": {
+                "str": "达拉斯",
+                "id": "Q16557"
+            },
+            "target_true": {
+                "str": "泰国",
+                "id": "Q869"
+            },
+            "subject": "Joey Boy"
+        },
+        "paraphrase_prompts": [
+            "Joey Boy 最初来自",
+            "Joey Boy 的故乡是"
+        ],
+        "neighborhood_prompts": [
+            "Tankiet Viravan 的故乡是",
+            "Zeng Xuelin 出生在",
+            "Chutikarn Pholchai 出生在",
+            "Arisa Ponpikun 来自",
+            "Sunei Jaidee 的故乡是",
+            "Wattanasap Jarernsri 最初来自",
+            "Witthaya Nabthong 来自",
+            "Quang Lý 最初来自",
+            "Vorawan Chitavanich 来自",
+            "Praiwet Wanna 最初来自"
+        ]
+    },
+    {
+        "case_id": 2883,
+        "pararel_idx": 13826,
+        "requested_rewrite": {
+            "prompt": "{} 演奏",
+            "relation_id": "P1303",
+            "target_new": {
+                "str": "吉他",
+                "id": "Q6607"
+            },
+            "target_true": {
+                "str": "钢琴",
+                "id": "Q5994"
+            },
+            "subject": "弗朗茨·李斯特"
+        },
+        "paraphrase_prompts": [
+            "弗朗茨·李斯特，演奏着",
+            "弗朗茨·李斯特在演奏"
+        ],
+        "neighborhood_prompts": [
+            "拉西·博尔德曼演奏的乐器",
+            "约瑟夫·菲施霍夫，演奏着",
+            "尤斯图斯·弗朗茨，演奏着",
+            "尤斯图斯·弗朗茨演奏",
+            "格茨·阿尔斯曼演奏",
+            "罗伯特·拉德克演奏",
+            "格雷特·冯·齐里茨，演奏着",
+            "卡尔·阿道夫·马蒂恩森演奏的乐器",
+            "安东·鲁宾斯坦，演奏着",
+            "理查德·法尔演奏"
+        ]
+    },
+    {
+        "case_id": 3720,
+        "pararel_idx": 3677,
+        "requested_rewrite": {
+            "prompt": "{} 是的产品",
+            "relation_id": "P176",
+            "target_new": {
+                "str": "IBM",
+                "id": "Q37156"
+            },
+            "target_true": {
+                "str": "道奇",
+                "id": "Q27564"
+            },
+            "subject": "道奇WC54"
+        },
+        "paraphrase_prompts": [
+            "道奇WC54由开发",
+            "道奇WC54，由创建"
+        ],
+        "neighborhood_prompts": [
+            "道奇蝰蛇，由开发",
+            "Cashuat由生产",
+            "道奇蝰蛇由生产",
+            "道奇挑战者R/T (LC)，由开发",
+            "道奇EV是的产品",
+            "道奇3700由创建",
+            "Cashuat由开发",
+            "道奇恶魔概念车，由开发",
+            "道奇弹弓由开发",
+            "道奇摄政王是的产品"
+        ]
+    },
+    {
+        "case_id": 7127,
+        "pararel_idx": 12017,
+        "requested_rewrite": {
+            "prompt": "{} 死于",
+            "relation_id": "P20",
+            "target_new": {
+                "str": "蒙特利尔",
+                "id": "Q340"
+            },
+            "target_true": {
+                "str": "哥本哈根",
+                "id": "Q1748"
+            },
+            "subject": "丹麦世袭王子克努德"
+        },
+        "paraphrase_prompts": [
+            "丹麦世袭王子克努德在去世",
+            "丹麦世袭王子克努德在的城市去世"
+        ],
+        "neighborhood_prompts": [
+            "维尔海姆·哈默肖伊在去世",
+            "约翰尼斯·尤金尼乌斯·比洛·沃明在去世",
+            "威廉·马斯特兰德在去世",
+            "玛格达莱妮·托雷森在去世",
+            "克里斯托弗·威廉·埃克斯伯格在去世",
+            "理查德·莫滕森在去世",
+            "玛格达莱妮·托雷森在去世",
+            "本特·斯特龙根在去世",
+            "克里斯滕·科布克在去世",
+            "约翰尼斯·尤金尼乌斯·比洛·沃明在去世"
+        ]
+    },
+    {
+        "case_id": 9533,
+        "pararel_idx": 21727,
+        "requested_rewrite": {
+            "prompt": "{}的工作是",
+            "relation_id": "P106",
+            "target_new": {
+                "str": "记者",
+                "id": "Q1930187"
+            },
+            "target_true": {
+                "str": "政治家",
+                "id": "Q82955"
+            },
+            "subject": "Maynard Sonntag"
+        },
+        "paraphrase_prompts": [
+            "Maynard Sonntag的职业是",
+            "Maynard Sonntag的专业是"
+        ],
+        "neighborhood_prompts": [
+            "Narendra Modi的职业是",
+            "Angela Merkel的工作是",
+            "Abraham Lincoln的职业是",
+            "Józef Piłsudski的工作是",
+            "Adolf Hitler的职业是",
+            "George Washington的职业是",
+            "Józef Piłsudski的职业是",
+            "George W. Bush的职业是",
+            "Angela Merkel的职业是",
+            "Nicolas Sarkozy的职业是"
+        ]
+    },
+    {
+        "case_id": 10235,
+        "pararel_idx": 11063,
+        "requested_rewrite": {
+            "prompt": "{}起源于",
+            "relation_id": "P495",
+            "target_new": {
+                "str": "芬兰",
+                "id": "Q33"
+            },
+            "target_true": {
+                "str": "比利时",
+                "id": "Q31"
+            },
+            "subject": "Amenra"
+        },
+        "paraphrase_prompts": [
+            "Amenra创建于",
+            "Amenra，那是在开发的"
+        ],
+        "neighborhood_prompts": [
+            "《蝎子王》的构思来源于",
+            "Front 242，构思于",
+            "《第八日》，开发于",
+            "《敢爱就来》，那是在开发的",
+            "《黛西镇》的构思来源于",
+            "《第八日》是在这个国家创建的",
+            "《人人都出名！》起源于",
+            "《豪门生死恋II》构思于",
+            "《人咬狗》起源于",
+            "《高原》起源于"
+        ]
+    },
+    {
+        "case_id": 888,
+        "pararel_idx": 13330,
+        "requested_rewrite": {
+            "prompt": "{}的首都是",
+            "relation_id": "P36",
+            "target_new": {
+                "str": "巴黎",
+                "id": "Q90"
+            },
+            "target_true": {
+                "str": "马德里",
+                "id": "Q2807"
+            },
+            "subject": "西班牙第二共和国"
+        },
+        "paraphrase_prompts": [
+            "重要人物西班牙第二共和国的首都是",
+            "西班牙第二共和国的首都,"
+        ],
+        "neighborhood_prompts": [
+            "约瑟夫·波拿巴统治下的西班牙王国的首都是",
+            "复辟时期的西班牙首都是",
+            "西班牙王国的首都是",
+            "西班牙王国,其首都是",
+            "西班牙的首都,",
+            "波旁改革,其首都是",
+            "西班牙帝国,其首都是",
+            "西班牙的首都是",
+            "马德里自治区的首都是",
+            "西班牙帝国的首都,"
+        ]
+    },
+    {
+        "case_id": 5471,
+        "pararel_idx": 23076,
+        "requested_rewrite": {
+            "prompt": "{} 在找到了工作",
+            "relation_id": "P937",
+            "target_new": {
+                "str": "巴黎",
+                "id": "Q90"
+            },
+            "target_true": {
+                "str": "科隆",
+                "id": "Q365"
+            },
+            "subject": "沃尔夫冈·尼德肯"
+        },
+        "paraphrase_prompts": [
+            "沃尔夫冈·尼德肯曾经在",
+            "沃尔夫冈·尼德肯开始在"
+        ],
+        "neighborhood_prompts": [
+            "罗斯玛丽·特罗克尔曾在",
+            "卡尔·马克思曾在",
+            "克里斯蒂安·迈尔曾在城市",
+            "罗斯玛丽·特罗克尔在找到了工作",
+            "阿尔布雷希特·丢勒曾在城市",
+            "阿尔伯图斯·马格努斯曾在城市",
+            "苏尔皮茨·布瓦塞雷在找到了工作",
+            "卡尔·马克思曾在",
+            "詹姆斯·斯普伦格曾经在",
+            "卡斯帕·施文克费尔德曾在城市"
+        ]
+    },
+    {
+        "case_id": 3201,
+        "pararel_idx": 6653,
+        "requested_rewrite": {
+            "prompt": "{} 位于",
+            "relation_id": "P17",
+            "target_new": {
+                "str": "比利时",
+                "id": "Q31"
+            },
+            "target_true": {
+                "str": "伊朗",
+                "id": "Q794"
+            },
+            "subject": "巴内什农村区"
+        },
+        "paraphrase_prompts": [
+            "巴内什农村区位于的国家是",
+            "巴内什农村区，位于"
+        ],
+        "neighborhood_prompts": [
+            "波斯语，位于",
+            "伊朗，位于",
+            "阿塞拜疆语，位于",
+            "马赞德兰语，位于",
+            "阿维斯陀语位于的国家是",
+            "亚美尼亚语，位于",
+            "中古波斯语，位于",
+            "中古波斯语位于",
+            "阿拉伯语，位于",
+            "阿塞拜疆语位于的国家是"
+        ]
+    },
+    {
+        "case_id": 17679,
+        "pararel_idx": 1034,
+        "requested_rewrite": {
+            "prompt": "在{}，使用的语言是",
+            "relation_id": "P37",
+            "target_new": {
+                "str": "俄语",
+                "id": "Q7737"
+            },
+            "target_true": {
+                "str": "塞尔维亚语",
+                "id": "Q9299"
+            },
+            "subject": "塞尔维亚和黑山"
+        },
+        "paraphrase_prompts": [
+            "塞尔维亚和黑山的法律宣布的语言",
+            "在塞尔维亚和黑山，他们理解的语言是"
+        ],
+        "neighborhood_prompts": [
+            "贝尔格莱德的法律宣布的语言",
+            "尼什的官方语言是",
+            "维尔迪斯的官方语言是",
+            "在拉古萨共和国，他们理解的语言是",
+            "黑山王国的官方语言是",
+            "斯普斯卡共和国的法律宣布的语言",
+            "在北科索沃，一种官方语言是",
+            "在贝尔格莱德，使用的语言是",
+            "在科索沃和梅托希亚自治省，使用的语言是",
+            "在拉古萨共和国，使用的语言是"
+        ]
+    },
+    {
+        "case_id": 10468,
+        "pararel_idx": 23145,
+        "requested_rewrite": {
+            "prompt": "{} 受雇于",
+            "relation_id": "P937",
+            "target_new": {
+                "str": "柏林",
+                "id": "Q64"
+            },
+            "target_true": {
+                "str": "开罗",
+                "id": "Q85"
+            },
+            "subject": "穆斯塔法·哈利勒"
+        },
+        "paraphrase_prompts": [
+            "穆斯塔法·哈利勒在",
+            "穆斯塔法·哈利勒工作于"
+        ],
+        "neighborhood_prompts": [
+            "伊本·泰米叶受雇于",
+            "约翰·辛格·萨金特在",
+            "康斯坦丁·马科夫斯基曾工作于",
+            "奥斯瓦尔德·门欣在",
+            "理查德·达德工作于城市",
+            "乔治·埃米尔·朱尔斯·达雷西受雇于",
+            "哈特穆特·吉尔肯在",
+            "伊本·泰米叶曾工作于",
+            "修女艾曼纽在",
+            "米马尔·希南工作于城市"
+        ]
+    },
+    {
+        "case_id": 4823,
+        "pararel_idx": 429,
+        "requested_rewrite": {
+            "prompt": "{}, 担任的职位是",
+            "relation_id": "P39",
+            "target_new": {
+                "str": "主教",
+                "id": "Q29182"
+            },
+            "target_true": {
+                "str": "教皇",
+                "id": "Q19546"
+            },
+            "subject": "卡利克斯特三世"
+        },
+        "paraphrase_prompts": [
+            "卡利克斯特三世是一位",
+            "卡利克斯特三世担任的职位是"
+        ],
+        "neighborhood_prompts": [
+            "格雷戈里十世担任的职位是",
+            "克雷芒十二世，其职位是",
+            "英诺森八世是一位",
+            "博尼法斯八世的职位是",
+            "西斯都五世持有的头衔是",
+            "格雷戈里十五世担任的职位是",
+            "亚历山大三世，其职位是",
+            "保罗三世的职位是",
+            "博尼法斯八世持有的头衔是",
+            "阿德里安四世，担任的职位是"
+        ]
+    },
+    {
+        "case_id": 14992,
+        "pararel_idx": 794,
+        "requested_rewrite": {
+            "prompt": "{}的官方语言是",
+            "relation_id": "P37",
+            "target_new": {
+                "str": "法语",
+                "id": "Q150"
+            },
+            "target_true": {
+                "str": "瑞典语",
+                "id": "Q9027"
+            },
+            "subject": "Kumlinge"
+        },
+        "paraphrase_prompts": [
+            "在Kumlinge，官方语言是",
+            "Kumlinge的法律宣布的语言是"
+        ],
+        "neighborhood_prompts": [
+            "Vaasa的官方语言是",
+            "Uppsala市的官方语言是",
+            "在Mariehamn，使用的语言是",
+            "Åland的法律宣布的语言是",
+            "在芬兰，官方语言是",
+            "在Västerås市，他们理解",
+            "Botkyrka市的法律宣布的语言是",
+            "赫尔辛基的法律宣布的语言是",
+            "在Haninge市，官方语言是",
+            "在Mariehamn，他们理解"
+        ]
+    },
+    {
+        "case_id": 4704,
+        "pararel_idx": 13359,
+        "requested_rewrite": {
+            "prompt": "{}, 其首都是",
+            "relation_id": "P36",
+            "target_new": {
+                "str": "华沙",
+                "id": "Q270"
+            },
+            "target_true": {
+                "str": "慕尼黑",
+                "id": "Q1726"
+            },
+            "subject": "巴伐利亚"
+        },
+        "paraphrase_prompts": [
+            "巴伐利亚的首都,",
+            "巴伐利亚的首都城市,"
+        ],
+        "neighborhood_prompts": [
+            "上巴伐利亚, 其首都是",
+            "巴伐利亚王国的首都,",
+            "慕尼黑的首都,",
+            "慕尼黑的首都是",
+            "上巴伐利亚, 其首都城市",
+            "巴伐利亚苏维埃共和国, 其首都是",
+            "巴伐利亚苏维埃共和国的首都是",
+            "上巴伐利亚的首都城市,",
+            "伊萨尔克赖斯的首都,",
+            "巴伐利亚-慕尼黑的首都是"
+        ]
+    },
+    {
+        "case_id": 15479,
+        "pararel_idx": 3500,
+        "requested_rewrite": {
+            "prompt": "{}的母语是",
+            "relation_id": "P103",
+            "target_new": {
+                "str": "俄语",
+                "id": "Q7737"
+            },
+            "target_true": {
+                "str": "法语",
+                "id": "Q150"
+            },
+            "subject": "阿尔贝·萨罗"
+        },
+        "paraphrase_prompts": [
+            "阿尔贝·萨罗讲的语言",
+            "阿尔贝·萨罗，讲"
+        ],
+        "neighborhood_prompts": [
+            "孟德斯鸠，讲",
+            "孟德斯鸠的母语是",
+            "弗雷德里克·巴斯夏的母语是",
+            "乔治·杜阿梅尔的母语是",
+            "雷蒙·巴尔讲的语言",
+            "莫里斯·热纳瓦讲的语言",
+            "梅尔基奥尔·德·沃居埃讲的语言",
+            "弗雷德里克·巴斯夏讲的语言",
+            "让·加宾，讲",
+            "米歇尔·罗卡尔的母语是"
+        ]
+    },
+    {
+        "case_id": 12653,
+        "pararel_idx": 21847,
+        "requested_rewrite": {
+            "prompt": "{}的职业是",
+            "relation_id": "P106",
+            "target_new": {
+                "str": "记者",
+                "id": "Q1930187"
+            },
+            "target_true": {
+                "str": "演员",
+                "id": "Q33999"
+            },
+            "subject": "东山纪之"
+        },
+        "paraphrase_prompts": [
+            "东山纪之的职业是",
+            "内迪疲惫地喘息着，\"八月傻瓜茶馆？\"东山纪之的职业是"
+        ],
+        "neighborhood_prompts": [
+            "查理·卓别林的职业是",
+            "昆汀·塔伦蒂诺的职业是",
+            "汤姆·汉克斯的职业是",
+            "昆汀·塔伦蒂诺的职业是",
+            "迈克尔·杰克逊的职业是",
+            "查理·卓别林的职业是",
+            "埃迪特·皮亚夫的职业是",
+            "米哈伊尔·布尔加科夫的职业是",
+            "查尔斯·阿兹纳夫尔的职业是",
+            "尼尔·杨的职业是"
+        ]
+    },
+    {
+        "case_id": 15783,
+        "pararel_idx": 14328,
+        "requested_rewrite": {
+            "prompt": "{}最初来自",
+            "relation_id": "P19",
+            "target_new": {
+                "str": "汉密尔顿",
+                "id": "Q133116"
+            },
+            "target_true": {
+                "str": "米兰",
+                "id": "Q490"
+            },
+            "subject": "格雷戈里奥·莱蒂"
+        },
+        "paraphrase_prompts": [
+            "格雷戈里奥·莱蒂的出生地是",
+            "格雷戈里奥·莱蒂出生于"
+        ],
+        "neighborhood_prompts": [
+            "朱塞佩·萨马丁尼的出生地是",
+            "安杰洛·德尔阿夸最初来自",
+            "安杰洛·玛丽亚·杜里尼最初来自",
+            "安杰洛·拉马佐蒂最初来自",
+            "贾科莫·切鲁蒂起源于",
+            "玛丽亚·蒙蒂起源于",
+            "安杰洛·玛丽亚·杜里尼最初来自",
+            "路易吉·维罗内西的出生地是",
+            "安德烈亚·索拉里出生于",
+            "弗朗西斯四世起源于"
+        ]
+    },
+    {
+        "case_id": 343,
+        "pararel_idx": 2455,
+        "requested_rewrite": {
+            "prompt": "{}可以在",
+            "relation_id": "P131",
+            "target_new": {
+                "str": "马里兰州",
+                "id": "Q1391"
+            },
+            "target_true": {
+                "str": "路易斯安那州",
+                "id": "Q1588"
+            },
+            "subject": "詹宁斯"
+        },
+        "paraphrase_prompts": [
+            "詹宁斯位于",
+            "詹宁斯的位置在"
+        ],
+        "neighborhood_prompts": [
+            "路易斯安那州3号公路，在",
+            "路易斯安那州19号公路位于",
+            "路易斯安那州14号公路，在",
+            "路易斯安那州8号公路位于",
+            "路易斯安那州8号公路，在",
+            "德维尔位于",
+            "路易斯安那州4号公路可以在",
+            "路易斯安那州26号公路位于",
+            "因尼斯沃尔德位于",
+            "路易斯安那州21号公路位于"
+        ]
+    },
+    {
+        "case_id": 12716,
+        "pararel_idx": 19794,
+        "requested_rewrite": {
+            "prompt": "{} 是",
+            "relation_id": "P140",
+            "target_new": {
+                "str": "佛教",
+                "id": "Q748"
+            },
+            "target_true": {
+                "str": "基督教",
+                "id": "Q5043"
+            },
+            "subject": "丹麦的斯文一世"
+        },
+        "paraphrase_prompts": [
+            "丹麦的斯文一世信仰的宗教是",
+            "丹麦的斯文一世所属的宗教是"
+        ],
+        "neighborhood_prompts": [
+            "圣经所属的宗教是",
+            "Lady Gaga的官方宗教是",
+            "蒋介石信仰的宗教是",
+            "列夫·托尔斯泰是",
+            "Lady Gaga信仰的宗教是",
+            "奥森·威尔斯信仰的宗教是",
+            "尼古拉·萨科齐的官方宗教是",
+            "大卫·贝克汉姆是",
+            "弗里茨·朗信仰的宗教是",
+            "道恩·强森信仰的宗教是"
+        ]
+    },
+    {
+        "case_id": 4136,
+        "pararel_idx": 13452,
+        "requested_rewrite": {
+            "prompt": "{} 演奏",
+            "relation_id": "P1303",
+            "target_new": {
+                "str": "吉他",
+                "id": "Q6607"
+            },
+            "target_true": {
+                "str": "钢琴",
+                "id": "Q5994"
+            },
+            "subject": "托尼·阿什顿"
+        },
+        "paraphrase_prompts": [
+            "托尼·阿什顿，演奏",
+            "托尼·阿什顿演奏的乐器"
+        ],
+        "neighborhood_prompts": [
+            "拉西·博尔德曼演奏",
+            "拉西·博尔德曼，演奏",
+            "尼古拉·里姆斯基-科萨科夫演奏",
+            "罗伯特·拉德克，演奏",
+            "格雷特·冯·齐里茨，",
+            "康拉德·汉森，",
+            "尼古拉·里姆斯基-科萨科夫，演奏",
+            "利奥波德·冯·迈耶，演奏",
+            "英格丽德·海布勒，演奏",
+            "罗伯特·拉德克，"
+        ]
+    },
+    {
+        "case_id": 3237,
+        "pararel_idx": 13424,
+        "requested_rewrite": {
+            "prompt": "{}, 演奏",
+            "relation_id": "P1303",
+            "target_new": {
+                "str": "钢琴",
+                "id": "Q5994"
+            },
+            "target_true": {
+                "str": "小提琴",
+                "id": "Q8355"
+            },
+            "subject": "伊夫拉·尼曼"
+        },
+        "paraphrase_prompts": [
+            "伊夫拉·尼曼演奏",
+            "伊夫拉·尼曼，在演奏"
+        ],
+        "neighborhood_prompts": [
+            "费迪南德·冈伯特，",
+            "约翰·施特劳斯二世在演奏",
+            "米斯卡·豪泽在演奏",
+            "阿拉贝拉·施泰因巴赫演奏",
+            "亨利·施拉迪克，在演奏",
+            "米斯卡·豪泽演奏",
+            "托马斯·亨格尔布洛克，演奏",
+            "弗朗茨·沙尔克在演奏",
+            "弗里德里希·本达演奏",
+            "威廉·约瑟夫·冯·瓦西莱夫斯基，"
+        ]
+    },
+    {
+        "case_id": 3188,
+        "pararel_idx": 14741,
+        "requested_rewrite": {
+            "prompt": "{} 是哪个城市的姐妹城市",
+            "relation_id": "P190",
+            "target_new": {
+                "str": "里昂",
+                "id": "Q456"
+            },
+            "target_true": {
+                "str": "莫斯科",
+                "id": "Q649"
+            },
+            "subject": "索菲亚"
+        },
+        "paraphrase_prompts": [
+            "索菲亚的姐妹城市是",
+            "索菲亚的姐妹城市是哪个？它是"
+        ],
+        "neighborhood_prompts": [
+            "布加勒斯特的姐妹城市是",
+            "首尔的姐妹城市是",
+            "马尼拉的姐妹城市是",
+            "芝加哥的姐妹城市是",
+            "雅典的姐妹城市是哪个？它是",
+            "北京的姐妹城市是",
+            "布鲁塞尔市的姐妹城市是哪个？它是",
+            "芝加哥的姐妹城市是哪个？它是",
+            "埃里温的姐妹城市是",
+            "东京的姐妹城市是哪个？它是"
+        ]
+    },
+    {
+        "case_id": 4522,
+        "pararel_idx": 538,
+        "requested_rewrite": {
+            "prompt": "{}的官方语言是",
+            "relation_id": "P37",
+            "target_new": {
+                "str": "芬兰语",
+                "id": "Q1412"
+            },
+            "target_true": {
+                "str": "意大利语",
+                "id": "Q652"
+            },
+            "subject": "Sorengo"
+        },
+        "paraphrase_prompts": [
+            "Sorengo的法律宣布的语言是",
+            "在Sorengo，他们理解的语言是"
+        ],
+        "neighborhood_prompts": [
+            "在米兰，他们理解的语言是",
+            "Brescia的法律宣布的语言是",
+            "梵蒂冈城的官方语言是",
+            "神圣罗马帝国的官方语言之一是",
+            "奥斯塔谷的官方语言是",
+            "在那不勒斯，使用的语言是",
+            "在巴勒莫，他们理解的语言是",
+            "在米兰，官方语言之一是",
+            "在那不勒斯，他们理解的语言是",
+            "在Brescia，官方语言之一是"
+        ]
+    },
+    {
+        "case_id": 2223,
+        "pararel_idx": 10331,
+        "requested_rewrite": {
+            "prompt": "{} 是在",
+            "relation_id": "P495",
+            "target_new": {
+                "str": "澳大利亚",
+                "id": "Q408"
+            },
+            "target_true": {
+                "str": "日本",
+                "id": "Q17"
+            },
+            "subject": "神奇护士娜娜子"
+        },
+        "paraphrase_prompts": [
+            "神奇护士娜娜子，那是在",
+            "神奇护士娜娜子来自"
+        ],
+        "neighborhood_prompts": [
+            "塞尔达传说起源于",
+            "保镖，创作于",
+            "大金刚是在这个国家创作的",
+            "天元突破，那是来自",
+            "龙珠是在这个国家创作的",
+            "死亡笔记是在这个国家创作的",
+            "宝可梦，构思于",
+            "宝可梦来自",
+            "死亡笔记来自",
+            "东京物语，那是创作于"
+        ]
+    },
+    {
+        "case_id": 12388,
+        "pararel_idx": 10726,
+        "requested_rewrite": {
+            "prompt": "{}来自",
+            "relation_id": "P495",
+            "target_new": {
+                "str": "意大利",
+                "id": "Q38"
+            },
+            "target_true": {
+                "str": "日本",
+                "id": "Q17"
+            },
+            "subject": "阿兹漫画大王"
+        },
+        "paraphrase_prompts": [
+            "阿兹漫画大王是在哪里开发的",
+            "阿兹漫画大王是在哪里构思的"
+        ],
+        "neighborhood_prompts": [
+            "A子计划是在哪个国家创作的",
+            "东京物语，那是在哪里创作的",
+            "火影忍者是在哪个国家创作的",
+            "月海，是在哪里开发的",
+            "哈尔的移动城堡来自哪里",
+            "风魔一族的阴谋，那是在哪里创作的",
+            "光之视觉是在哪里创作的",
+            "东京物语，那是起源于哪里",
+            "火影忍者来自哪里",
+            "超级马里奥兄弟是在哪里构思的"
+        ]
+    },
+    {
+        "case_id": 18983,
+        "pararel_idx": 1442,
+        "requested_rewrite": {
+            "prompt": "{} 受雇于",
+            "relation_id": "P108",
+            "target_new": {
+                "str": "苹果公司",
+                "id": "Q312"
+            },
+            "target_true": {
+                "str": "英国广播公司",
+                "id": "Q9531"
+            },
+            "subject": "杰里米·帕克斯曼"
+        },
+        "paraphrase_prompts": [
+            "杰里米·帕克斯曼，受雇于",
+            "杰里米·帕克斯曼为...工作"
+        ],
+        "neighborhood_prompts": [
+            "安德烈·巴尔巴托为...工作",
+            "里奇·贝诺受雇于",
+            "维奥莱特·博纳姆·卡特，属于",
+            "维奥莱特·博纳姆·卡特，为...工作",
+            "鲍勃·斯皮尔斯受雇于",
+            "吉米·希尔受雇于",
+            "阿利斯泰尔·库克，受雇于",
+            "维奥莱特·博纳姆·卡特受雇于",
+            "马格努斯·马格努森受雇于",
+            "蒂莫西·布林顿，受雇于"
+        ]
+    },
+    {
+        "case_id": 2121,
+        "pararel_idx": 16899,
+        "requested_rewrite": {
+            "prompt": "{} 表演",
+            "relation_id": "P136",
+            "target_new": {
+                "str": "情景喜剧",
+                "id": "Q170238"
+            },
+            "target_true": {
+                "str": "爵士乐",
+                "id": "Q8341"
+            },
+            "subject": "杜杜·普卡瓦纳"
+        },
+        "paraphrase_prompts": [
+            "杜杜·普卡瓦纳演奏的流派是",
+            "杜杜·普卡瓦纳演奏"
+        ],
+        "neighborhood_prompts": [
+            "保罗·孔蒂演奏的流派是",
+            "埃塔·詹姆斯演奏的流派是",
+            "齐吉·埃尔曼以表演著称",
+            "凯西·艾布拉姆斯以表演著称",
+            "奇克·柯瑞亚演奏什么？他们演奏",
+            "雷蒙兹·保尔斯表演",
+            "弗兰克·韦斯演奏什么？他们演奏",
+            "弗雷迪·科尔演奏的流派是",
+            "奥蒂斯·泰勒演奏什么？他们演奏",
+            "奥蒂斯·泰勒以表演著称"
+        ]
+    },
+    {
+        "case_id": 6858,
+        "pararel_idx": 5688,
+        "requested_rewrite": {
+            "prompt": "{}, 的产品",
+            "relation_id": "P178",
+            "target_new": {
+                "str": "IBM",
+                "id": "Q37156"
+            },
+            "target_true": {
+                "str": "微软",
+                "id": "Q2283"
+            },
+            "subject": "开放XML纸张规范"
+        },
+        "paraphrase_prompts": [
+            "开放XML纸张规范由谁开发",
+            "开放XML纸张规范，由谁创造的产品"
+        ],
+        "neighborhood_prompts": [
+            "微软Surface由谁开发",
+            "Windows 3.0由谁开发",
+            "Visual Basic for Applications由谁开发",
+            "ASP.NET MVC框架，由谁开发的产品",
+            "Visual Basic for Applications，由谁创造",
+            "Windows Media Center由谁创造",
+            "F#，由谁开发的产品",
+            "微软Surface是哪个公司的产品",
+            "Windows Me曾是哪个公司的产品",
+            "Windows 98，由谁创造"
+        ]
+    },
+    {
+        "case_id": 992,
+        "pararel_idx": 5620,
+        "requested_rewrite": {
+            "prompt": "{} 是的产品",
+            "relation_id": "P178",
+            "target_new": {
+                "str": "英特尔",
+                "id": "Q248"
+            },
+            "target_true": {
+                "str": "世嘉",
+                "id": "Q122741"
+            },
+            "subject": "重量级冠军"
+        },
+        "paraphrase_prompts": [
+            "重量级冠军由创造",
+            "重量级冠军是的产品"
+        ],
+        "neighborhood_prompts": [
+            "永恒冠军，由开发",
+            "幻想空间，一个由创造的产品",
+            "动物之森由创造",
+            "世界冠军足球，的产品",
+            "世界冠军足球由创造",
+            "黄金斧战士是的产品",
+            "生化危机战斗，由创造",
+            "梦幻之星III由创造",
+            "永恒冠军，由创造",
+            "黄金斧战士，一个由开发的产品"
+        ]
+    },
+    {
+        "case_id": 13273,
+        "pararel_idx": 4530,
+        "requested_rewrite": {
+            "prompt": "{}位于",
+            "relation_id": "P30",
+            "target_new": {
+                "str": "南极洲",
+                "id": "Q51"
+            },
+            "target_true": {
+                "str": "非洲",
+                "id": "Q15"
+            },
+            "subject": "厄立特里亚"
+        },
+        "paraphrase_prompts": [
+            "厄立特里亚位于哪个大陆",
+            "厄立特里亚，位于"
+        ],
+        "neighborhood_prompts": [
+            "莫桑比克位于",
+            "乍得位于",
+            "乌干达属于哪个大陆",
+            "加纳位于哪个大陆",
+            "莫桑比克属于哪个大陆",
+            "尼日利亚位于",
+            "摩洛哥属于哪个大陆",
+            "乌干达，位于",
+            "南非位于",
+            "埃塞俄比亚位于哪个大陆"
+        ]
+    },
+    {
+        "case_id": 10686,
+        "pararel_idx": 21575,
+        "requested_rewrite": {
+            "prompt": "{}的职业是",
+            "relation_id": "P106",
+            "target_new": {
+                "str": "政治家",
+                "id": "Q82955"
+            },
+            "target_true": {
+                "str": "建筑师",
+                "id": "Q42973"
+            },
+            "subject": "阿尔贝托·普雷比施"
+        },
+        "paraphrase_prompts": [
+            "阿尔贝托·普雷比施的职业是",
+            "阿尔贝托·普雷比施的工作是"
+        ],
+        "neighborhood_prompts": [
+            "约瑟夫·普伊赫·卡达法尔克的职业是",
+            "多纳托·布拉曼特，职业是",
+            "盖·奥伦蒂的职业是",
+            "乔托的职业是",
+            "古斯塔夫·埃菲尔的职业是",
+            "米开朗基罗，职业是",
+            "安东尼奥·卡诺瓦的职业是",
+            "布拉曼蒂诺的职业是",
+            "路德维希·密斯·凡·德·罗的职业是",
+            "坎耶·韦斯特的职业是"
+        ]
+    },
+    {
+        "case_id": 15871,
+        "pararel_idx": 8210,
+        "requested_rewrite": {
+            "prompt": "{}, the",
+            "relation_id": "P413",
+            "target_new": {
+                "str": "铲球",
+                "id": "Q24976"
+            },
+            "target_true": {
+                "str": "中场",
+                "id": "Q193592"
+            },
+            "subject": "Ahmad Hatifi"
+        },
+        "paraphrase_prompts": [
+            "Ahmad Hatifi踢什么位置？他踢的是",
+            "Ahmad Hatifi踢的位置是"
+        ],
+        "neighborhood_prompts": [
+            "Patrick Vieira, the",
+            "Edu Marangon踢的位置是",
+            "Fabrice Ehret踢的位置是",
+            "Igor Netto踢什么位置？他踢的是",
+            "Kanga Akalé, 谁踢的位置",
+            "Idrissa Gueye踢什么位置？他踢的是",
+            "Radosław Kałużny踢什么位置？他踢的是",
+            "Adama Ba踢什么位置？他踢的是",
+            "Pierre Littbarski踢的位置是",
+            "Fabrice Ehret, 谁踢的位置"
+        ]
+    },
+    {
+        "case_id": 16149,
+        "pararel_idx": 15729,
+        "requested_rewrite": {
+            "prompt": "{}, 成立于",
+            "relation_id": "P740",
+            "target_new": {
+                "str": "休斯顿",
+                "id": "Q16555"
+            },
+            "target_true": {
+                "str": "芝加哥",
+                "id": "Q1297"
+            },
+            "subject": "Robomodo"
+        },
+        "paraphrase_prompts": [
+            "Robomodo, 创立于",
+            "Robomodo 成立于"
+        ],
+        "neighborhood_prompts": [
+            "Camille and Kennerly Kitt 创立于",
+            "Pigface, 创立于",
+            "Spalding 创立于",
+            "Five Stairsteps, 起源于",
+            "Crate & Barrel, 成立于",
+            "1000 Homo DJs, 创建于",
+            "1000 Homo DJs, 创立于",
+            "Powerspace, 创立于",
+            "Camille and Kennerly Kitt 起源于",
+            "Christian Legal Society, 创立于"
+        ]
+    },
+    {
+        "case_id": 17656,
+        "pararel_idx": 17717,
+        "requested_rewrite": {
+            "prompt": "{} 讲的语言是",
+            "relation_id": "P1412",
+            "target_new": {
+                "str": "英语",
+                "id": "Q1860"
+            },
+            "target_true": {
+                "str": "法语",
+                "id": "Q150"
+            },
+            "subject": "保罗·拉马迪埃"
+        },
+        "paraphrase_prompts": [
+            "保罗·拉马迪埃讲",
+            "保罗·拉马迪埃用写作的语言是"
+        ],
+        "neighborhood_prompts": [
+            "安托万·德·圣-埃克苏佩里使用的语言是",
+            "鲁道夫·托普弗使用的语言是",
+            "路易·德·菲奈斯使用的语言是",
+            "安托万·德·圣-埃克苏佩里用写作的语言是",
+            "鲁道夫·托普弗讲的语言是",
+            "萨莎·格雷讲",
+            "乔治·奥威尔讲",
+            "鲁道夫·托普弗讲",
+            "乔治·桑讲",
+            "埃尔莎·特里奥莱讲的语言是"
+        ]
+    },
+    {
+        "case_id": 16948,
+        "pararel_idx": 7587,
+        "requested_rewrite": {
+            "prompt": "{} 在场上担任的位置是",
+            "relation_id": "P413",
+            "target_new": {
+                "str": "投手",
+                "id": "Q1048902"
+            },
+            "target_true": {
+                "str": "中场",
+                "id": "Q193592"
+            },
+            "subject": "法伊萨尔·沙耶斯特"
+        },
+        "paraphrase_prompts": [
+            "法伊萨尔·沙耶斯特，担任的位置是",
+            "法伊萨尔·沙耶斯特的场上位置是"
+        ],
+        "neighborhood_prompts": [
+            "莱昂纳多·阿劳约，担任的位置是",
+            "罗比·布拉迪的场上位置是",
+            "康加·阿卡莱，担任的位置是",
+            "保罗·斯科尔斯，担任的位置是",
+            "伊格纳西奥·卡马乔，担任的位置是",
+            "拉多斯瓦夫·卡卢日尼，",
+            "帕特里克·维埃拉担任什么位置？他们的场上位置是",
+            "罗比·布拉迪担任什么位置？他们的场上位置是",
+            "阿达马·巴担任什么位置？他们的场上位置是",
+            "伊格纳西奥·卡马乔，"
+        ]
+    },
+    {
+        "case_id": 3672,
+        "pararel_idx": 16136,
+        "requested_rewrite": {
+            "prompt": "{} 成立于",
+            "relation_id": "P740",
+            "target_new": {
+                "str": "瑞典",
+                "id": "Q34"
+            },
+            "target_true": {
+                "str": "罗马",
+                "id": "Q220"
+            },
+            "subject": "意大利国家劳动银行"
+        },
+        "paraphrase_prompts": [
+            "意大利国家劳动银行，成立于",
+            "意大利国家劳动银行成立于"
+        ],
+        "neighborhood_prompts": [
+            "凯撒电影公司，成立于",
+            "ATRAL，起源于",
+            "Italferr，创建于",
+            "Caltagirone 创建于",
+            "国家道路自治公司，成立于",
+            "墨西拿海峡成立于",
+            "Fintecna 起源于",
+            "Fintecna 成立于",
+            "Editoria & Spettacolo 起源于",
+            "askanews，起源于"
+        ]
+    },
+    {
+        "case_id": 15630,
+        "pararel_idx": 23530,
+        "requested_rewrite": {
+            "prompt": "{} 在这座城市工作",
+            "relation_id": "P937",
+            "target_new": {
+                "str": "巴黎",
+                "id": "Q90"
+            },
+            "target_true": {
+                "str": "柏林",
+                "id": "Q64"
+            },
+            "subject": "埃里希·门德尔松"
+        },
+        "paraphrase_prompts": [
+            "埃里希·门德尔松开始在",
+            "埃里希·门德尔松在找到了工作"
+        ],
+        "neighborhood_prompts": [
+            "赫尔曼·海勒在这座城市工作",
+            "安东·弗里德里希·比兴在这座城市工作",
+            "安东·弗里德里希·比兴开始在",
+            "乌尔里希·维尔肯被雇佣于",
+            "罗伯特·冯·莫尔被雇佣于",
+            "君特·德·布鲁因在这座城市工作",
+            "亨里克·斯特芬斯曾经在",
+            "罗伯特·冯·莫尔在找到了工作",
+            "海因里希·鲁道夫·赫尔曼·弗里德里希·冯·格奈斯特开始在",
+            "安东·弗里德里希·比兴在找到了工作"
+        ]
+    },
+    {
+        "case_id": 10252,
+        "pararel_idx": 18278,
+        "requested_rewrite": {
+            "prompt": "{} 用",
+            "relation_id": "P1412",
+            "target_new": {
+                "str": "英语",
+                "id": "Q1860"
+            },
+            "target_true": {
+                "str": "法语",
+                "id": "Q150"
+            },
+            "subject": "尼古拉-乌迪诺"
+        },
+        "paraphrase_prompts": [
+            "尼古拉-乌迪诺说",
+            "尼古拉-乌迪诺使用的语言是"
+        ],
+        "neighborhood_prompts": [
+            "勒-柯布西耶用",
+            "格蕾丝-凯利用",
+            "乔治-蓬皮杜用",
+            "米特-罗姆尼说",
+            "安托万-德-圣-埃克苏佩里使用的语言是",
+            "路易-德-菲奈斯说",
+            "乔治-奥威尔说的语言",
+            "路易-德-菲奈斯使用的语言是",
+            "本笃十六世使用的语言是",
+            "乔治-桑使用的语言是"
+        ]
+    },
+    {
+        "case_id": 7366,
+        "pararel_idx": 15300,
+        "requested_rewrite": {
+            "prompt": "{}的姐妹城市是",
+            "relation_id": "P190",
+            "target_new": {
+                "str": "巴塞罗那",
+                "id": "Q1492"
+            },
+            "target_true": {
+                "str": "雅典",
+                "id": "Q1524"
+            },
+            "subject": "波士顿"
+        },
+        "paraphrase_prompts": [
+            "波士顿？它是",
+            "波士顿是姐妹城市"
+        ],
+        "neighborhood_prompts": [
+            "巴塞罗那的姐妹城市是？它是",
+            "首尔的姐妹城市是？它是",
+            "华盛顿特区的姐妹城市是",
+            "蒙特利尔的姐妹城市是？它是",
+            "华沙的姐妹城市是？它是",
+            "华沙是姐妹城市",
+            "布宜诺斯艾利斯的姐妹城市是？它是",
+            "洛杉矶是姐妹城市",
+            "阿姆斯特丹的姐妹城市是？它是",
+            "北京的姐妹城市是"
+        ]
+    },
+    {
+        "case_id": 6257,
+        "pararel_idx": 13848,
+        "requested_rewrite": {
+            "prompt": "{} 在演奏",
+            "relation_id": "P1303",
+            "target_new": {
+                "str": "吉他",
+                "id": "Q6607"
+            },
+            "target_true": {
+                "str": "钢琴",
+                "id": "Q5994"
+            },
+            "subject": "约翰内斯·勃拉姆斯"
+        },
+        "paraphrase_prompts": [
+            "约翰内斯·勃拉姆斯，这位",
+            "约翰内斯·勃拉姆斯演奏"
+        ],
+        "neighborhood_prompts": [
+            "康拉德·汉森在演奏",
+            "玛格达莱娜·托拉在演奏",
+            "英格丽德·海布勒，这位",
+            "埃尔温·舒尔霍夫演奏",
+            "埃尔温·舒尔霍夫演奏",
+            "玛格达莱娜·托拉，正在演奏",
+            "格茨·阿尔斯曼在演奏",
+            "卡尔·阿道夫·马蒂恩森演奏乐器",
+            "尼古拉·里姆斯基-科萨科夫演奏",
+            "约瑟夫·菲施霍夫，正在演奏"
+        ]
+    },
+    {
+        "case_id": 15651,
+        "pararel_idx": 2735,
+        "requested_rewrite": {
+            "prompt": "{}的母语是",
+            "relation_id": "P103",
+            "target_new": {
+                "str": "意大利语",
+                "id": "Q652"
+            },
+            "target_true": {
+                "str": "法语",
+                "id": "Q150"
+            },
+            "subject": "雅克·图邦"
+        },
+        "paraphrase_prompts": [
+            "雅克·图邦，讲的是",
+            "雅克·图邦说的语言"
+        ],
+        "neighborhood_prompts": [
+            "米歇尔·罗卡尔是母语为",
+            "奥克塔夫·米尔博，讲的是",
+            "奥克塔夫·米尔博说的语言",
+            "让·奥古斯特·多米尼克·安格尔，母语为",
+            "雷蒙·巴尔说的语言",
+            "雅克·沙邦-戴尔马，母语为",
+            "罗伯特·舒曼，讲的是",
+            "路易·安托万·德·圣茹斯特说的语言",
+            "埃利泽·雷克吕的母语是",
+            "让·奥古斯特·多米尼克·安格尔说的语言"
+        ]
+    },
+    {
+        "case_id": 4734,
+        "pararel_idx": 15672,
+        "requested_rewrite": {
+            "prompt": "{}, 始于",
+            "relation_id": "P740",
+            "target_new": {
+                "str": "蒙特利尔",
+                "id": "Q340"
+            },
+            "target_true": {
+                "str": "伦敦",
+                "id": "Q84"
+            },
+            "subject": "标准银行"
+        },
+        "paraphrase_prompts": [
+            "标准银行，创建于",
+            "标准银行起源于"
+        ],
+        "neighborhood_prompts": [
+            "Haken，创建于",
+            "Haken形成于",
+            "Current 93，形成于",
+            "Babyshambles形成于",
+            "英国海外航空公司成立于",
+            "Beady Eye始于",
+            "Madness，始于",
+            "The KLF形成于",
+            "Morcheeba形成于",
+            "Public Image Ltd.，成立于"
+        ]
+    },
+    {
+        "case_id": 20154,
+        "pararel_idx": 6184,
+        "requested_rewrite": {
+            "prompt": "{}被称为之后",
+            "relation_id": "P138",
+            "target_new": {
+                "str": "里士满",
+                "id": "Q1012076"
+            },
+            "target_true": {
+                "str": "荷兰",
+                "id": "Q102911"
+            },
+            "subject": "南荷兰省"
+        },
+        "paraphrase_prompts": [
+            "南荷兰省以",
+            "南荷兰省，以"
+        ],
+        "neighborhood_prompts": [
+            "1132 Hollandia，以",
+            "Waterschap Hollandse Delta，以",
+            "Holandská 以",
+            "Hollandscheveld 以",
+            "Holandská，以",
+            "荷兰，以",
+            "北荷兰省，以",
+            "Hollandscheveld，以",
+            "Holandská 以",
+            "Holandská，被称为之后"
+        ]
+    },
+    {
+        "case_id": 1465,
+        "pararel_idx": 18015,
+        "requested_rewrite": {
+            "prompt": "{} 用",
+            "relation_id": "P1412",
+            "target_new": {
+                "str": "法语",
+                "id": "Q150"
+            },
+            "target_true": {
+                "str": "葡萄牙语",
+                "id": "Q5146"
+            },
+            "subject": "米亚·科托"
+        },
+        "paraphrase_prompts": [
+            "米亚·科托说",
+            "米亚·科托使用的语言是"
+        ],
+        "neighborhood_prompts": [
+            "卢塞罗说",
+            "赫雷尔霍·戈麦斯说",
+            "拉菲尼亚说的语言是",
+            "赫雷尔霍·戈麦斯说的语言是",
+            "弗朗西斯科·戈麦斯·德·阿莫林使用的语言是",
+            "劳尔·梅雷莱斯使用的语言是",
+            "佩德罗·阿尔瓦雷斯·卡布拉尔说的语言是",
+            "尼尔森·皮奎特说",
+            "拉菲尼亚用",
+            "泽卡·帕戈迪尼奥说"
+        ]
+    },
+    {
+        "case_id": 4593,
+        "pararel_idx": 928,
+        "requested_rewrite": {
+            "prompt": "{}的官方语言是",
+            "relation_id": "P37",
+            "target_new": {
+                "str": "中文",
+                "id": "Q7850"
+            },
+            "target_true": {
+                "str": "芬兰语",
+                "id": "Q1412"
+            },
+            "subject": "Kalajoki"
+        },
+        "paraphrase_prompts": [
+            "在Kalajoki，使用的语言是",
+            "Kalajoki的法律宣布的语言是"
+        ],
+        "neighborhood_prompts": [
+            "在Loimaa，使用的语言是",
+            "Pudasjärvi的法律宣布的语言是",
+            "Vihti的法律宣布的语言是",
+            "Viitasaari的官方语言是",
+            "Inari的官方语言是",
+            "在Keuruu，他们理解",
+            "在Laitila，使用的语言是",
+            "Pudasjärvi的官方语言是",
+            "在Vihti，他们理解",
+            "在Laitila，他们理解"
+        ]
+    },
+    {
+        "case_id": 20526,
+        "pararel_idx": 14947,
+        "requested_rewrite": {
+            "prompt": "{}的姐妹城市是",
+            "relation_id": "P190",
+            "target_new": {
+                "str": "马德里",
+                "id": "Q2807"
+            },
+            "target_true": {
+                "str": "安卡拉",
+                "id": "Q3640"
+            },
+            "subject": "曼谷"
+        },
+        "paraphrase_prompts": [
+            "曼谷的姐妹城市是哪个？它是",
+            "曼谷是一个姐妹城市，与"
+        ],
+        "neighborhood_prompts": [
+            "基希讷乌的姐妹城市是",
+            "努尔苏丹的姐妹城市是",
+            "索菲亚的姐妹城市是",
+            "首尔的姐妹城市是",
+            "第比利斯的姐妹城市是",
+            "布达佩斯的姐妹城市是哪个？它是",
+            "吉隆坡是一个姐妹城市，与",
+            "莫斯科的姐妹城市是",
+            "安曼的姐妹城市是哪个？它是",
+            "华盛顿特区的姐妹城市是"
+        ]
+    },
+    {
+        "case_id": 3565,
+        "pararel_idx": 2591,
+        "requested_rewrite": {
+            "prompt": "{}的母语是",
+            "relation_id": "P103",
+            "target_new": {
+                "str": "俄语",
+                "id": "Q7737"
+            },
+            "target_true": {
+                "str": "法语",
+                "id": "Q150"
+            },
+            "subject": "路易·朱尔·特罗胥"
+        },
+        "paraphrase_prompts": [
+            "路易·朱尔·特罗胥的母语是",
+            "路易·朱尔·特罗胥，母语"
+        ],
+        "neighborhood_prompts": [
+            "孟德斯鸠的母语是",
+            "乔治·杜阿梅尔，讲",
+            "路易·安托万·德·圣茹斯特讲的语言",
+            "弗雷德里克·巴斯夏的母语是",
+            "雷蒙·巴尔，母语",
+            "奥克塔夫·米尔博的母语是",
+            "莫里斯·热纳瓦，母语",
+            "弗朗索瓦·贝鲁的母语是",
+            "莱昂·布鲁姆，讲",
+            "雅克·沙邦-戴尔马讲的语言"
+        ]
+    },
+    {
+        "case_id": 12095,
+        "pararel_idx": 8379,
+        "requested_rewrite": {
+            "prompt": "{} 持有来自",
+            "relation_id": "P27",
+            "target_new": {
+                "str": "波兰",
+                "id": "Q36"
+            },
+            "target_true": {
+                "str": "日本",
+                "id": "Q17"
+            },
+            "subject": "岩尾幸美"
+        },
+        "paraphrase_prompts": [
+            "\" 岩尾幸美, 持有来自",
+            "岩尾幸美, 一位来自的公民"
+        ],
+        "neighborhood_prompts": [
+            "北野武, 持有来自",
+            "与谢芜村, 是一位来自的公民",
+            "岸本正史持有来自",
+            "三石琴乃是一位来自的公民",
+            "葛饰北斋, 持有来自",
+            "室伏广治是一位来自的公民",
+            "室伏广治, 持有来自",
+            "原田真人持有来自",
+            "JUJU持有来自",
+            "室伏广治持有来自"
+        ]
+    },
+    {
+        "case_id": 5840,
+        "pararel_idx": 14784,
+        "requested_rewrite": {
+            "prompt": "{}的姐妹城市是",
+            "relation_id": "P190",
+            "target_new": {
+                "str": "上海",
+                "id": "Q8686"
+            },
+            "target_true": {
+                "str": "东京",
+                "id": "Q1490"
+            },
+            "subject": "雅加达"
+        },
+        "paraphrase_prompts": [
+            "雅加达的姐妹城市是",
+            "雅加达的姐妹城市是什么？它是"
+        ],
+        "neighborhood_prompts": [
+            "新德里的姐妹城市是",
+            "莫斯科的姐妹城市是什么？它是",
+            "新德里的姐妹城市是什么？它是",
+            "开罗省的姐妹城市是",
+            "大马士革的姐妹城市是",
+            "大马士革的姐妹城市是什么？它是",
+            "大伦敦的姐妹城市是什么？它是",
+            "安曼的姐妹城市是什么？它是",
+            "新南威尔士的姐妹城市是什么？它是",
+            "安曼的姐妹城市是"
+        ]
+    },
+    {
+        "case_id": 283,
+        "pararel_idx": 13192,
+        "requested_rewrite": {
+            "prompt": "{}的首都是",
+            "relation_id": "P36",
+            "target_new": {
+                "str": "伦敦",
+                "id": "Q84"
+            },
+            "target_true": {
+                "str": "麦地那",
+                "id": "Q35484"
+            },
+            "subject": "麦地那地区"
+        },
+        "paraphrase_prompts": [
+            "麦地那地区的首府城市是",
+            "麦地那地区的首都是"
+        ],
+        "neighborhood_prompts": [
+            "麦地那省的首府城市,",
+            "麦地那省的首都是",
+            "拉希德哈里发的首府城市是",
+            "穆罕默德在麦地那的首府城市,",
+            "麦地那社区的首都是",
+            "麦地那社区,其首府城市是",
+            "麦地那省,其首府城市是",
+            "麦地那省的首府,",
+            "拉希德哈里发,其首都是",
+            "拉希德哈里发的首都是"
+        ]
+    },
+    {
+        "case_id": 21144,
+        "pararel_idx": 719,
+        "requested_rewrite": {
+            "prompt": "在{}，官方语言是",
+            "relation_id": "P37",
+            "target_new": {
+                "str": "德语",
+                "id": "Q188"
+            },
+            "target_true": {
+                "str": "俄语",
+                "id": "Q7737"
+            },
+            "subject": "莫斯科大公国"
+        },
+        "paraphrase_prompts": [
+            "在莫斯科大公国，他们理解",
+            "莫斯科大公国的官方语言是"
+        ],
+        "neighborhood_prompts": [
+            "在Idyash，使用的语言是",
+            "在Bogdanovka，他们理解",
+            "在Verkhnyaya Bikberda，他们理解",
+            "Kalimullino的法律宣布的语言是",
+            "Idyash的官方语言是",
+            "Ivano-Kuvalat的法律宣布的语言是",
+            "在Kalimullino，官方语言是",
+            "在Utyagulovo，他们理解",
+            "在Umbetovo，官方语言是",
+            "Novopavlovka的法律宣布的语言是"
+        ]
+    },
+    {
+        "case_id": 18958,
+        "pararel_idx": 14447,
+        "requested_rewrite": {
+            "prompt": "{} 出生于",
+            "relation_id": "P19",
+            "target_new": {
+                "str": "普利茅斯",
+                "id": "Q43382"
+            },
+            "target_true": {
+                "str": "巴黎",
+                "id": "Q90"
+            },
+            "subject": "菲利普·德·布罗卡"
+        },
+        "paraphrase_prompts": [
+            "菲利普·德·布罗卡的原籍是",
+            "菲利普·德·布罗卡起源于"
+        ],
+        "neighborhood_prompts": [
+            "查尔斯·雅克的原籍是",
+            "查尔斯-让-弗朗索瓦·埃诺起源于",
+            "路易斯-奥古斯特·比松的原籍是",
+            "波琳·维亚多的原籍是",
+            "弗朗茨·西奥多·多夫莱因出生于",
+            "路易斯-奥古斯特·比松最初来自",
+            "亨利·E·西格里斯特起源于",
+            "波琳·维亚多的原籍是",
+            "玛丽-吉勒米娜·伯努瓦起源于",
+            "查尔斯·雅克的原籍是"
+        ]
+    },
+    {
+        "case_id": 11790,
+        "pararel_idx": 22886,
+        "requested_rewrite": {
+            "prompt": "{} 工作于",
+            "relation_id": "P937",
+            "target_new": {
+                "str": "维也纳",
+                "id": "Q1741"
+            },
+            "target_true": {
+                "str": "柏林",
+                "id": "Q64"
+            },
+            "subject": "保罗·舒尔茨-瑙姆堡"
+        },
+        "paraphrase_prompts": [
+            "保罗·舒尔茨-瑙姆堡工作于城市",
+            "保罗·舒尔茨-瑙姆堡受雇于"
+        ],
+        "neighborhood_prompts": [
+            "安德烈娅·纳勒斯受雇于",
+            "罗伯特·冯·莫尔受雇于",
+            "赫尔曼·乌泽纳受雇于",
+            "汉斯·F·K·金特工作于",
+            "恩斯特二世，霍恩洛厄-朗根堡亲王受雇于",
+            "乌尔里希·维尔肯受雇于",
+            "马克斯·拉贝受雇于",
+            "海因里希·埃瓦尔德曾工作于",
+            "雅各布·凯泽工作于",
+            "赫尔曼·乌泽纳开始工作于"
+        ]
+    },
+    {
+        "case_id": 6175,
+        "pararel_idx": 7659,
+        "requested_rewrite": {
+            "prompt": "{}, the",
+            "relation_id": "P413",
+            "target_new": {
+                "str": "中场",
+                "id": "Q193592"
+            },
+            "target_true": {
+                "str": "守门员",
+                "id": "Q1317534"
+            },
+            "subject": "马克·菲茨帕特里克"
+        },
+        "paraphrase_prompts": [
+            "马克·菲茨帕特里克打什么位置？他们打的位置是",
+            "马克·菲茨帕特里克打的位置是"
+        ],
+        "neighborhood_prompts": [
+            "瓦西里·科舍奇金打的位置是",
+            "伊戈尔·博布科夫打的位置是",
+            "罗尔夫·里德瓦尔打什么位置？他们打的位置是",
+            "亚历山大·福米切夫，这位",
+            "雅各布·马克斯特伦打的位置是",
+            "泽农·科诺普卡打的位置是",
+            "赫尔穆特·德·拉夫打什么位置？他们打的位置是",
+            "帕特·鲁普打的位置是",
+            "赫尔穆特·德·拉夫，这位",
+            "伯恩德·布鲁克勒，这位"
+        ]
+    },
+    {
+        "case_id": 19110,
+        "pararel_idx": 20840,
+        "requested_rewrite": {
+            "prompt": "{}的总部位于",
+            "relation_id": "P159",
+            "target_new": {
+                "str": "慕尼黑",
+                "id": "Q1726"
+            },
+            "target_true": {
+                "str": "布莱顿",
+                "id": "Q131491"
+            },
+            "subject": "肥猫唱片"
+        },
+        "paraphrase_prompts": [
+            "肥猫唱片的总部位于",
+            "肥猫唱片的总部设在"
+        ],
+        "neighborhood_prompts": [
+            "Relentless Software的总部位于",
+            "The Student Room的总部位于",
+            "Tru Thoughts的总部位于",
+            "BossAlien的总部位于",
+            "Tru Thoughts的总部设在",
+            "Brandwatch的总部位于",
+            "FatCat Records的总部位于",
+            "Brighton Energy Co-operative的总部位于",
+            "FatCat Records的总部位于",
+            "Brighton Energy Co-operative的总部位于"
+        ]
+    },
+    {
+        "case_id": 8911,
+        "pararel_idx": 7446,
+        "requested_rewrite": {
+            "prompt": "{}, 打的位置是",
+            "relation_id": "P413",
+            "target_new": {
+                "str": "中场",
+                "id": "Q193592"
+            },
+            "target_true": {
+                "str": "四分卫",
+                "id": "Q622747"
+            },
+            "subject": "丹尼斯·肖"
+        },
+        "paraphrase_prompts": [
+            "丹尼斯·肖，这位",
+            "丹尼斯·肖打的位置是"
+        ],
+        "neighborhood_prompts": [
+            "埃德加·爱伦·坡，打的位置是",
+            "泰罗德·泰勒打的位置是",
+            "亚伦·布鲁克斯打的位置是",
+            "拜伦·莱夫特维奇打什么位置？他们打的位置是",
+            "查理·康纳利打什么位置？他们打的位置是",
+            "布莱恩·格里塞打的位置是",
+            "杰森·加勒特打的位置是",
+            "乔什·麦考恩打什么位置？他们打的位置是",
+            "特洛伊·史密斯，这位",
+            "塞内卡·华莱士，这位"
+        ]
+    },
+    {
+        "case_id": 4151,
+        "pararel_idx": 3613,
+        "requested_rewrite": {
+            "prompt": "{}, 由",
+            "relation_id": "P176",
+            "target_new": {
+                "str": "菲亚特",
+                "id": "Q27597"
+            },
+            "target_true": {
+                "str": "本田",
+                "id": "Q9584"
+            },
+            "subject": "讴歌EL"
+        },
+        "paraphrase_prompts": [
+            ") 讴歌EL是的产品",
+            "讴歌EL, 由开发"
+        ],
+        "neighborhood_prompts": [
+            "本田Quint由开发",
+            "本田NSR75, 由生产",
+            "本田Rafaga, 由创建",
+            "本田CB650SC由创建",
+            "本田Silver Wing由创建",
+            "本田Aviator, 由开发",
+            "本田Bravo是的产品",
+            "本田Mobilio Spike由创建",
+            "本田Passport, 由生产",
+            "本田CB650SC由开发"
+        ]
+    },
+    {
+        "case_id": 16075,
+        "pararel_idx": 400,
+        "requested_rewrite": {
+            "prompt": "{}, 担任的职位是",
+            "relation_id": "P39",
+            "target_new": {
+                "str": "主教",
+                "id": "Q29182"
+            },
+            "target_true": {
+                "str": "枢机主教",
+                "id": "Q45722"
+            },
+            "subject": "约瑟夫·伯纳丁"
+        },
+        "paraphrase_prompts": [
+            "约瑟夫·伯纳丁, 担任的职位是",
+            "约瑟夫·伯纳丁是一位"
+        ],
+        "neighborhood_prompts": [
+            "英诺森十世担任的职位是",
+            "英诺森十世的职位是",
+            "格里高利二世担任的职位是",
+            "博尼法斯二世, 担任的职位是",
+            "梅尔基奥尔·克莱斯尔担任的职位是",
+            "亚历山大八世, 担任的职位是",
+            "格里高利二世担任的职位是",
+            "查尔斯·朱尔内的职位是",
+            "约翰·鲁道夫·库奇克尔的头衔是",
+            "加斯帕德·梅尔米洛德是一位"
+        ]
+    },
+    {
+        "case_id": 14271,
+        "pararel_idx": 7082,
+        "requested_rewrite": {
+            "prompt": "{}, 位于",
+            "relation_id": "P17",
+            "target_new": {
+                "str": "希腊",
+                "id": "Q41"
+            },
+            "target_true": {
+                "str": "印度",
+                "id": "Q668"
+            },
+            "subject": "贝拉尔省"
+        },
+        "paraphrase_prompts": [
+            "贝拉尔省位于这个国家",
+            "贝拉尔省，位于"
+        ],
+        "neighborhood_prompts": [
+            "卡达帕区，位于",
+            "普拉卡萨姆区，位于",
+            "坦贾武尔区，位于",
+            "坦贾武尔区位于这个国家",
+            "克里希纳区，位于",
+            "斯里波蒂斯里拉穆卢内洛尔区，位于",
+            "东戈达瓦里区，位于",
+            "奇图尔区，位于",
+            "安南塔普拉姆区位于这个国家",
+            "纳尔贡达区，位于"
+        ]
+    },
+    {
+        "case_id": 14130,
+        "pararel_idx": 5385,
+        "requested_rewrite": {
+            "prompt": "{}, 位于",
+            "relation_id": "P30",
+            "target_new": {
+                "str": "欧洲",
+                "id": "Q46"
+            },
+            "target_true": {
+                "str": "南极洲",
+                "id": "Q51"
+            },
+            "subject": "尤尔湾"
+        },
+        "paraphrase_prompts": [
+            "尤尔湾属于哪个大陆",
+            "尤尔湾位于"
+        ],
+        "neighborhood_prompts": [
+            "彼得一世岛位于",
+            "罗斯属地位于",
+            "阿黛利地所在的大陆",
+            "东方站所在的大陆",
+            "威德尔海位于",
+            "东方站, 位于",
+            "毛德皇后地是哪个大陆的一部分",
+            "南极条约体系位于",
+            "阿黛利地, 位于",
+            "威德尔海位于"
+        ]
+    },
+    {
+        "case_id": 21561,
+        "pararel_idx": 3802,
+        "requested_rewrite": {
+            "prompt": "{}, 由",
+            "relation_id": "P176",
+            "target_new": {
+                "str": "索尼",
+                "id": "Q41187"
+            },
+            "target_true": {
+                "str": "苹果",
+                "id": "Q312"
+            },
+            "subject": "iTunes Remote"
+        },
+        "paraphrase_prompts": [
+            "iTunes Remote, 由开发",
+            "iTunes Remote 由创建"
+        ],
+        "neighborhood_prompts": [
+            "iPad 由生产",
+            "iPhone 7 Plus 由创建",
+            "iPhone SE (第二代), 由开发",
+            "iPhone 12 Pro, 由创建",
+            "iPhone XS Max 由创建",
+            "iPhone 11 由生产",
+            "iPhone X, 由创建",
+            "iPhone XS Max 由生产",
+            "iPhone X 由创建",
+            "iPhone XS Max, 由开发"
+        ]
+    }
+]
